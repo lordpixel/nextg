@@ -1,0 +1,10 @@
+<table>
+    <thead>       
+        <query-token
+        *ngFor="let column of columns"
+        [attribute]="column.attribute"
+        [label]="column.label"
+        [isFiltered]="column.isFiltered">
+        </query-token>
+    </thead>
+</table>

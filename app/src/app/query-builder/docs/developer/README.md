@@ -6,7 +6,7 @@ QueryBuilder is an Angular Moduled generated using Angular's CLI. CLI was used t
 
 This App uses a local backend built in Hapi.js, you need to run this in paralel to the Angular App.
 
-### Angular App
+### Hapi API
 1. `cd server`
 1. `npm install`
 2. `npm run dev`

@@ -1,6 +1,6 @@
 # Content requirements
 
-The following is a list of Content Requirements for the PoC:
+The following is a list of Content Requirements for QueryBuilder:
 
 - car metadata
 

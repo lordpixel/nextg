@@ -10,24 +10,32 @@ The QueryBuilder service keeps information about:
 It exposes the `setFilter` function to update filters.
 
 ```
-         +-------------------------+
-         |  Query Builder Service  |
-         +------------+------------+
-                      |
-                      | exposes
-                      |
-         +------------+-------------+
-         |            |             |
-Behabior | Subject    |    Behabior | Subject
-         |            |             |
-    +----+---+        |      +------+------+
-    | query$ |        |      |   filter$   |
-    +--------+        |      +-------------+
-                      |
-                      | function
-               +------+-------+
-               |  setFilter() |
-               +--------------+
+                      +-------------------------+
+                      |  Query Builder Service  |
+                      +------------+------------+
+                                   |
+                                   | exposes
+                                   |
+         +-------------------------+------------------------------+
+         |                         |                              |
+Behabior | Subject                 |                     Behabior | Subject
+         v                         |                              v
+    +----+---+                     |                       +------+------+
+    | query$ |                     |                       |   filter$   +
+    +---+----+                     |                       +------+------+
+        ^                          |                              ^
+        |                          |                              |
+        |                   +------+-------+                      | 
+        |                   |  setFilter() |                      |
+        |                   +------+-------+                      | subscribes to
+        |                          ^                              |
+        |                          |           triggers  +--------+--------+
+        |                          +---------------------+ <query-token /> |
+        | subscribes to                                  +-----------------+
+        |                                                         ^
+   +----+---------------+   renders                               |
+   |  <query-builder /> +-----------------------------------------+
+   +--------------------+
 ```
 
 

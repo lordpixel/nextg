@@ -1,4 +1,4 @@
-# Type-ahead PoC
+# QueryBuilder PoC
 
 This is a proof of concept on how to build a dynamic query builder to filter tables with the following features:
 
@@ -11,4 +11,4 @@ This is a proof of concept on how to build a dynamic query builder to filter tab
 - [Docs](./docs/README.md)
 - [UX](./docs/ux/user.experience.md)
 - [ADR](./docs/adr/README.md)
-- [Developer](./docs/developer/README.md)
+- [DEV](./docs/developer/README.md)

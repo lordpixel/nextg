@@ -1,0 +1,15 @@
+<ng-container *ngIf="type === 'text'">
+    {{value}}
+</ng-container>
+
+<ng-container *ngIf="type === 'boolean'">
+    <input type="checkbox" [checked]="value" disabled />
+</ng-container>
+
+<ng-container *ngIf="type === 'icon'">
+    <img class="icon" [src]="'/assets/img/' + value + '.svg'" />
+</ng-container>
+
+<ng-container *ngIf="type === 'empty'">
+    &nbsp;
+</ng-container>

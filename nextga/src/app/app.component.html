@@ -1,0 +1,11 @@
+<table conti-table
+    [columns]="contiColumns"
+    [data]="data"
+    [totalCount]=100
+    idProperty="objectId"
+    [isSelectable]="true"
+    isSortable
+    (onSelection)="handleSelectionChange($event)"
+    (onQueryUpdate)="handleQueryUpdate($event)"
+></table>
+<router-outlet></router-outlet>

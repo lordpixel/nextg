@@ -1,0 +1,7 @@
+<tr table-row
+    *ngFor="let record of data"
+    [idProperty]="idProperty"
+    [isSelectable]="isSelectable"
+    [columns]="getVisibleColumns()"
+    [record]="record"
+></tr>

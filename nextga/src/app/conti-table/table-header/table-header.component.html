@@ -1,0 +1,10 @@
+<th *ngIf="isSelectable">
+    <br>
+    <selection-toggle [isMaster]="true" type="checkbox" ></selection-toggle>
+</th>
+<th *ngFor="let column of columns">
+    <div>
+        {{column.label}} <sort-input [attribute]="column.attribute"></sort-input>
+    </div>
+    <filter-input [attribute]="column.attribute" ></filter-input>
+</th>

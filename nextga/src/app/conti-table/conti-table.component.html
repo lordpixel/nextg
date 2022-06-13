@@ -1,0 +1,17 @@
+
+<thead table-header
+    [columns]="getVisibleColumns()"
+    [recordsetIDs]="extractRecordsetIDs()"
+    [isSelectable]="isSelectable"
+    >
+</thead>
+
+<caption pagination></caption >
+
+<tbody table-body
+    [columns]="columns"
+    [data]="data"
+    [idProperty]="idProperty"
+    [isSelectable]="isSelectable"
+    >
+</tbody >

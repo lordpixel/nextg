@@ -1,0 +1,23 @@
+:host {
+    position: relative;
+    top: 0;
+
+    div {
+        margin: 0.5rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        div {
+            display: flex;
+            
+            label {
+                margin: 0 1rem 0 0;
+            }
+
+            label:nth-last-child(1) {
+                margin: 0;
+            }
+        }
+    }
+}

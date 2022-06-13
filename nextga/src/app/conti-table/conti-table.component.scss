@@ -1,0 +1,8 @@
+:host {
+  &.conti-table {
+    width: calc(100% - 2rem);
+    margin: 1rem;
+
+    border-collapse: collapse;
+  }
+}

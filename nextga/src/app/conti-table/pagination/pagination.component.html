@@ -1,0 +1,23 @@
+<div>
+    Displaying 10 of 100 Vehicles
+    <div>
+        <label>
+            page: 
+            <select (change)="handlePageSelect($event)" [value]="page">
+                <option id="1">1</option>
+                <option id="2">2</option>
+                <option id="3">3</option>
+                <option id="4">4</option>
+            </select>
+        </label>
+        <label>
+            Per page: 
+            <select (change)="handlePageSizeSelect($event)" [value]="page_size">
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+        </label>
+    </div>
+</div>

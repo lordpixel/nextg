@@ -61,14 +61,10 @@ export class FilterInputComponent implements AfterViewInit {
   }
 
   handleInputEvent = (newValue: any) => {
-    console.log('handleInputEvent:', newValue);
-
     this.table.setFilters(this.attribute, newValue);
   }
 
   handleFilterUpdate = (filters: IUnknownObject) => {
-    console.log('handleFilterUpdate:', filters);
-
     this.value = filters[this.attribute];
   }
 

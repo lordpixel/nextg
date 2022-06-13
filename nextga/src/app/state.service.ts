@@ -33,7 +33,6 @@ export class StateService {
    * 
    * @param query The query string to be included in the call */
   updateCars(query?: string) {
-    console.log('updateCars', query)
     this.http.get(`http://localhost:8080/cars${query ? `?${query}` : ''}`).subscribe((response) => {
       this._cars.next(response as ICar[]);
     });

@@ -67,8 +67,6 @@ export class TableService {
     const filters = this._filter.getValue();
     const page = this._page.getValue();
     const sort = this._sort.getValue();
-
-    debugger;
     let query = '';
 
     // filters
@@ -84,7 +82,6 @@ export class TableService {
       }
     }
 
-    debugger;
     // pagination
     if (page.page && page.page_size) {
       if (query === "") {
@@ -129,7 +126,6 @@ export class TableService {
   }
 
   setPage(page?: number, page_size?: number, skipQuery: boolean = false) {
-    console.log('setPage: ', page, page_size);
 
     // publish page state update
     this._page.next({
@@ -145,12 +141,19 @@ export class TableService {
   }
 
   setSort(sort_by: string, sort_order: ESortOrder | undefined, skipQuery: boolean = false) {
+    let newSortState = {};
+
     // publish page state update
-    this._sort.next({
+    if (!sort_by || !sort_order) {
+      this._sort.next({});
+    } else {
+      this._sort.next({
         sort_by,
         sort_order,
-      }
-    );
+      });
+
+      skipQuery = false;
+    }
 
     if (!skipQuery) {
       // generate and publush query string updaet

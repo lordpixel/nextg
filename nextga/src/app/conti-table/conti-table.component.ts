@@ -11,7 +11,11 @@ import { TableService } from './table-service';
   providers: [TableService]
 })
 export class ContiTableComponent implements OnInit, OnDestroy {
-  
+ 
+  /**
+   * this binds the pagination css class to the host elem */
+  @HostBinding('class') className: string = "conti-table";
+
   /**
    * Columns
    * 
@@ -23,13 +27,6 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * 
    * A collection of records to render as rows */
   @Input() data: IUnknownObject[] = [];
-
-  /**
-   * Total count
-   * 
-   * The number of records returned by the query.
-   * Note: this count is not the same as page_size. */
-  @Input() totalCount: number = 0;
 
   /**
    * ID property
@@ -60,7 +57,7 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * Initial sort
    * 
    * Use this to intialize Table with predefined sorting */
-  @Input() initialSort: ISortState[] = [];
+  @Input() initialSort: ISortState = {};
 
   /**
    * Is selectable
@@ -68,8 +65,20 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * Specifies if the table allows record selection */
   @Input() isSelectable: boolean = false;
 
+  /**
+   * The model name in singular mode */
+  @Input() modelSingular: string = 'Record';
 
-  @HostBinding('class') className: string = "conti-table";
+  /**
+   * The model name in plural mode */
+  @Input() modelPlural: string = 'Records';
+
+  /**
+   * Total count
+   * 
+   * The number of records returned by the query.
+   * Note: this count is not the same as page_size. */
+  @Input() total: number = 0;
 
   /**
    * onSelection()
@@ -94,13 +103,18 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit(): void {
+
+    /**
+     * sets default + initial states */
     this.table.hydrate({
+      filters: {...this.initialFilter},
       page: {
         page: 1,
         page_size: 100,
+        ...this.initialPage,
       },
-      sort: {
-      }
+      sort: this.initialSort,
+      selection: [...this.initialSelection],
     });
   }
   

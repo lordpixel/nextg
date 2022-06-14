@@ -104,7 +104,8 @@ export class AppComponent implements OnInit{
   ];
 
   selection: string[] = [];
-
+  total: number = 0;
+  
   constructor(private state: StateService) {
     this.state.cars$.subscribe((newData) => this.data = newData);
   }
@@ -113,7 +114,7 @@ export class AppComponent implements OnInit{
   }
 
   handleQueryUpdate(query: string) {
-    this.state.updateCars(query);
+    this.state.fetchData.emit(query);
   }
 
   handleSelectionChange(newSelection: string[]) {

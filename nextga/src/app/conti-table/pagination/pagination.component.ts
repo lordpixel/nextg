@@ -1,4 +1,4 @@
-import { Component, HostBinding, OnInit } from '@angular/core';
+import { Component, HostBinding, Input, OnInit } from '@angular/core';
 import { Subscription } from 'rxjs';
 import { IPaginationState } from '../conti-table.types';
 import { TableService } from '../table-service';
@@ -9,8 +9,29 @@ import { TableService } from '../table-service';
   styleUrls: ['./pagination.component.scss']
 })
 export class PaginationComponent implements OnInit {
-  
-  @HostBinding('class.pagination') className: string = "pagination";
+
+  /**
+   * this binds the pagination css class to the host elem */
+  @HostBinding('class.pagination') className: string = 'pagination';
+
+  /**
+   * Columns
+   * 
+   * A list of objects describing each column */
+  @Input() count: number = 0;
+
+  /**
+   * The model name in singular mode */
+  @Input() modelSingular: string = 'Record';
+
+  /**
+   * The model name in plural mode */
+  @Input() modelPlural: string = 'Records';
+
+  /**
+   * The number of records returned by the query.
+   * Note: this count is not the same as page_size. */
+  @Input() total: number = 0;
 
   page: number | undefined = 0;
   page_size: number | undefined = 10;

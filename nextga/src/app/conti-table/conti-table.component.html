@@ -6,8 +6,18 @@
     >
 </thead>
 
-<caption pagination></caption >
+<caption pagination
+    [count]="data.length"
+    [modelSingular]="modelSingular"
+    [modelPlural]="modelPlural"
+    [total]="total">
+</caption >
 
+<tbody *ngIf="!data || data.length === 0">
+    <tr>
+        <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">{{!data.length ? 'Loading...' : 'No Data'}}</td>
+    </tr>
+</tbody>
 <tbody table-body
     [columns]="columns"
     [data]="data"

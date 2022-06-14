@@ -7,6 +7,7 @@
     "dev:tsc": "tsc --watch -p .",
     "dev:serve": "nodemon -e js -w dist dist/main.js",
     "dev": "run-p dev:*",
+    "debug": "node --inspect-brk dist/main.js",
     "test": "NODE_ENV=test mocha -r ts-node/register test/**/*.test.ts"
   },
   "author": "",

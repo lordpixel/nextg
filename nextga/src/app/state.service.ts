@@ -1,10 +1,12 @@
-import { Injectable } from '@angular/core';
+import { EventEmitter, Injectable } from '@angular/core';
 
-import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http';
-import { BehaviorSubject, Observable, throwError } from 'rxjs';
-import { catchError, map, shareReplay } from 'rxjs/operators';
+import { HttpClient } from '@angular/common/http';
+import { BehaviorSubject } from 'rxjs';
+import { shareReplay, debounceTime, distinctUntilChanged, switchMap } from 'rxjs/operators';
 
 import {ICar} from './app.types';
+
+const baseURL: string = 'http://localhost:8080/cars';
 
 /**
  * State service
@@ -24,17 +26,16 @@ export class StateService {
     shareReplay(1) // cache and share among subscribers
   );
 
-  constructor(private http: HttpClient) { 
-    this.updateCars();
-  }
+  public fetchData: EventEmitter<string> = new EventEmitter(true);
 
-  /**
-   * Invokes the Ednpoint to get data
-   * 
-   * @param query The query string to be included in the call */
-  updateCars(query?: string) {
-    this.http.get(`http://localhost:8080/cars${query ? `?${query}` : ''}`).subscribe((response) => {
-      this._cars.next(response as ICar[]);
-    });
+  constructor(private http: HttpClient) {
+    this.fetchData.pipe(
+      distinctUntilChanged(),
+      switchMap(
+        (query: string) => this.http.get(`${baseURL}${query ? `?${query}` : ''}`)
+      )
+    ).subscribe(
+      (response) => this._cars.next(response as ICar[])
+    );
   }
 }

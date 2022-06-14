@@ -20,13 +20,37 @@ const route = {
     path: '/cars',
     options: {
         handler: function (request, h) {
-            const query = request.query;
-            const { sort_by, sort_order, page, page_size } = query, filters = __rest(query, ["sort_by", "sort_order", "page", "page_size"]);
-            let filteredCars = [...cars_fixture_1.default]; // use aa copy instead of the original
+            const query = request.query || {};
+            debugger;
+            const { sort_by, sort_order } = query, filters = __rest(query, ["sort_by", "sort_order"]);
+            const page = query.page ? parseInt(query.page) : 1;
+            const page_size = query.page_size ? parseInt(query.page_size) : 10;
+            let filteredCars = [...cars_fixture_1.default]; // use a copy instead of the original
             Object.entries(filters).forEach(([token, val]) => {
-                filteredCars = filteredCars.filter((car) => car[token].toString().toLowerCase().startsWith(val.toLowerCase()));
+                filteredCars = filteredCars.filter((car) => car[token]
+                    .toString()
+                    .toLowerCase()
+                    .startsWith(val.toLowerCase()));
             });
-            return h.response(filteredCars);
+            const total = filteredCars.length;
+            // paginate
+            const startIndex = (page_size * page) - page_size;
+            const endIndex = startIndex + page_size;
+            const log = {
+                startIndex,
+                endIndex,
+                page,
+                page_size
+            };
+            filteredCars = filteredCars.slice(startIndex, endIndex);
+            // const response = {
+            //     count:filteredCars.length,
+            //     data: filteredCars,
+            //     total,
+            //     log,
+            //     query
+            // };
+            // return h.response(response);
         },
     }
 };

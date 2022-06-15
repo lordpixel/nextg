@@ -13,11 +13,18 @@
     [total]="total">
 </caption >
 
-<tbody *ngIf="!data || data.length === 0">
+<tbody *ngIf="isLoading" class="message">
     <tr>
-        <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">{{!data.length ? 'Loading...' : 'No Data'}}</td>
+        <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">Loading...</td>
     </tr>
 </tbody>
+
+<tbody *ngIf="!isLoading && !data.length" class="message">
+    <tr>
+        <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">No Data</td>
+    </tr>
+</tbody>
+
 <tbody table-body
     [columns]="columns"
     [data]="data"

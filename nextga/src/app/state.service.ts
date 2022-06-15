@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject } from 'rxjs';
 import { shareReplay, debounceTime, distinctUntilChanged, switchMap } from 'rxjs/operators';
 
-import {ICar} from './app.types';
+import {ICar, ICarEndpointResponse} from './app.types';
 
 const baseURL: string = 'http://localhost:8080/cars';
 
@@ -18,7 +18,7 @@ const baseURL: string = 'http://localhost:8080/cars';
 export class StateService {
   /**
    * Behavior Subject to keep track state */
-   private readonly _cars = new BehaviorSubject<ICar[]>([]);
+   private readonly _cars = new BehaviorSubject<ICarEndpointResponse>({total: 0, data: [], status: 'loading'});
 
   /**
     * Behavior Subject as an Observable */
@@ -35,7 +35,7 @@ export class StateService {
         (query: string) => this.http.get(`${baseURL}${query ? `?${query}` : ''}`)
       )
     ).subscribe(
-      (response) => this._cars.next(response as ICar[])
+      (response: any) => this._cars.next(response)
     );
   }
 }

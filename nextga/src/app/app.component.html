@@ -3,8 +3,11 @@
     [data]="data"
     [total]="total"
     idProperty="objectId"
+    [isLoading]="isLoading"
     [isSelectable]="true"
-    isSortable
+    [isLoading]="isLoading"
+    modelPlural="Vehicles"
+    modelSingular="Vehicle"
     (onSelection)="handleSelectionChange($event)"
     (onQueryUpdate)="handleQueryUpdate($event)"
 ></table>

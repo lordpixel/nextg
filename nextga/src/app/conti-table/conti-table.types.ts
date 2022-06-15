@@ -5,8 +5,8 @@ export interface IUnknownObject {
 }
 
 export interface IPaginationState {
-    page?: number,
-    page_size?: number,
+    page: number,
+    page_size: number,
 }
 
 
@@ -27,6 +27,11 @@ export enum ETableColumType {
     Icon = 'icon',
 }
 
+export interface ISelectOption {
+    label: string,
+    value: any,
+}
+
 export interface ITableColumn {
     attribute: string,
     label?: string,
@@ -35,12 +40,13 @@ export interface ITableColumn {
     isFiltrable?: boolean,
     isHidden?: boolean,
 
+    sortAttribute?: string,
     type: string,
 }
 
 export interface ITableServiceState {
-    filters?: IUnknownObject,
-    page?: IPaginationState,
-    selection?: string[],
-    sort?: ISortState
+    filters: IUnknownObject,
+    page: IPaginationState,
+    selection: string[],
+    sort: ISortState
 }

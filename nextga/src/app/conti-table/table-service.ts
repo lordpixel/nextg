@@ -115,6 +115,13 @@ export class TableService {
       [attribute]: newValue,
     };
 
+    // reset page to 1 (will save us a lot of bugs)
+    const oldPage = this._page.getValue();
+    this._page.next({
+      ...oldPage,
+      page: 1,
+    });
+
     // publish filter state update
     this._filter.next(newFilterState);
 
@@ -125,7 +132,7 @@ export class TableService {
     }
   }
 
-  setPage(page?: number, page_size?: number, skipQuery: boolean = false) {
+  setPage(page: number, page_size: number, skipQuery: boolean = false) {
 
     // publish page state update
     this._page.next({
@@ -141,8 +148,6 @@ export class TableService {
   }
 
   setSort(sort_by: string, sort_order: ESortOrder | undefined, skipQuery: boolean = false) {
-    let newSortState = {};
-
     // publish page state update
     if (!sort_by || !sort_order) {
       this._sort.next({});
@@ -163,38 +168,43 @@ export class TableService {
   }
 
   hydrate(state: ITableServiceState) {
-    const {
-      filters = {},
-      page = {},
-      selection = [],
-      sort = {},
-    } = state;
 
     this._filter.next({});
-    Object.entries(filters).forEach(
+    Object.entries(state.filters || {}).forEach(
       ([attribute, value]) => this.setFilters(attribute, value, true)
     );
 
-    if (page.page || page.page === 0 && page.page_size) {
-      this.setPage(page.page, page.page_size);
+    if (state.page.page || state.page.page === 0 && state.page.page_size) {
+      this.setPage(state.page.page, state.page.page_size);
     }
 
     this._selection.next([]);
-    selection.forEach((recordID) => this.toggleSelection(recordID));
+    state.selection.forEach((recordID) => this.toggleSelection(recordID));
     
-    if (sort.sort_by && sort.sort_order) {
+    if (state.sort.sort_by && state.sort.sort_order) {
       this._sort.next({});
-      this.setSort(sort.sort_by, sort.sort_order);
+      this.setSort(state.sort.sort_by, state.sort.sort_order);
     }
   }
 
-  toggleSelection(recordID: string, isMaster: boolean = false) {
+  toggleSelection(recordID: string, isMaster: boolean = false, allIDs: string[] = []) {
     const oldSelectionState = this._selection.getValue();
+
+    // select/unselect all
+    if (isMaster) {
+      if (oldSelectionState.length < allIDs.length) {
+        this._selection.next([...allIDs]);
+      } else {
+        this._selection.next([]);
+      }
+
+      return;
+    }
 
     // see if the record is selected
     const isSelected = oldSelectionState.find((selectedID) => recordID === selectedID);
 
-    let newSelectionState;
+    let newSelectionState: string[];
 
     if (isSelected) {
       newSelectionState = oldSelectionState.reduce<string[]>((newSelection, selectedID) => {

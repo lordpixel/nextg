@@ -45,7 +45,7 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * Initial page
    * 
    * Use this to intialize Table with predefined sorting */
-  @Input() initialPage: IPaginationState = {};
+  @Input() initialPage: IPaginationState = { page: 1, page_size: 10 };
 
   /**
    * Initial selection
@@ -64,6 +64,10 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * 
    * Specifies if the table allows record selection */
   @Input() isSelectable: boolean = false;
+
+  /**
+   * Specifies if a request is in progress, it displays the loading... leyend */
+  @Input() isLoading: boolean = false;
 
   /**
    * The model name in singular mode */
@@ -109,8 +113,6 @@ export class ContiTableComponent implements OnInit, OnDestroy {
     this.table.hydrate({
       filters: {...this.initialFilter},
       page: {
-        page: 1,
-        page_size: 100,
         ...this.initialPage,
       },
       sort: this.initialSort,
@@ -146,7 +148,6 @@ export class ContiTableComponent implements OnInit, OnDestroy {
         visibleColumns.push(column);
       }
       
-
       return visibleColumns;
     }, []);
   }

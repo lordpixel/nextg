@@ -3,58 +3,45 @@ import {Request, ResponseToolkit, ServerRoute } from '@hapi/hapi';
 import cars from './cars.fixture';
 import { ICar } from './cars.types';
 
+const waitFor = (seconds: number) => new Promise((resolve) => {
+    setTimeout(resolve, seconds);
+});
+
 const route: ServerRoute = {
     method: 'GET',
     path: '/cars',
     options: {
-        handler: function (request: Request, h: ResponseToolkit) {
-            const query = request.query || {};
-            debugger;
+        handler: async function (request: Request, h: ResponseToolkit) {
+            const query = request.query;
+
             const {
                 sort_by,
                 sort_order,
+                page = 1,
+                page_size = 10,
                 ...filters
             } = query;
-            
-            const page = query.page ? parseInt(query.page) : 1;
-            const page_size = query.page_size ? parseInt(query.page_size) : 10;
 
-            let filteredCars = [...cars];   // use a copy instead of the original
+            const parsedPage = typeof page === 'string' ? parseInt(page) : page;
+            const parsedPageSize = typeof page_size === 'string' ? parseInt(page_size) : page_size;
+            const pageStart = (parsedPageSize * parsedPage) - parsedPageSize;
+            const pageEnd = pageStart + parsedPageSize;
+
+            let filteredCars = [...cars];   // use aa copy instead of the original
 
             Object.entries(filters).forEach(([token, val]) => {
-                filteredCars = filteredCars.filter(
-                    (car: ICar) => 
-                        car[(token as keyof ICar)]
-                            .toString()
-                            .toLowerCase()
-                            .startsWith(val.toLowerCase()
-                        )
-                    );
+                filteredCars = filteredCars.filter((car: ICar) => car[(token as keyof ICar)].toString().toLowerCase().startsWith(val.toLowerCase()));
             });
-            
+
             const total = filteredCars.length;
+            filteredCars = filteredCars.slice(pageStart, pageEnd);
+            
+            await waitFor(1000);
 
-            // paginate
-            const startIndex = (page_size * page) - page_size;
-            const endIndex = startIndex + page_size;
-            const log = {
-                startIndex,
-                endIndex,
-                page,
-                page_size
-            };
-
-            filteredCars = filteredCars.slice(startIndex, endIndex);  
-
-            // const response = {
-            //     count:filteredCars.length,
-            //     data: filteredCars,
-            //     total,
-            //     log,
-            //     query
-            // };
-
-            // return h.response(response);
+            return h.response({
+                data: filteredCars,
+                total,
+            });
         },
     }
 };

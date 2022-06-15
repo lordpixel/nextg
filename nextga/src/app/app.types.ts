@@ -3,6 +3,12 @@ export interface IUnknowObject {
     [key: string | number | symbol ]: any,
 }
 
+export interface ICarEndpointResponse {
+    total: number,
+    data: ICar[],
+    status: string,
+}
+
 export interface ICar {
     objectId: string,
     year: number,

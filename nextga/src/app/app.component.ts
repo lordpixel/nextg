@@ -17,6 +17,7 @@ export class AppComponent implements OnInit{
       label: 'Approved',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.approved',
       type: 'boolean',
     },
     {
@@ -24,6 +25,7 @@ export class AppComponent implements OnInit{
       label: 'Reliability',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.reliability',
       type: 'icon',
     },
     {
@@ -31,6 +33,7 @@ export class AppComponent implements OnInit{
       label: 'ID',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.objectId',
       type: 'text',
     },
     {
@@ -38,6 +41,7 @@ export class AppComponent implements OnInit{
       label: 'Year',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.year',
       type: 'text',
     },
     {
@@ -45,6 +49,7 @@ export class AppComponent implements OnInit{
       label: 'Make',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.make',
       type: 'text',
     },
     {
@@ -52,6 +57,7 @@ export class AppComponent implements OnInit{
       label: 'Model',
       isFiltrable: true,
       isSortable: true,
+      sortAttribute: 'vehicle.model',
       type: 'text',
     },
     {
@@ -59,61 +65,40 @@ export class AppComponent implements OnInit{
       label: 'Created At',
       isFiltrable: false,
       isHidden: true,
+      sortAttribute: 'createdAt',
       type: 'text',
     },
     {
       attribute: 'updatedAt',
       label: 'Updated At',
       isFiltrable: false,
+      isSortable: true,
       isHidden: true,
+      sortAttribute: 'updatedAt',
       type: 'text',
     }
   ];
 
-  columns: {attribute: string, label: string, isFiltered: boolean}[] = [
-    {
-      attribute: 'objectId',
-      label: 'ID',
-      isFiltered: true
-    },
-    {
-      attribute: 'year',
-      label: 'Year',
-      isFiltered: true
-    },
-    {
-      attribute: 'make',
-      label: 'Make',
-      isFiltered: true
-    },
-    {
-      attribute: 'model',
-      label: 'Model',
-      isFiltered: true
-    },
-    {
-      attribute: 'createdAt',
-      label: 'Created At',
-      isFiltered: false
-    },
-    {
-      attribute: 'updatedAt',
-      label: 'Updated At',
-      isFiltered: false
-    }
-  ];
-
+  isLoading: boolean = false;
   selection: string[] = [];
   total: number = 0;
   
   constructor(private state: StateService) {
-    this.state.cars$.subscribe((newData) => this.data = newData);
+    this.state.cars$.subscribe(this.handleDataUpdate.bind(this));
   }
 
   ngOnInit(): void {
   }
 
+  handleDataUpdate(endpointResponse: any) {
+    this.data = endpointResponse.data;
+    this.total = endpointResponse.total;
+    this.isLoading = false;
+  }
+
   handleQueryUpdate(query: string) {
+    this.isLoading = true;
+    this.data = [];
     this.state.fetchData.emit(query);
   }
 

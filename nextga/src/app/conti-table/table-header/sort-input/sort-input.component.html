@@ -1,1 +1,3 @@
-<img [src]="'/assets/img/sort-' + sort_order + '.svg'" (click)="handleSortClick()"/>
+<icon *ngIf="!sort_order" name="sort-undefined" (click)="handleSortClick()"></icon>
+<icon *ngIf="sort_order === 'asc'" name="sort-asc" (click)="handleSortClick()"></icon>
+<icon *ngIf="sort_order === 'desc'" name="sort-desc" (click)="handleSortClick()"></icon>

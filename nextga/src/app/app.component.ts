@@ -26,7 +26,7 @@ export class AppComponent implements OnInit{
       isFiltrable: true,
       isSortable: true,
       sortAttribute: 'vehicle.reliability',
-      type: 'icon',
+      type: 'color',
     },
     {
       attribute: 'objectId',

@@ -3,11 +3,17 @@
 </ng-container>
 
 <ng-container *ngIf="type === 'boolean'">
-    <input type="checkbox" [checked]="value" disabled />
+    <input type="checkbox" [checked]="value" class="readonly" />
 </ng-container>
 
-<ng-container *ngIf="type === 'icon'">
-    <img class="icon" [src]="'/assets/img/' + value + '.svg'" />
+<ng-container *ngIf="type === 'color'">
+    <color-cell class="color" [color]="value" ></color-cell>
+</ng-container>
+
+<ng-container *ngIf="type === 'link'">
+    <a routerLink="value" >
+        link to user component
+    </a>
 </ng-container>
 
 <ng-container *ngIf="type === 'empty'">

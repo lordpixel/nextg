@@ -14,6 +14,9 @@ import { RowCellComponent } from './table-body/table-row/row-cell/row-cell.compo
 
 import { SortInputComponent } from './table-header/sort-input/sort-input.component';
 import { PaginationComponent } from './pagination/pagination.component';
+import { ColorCellComponent } from './components/color-cell/color-cell.component';
+import { IconComponent } from './components/icon/icon.component';
+import { LoadingComponent } from './components/loading/loading.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +28,10 @@ import { PaginationComponent } from './pagination/pagination.component';
     SelectionToggleComponent,
     RowCellComponent,
     SortInputComponent,
-    PaginationComponent
+    PaginationComponent,
+    ColorCellComponent,
+    IconComponent,
+    LoadingComponent
   ],
   exports: [
     ContiTableComponent

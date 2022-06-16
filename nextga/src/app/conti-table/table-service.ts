@@ -31,7 +31,7 @@ export class TableService {
 
   /**
     * Behavior Subject for the query string */
-  private readonly _page = new BehaviorSubject<IPaginationState>({page: 1, page_size: 100});
+  private readonly _page = new BehaviorSubject<IPaginationState>({page: 1, page_size: 10});
  
   /**
     * TBD */
@@ -100,6 +100,7 @@ export class TableService {
       }
     }
 
+    this._selection.next([]);
     return query;
   }
 

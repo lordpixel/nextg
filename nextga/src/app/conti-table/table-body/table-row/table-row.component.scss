@@ -1,9 +1,14 @@
 td {
     padding: 6px;
-    border: 1px solid gray;
+    text-align: center;
+    
+    border: 1px solid #a6a6a6;
 }
 
-td.icon, td.boolean {
+td.boolean {
     text-align: center;
+}
 
+td.text {
+    text-align: left;
 }

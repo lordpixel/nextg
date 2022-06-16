@@ -10,9 +10,12 @@
 
         div {
             display: flex;
-            
+
             label {
                 margin: 0 1rem 0 0;
+                font-size: 1rem;
+                font-weight: bold;
+            
             }
 
             label:nth-last-child(1) {

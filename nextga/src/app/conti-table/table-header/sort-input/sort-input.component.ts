@@ -32,6 +32,9 @@ export class SortInputComponent implements OnInit {
     if (this.attribute === sort.sort_by) {
       this.sort_order = sort.sort_order;
       this.isSorted = true;
+    } else {
+      this.sort_order = undefined;
+      this.isSorted = false
     }
   }
 

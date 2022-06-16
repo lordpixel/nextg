@@ -1,0 +1,26 @@
+:host {
+
+    &.unknown {
+        svg {
+            fill: transparent,
+        }
+    }
+
+    &.offline {
+        svg {
+            fill: #ff595e,
+        }
+    }
+
+    &.online {
+        svg {
+            fill: #8ac926,
+        }
+    }
+
+    &.not-installed {
+        svg {
+            fill: #000,
+        }
+    }
+}

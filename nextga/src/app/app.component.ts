@@ -21,12 +21,12 @@ export class AppComponent implements OnInit{
       type: 'boolean',
     },
     {
-      attribute: 'reliability',
-      label: 'Reliability',
+      attribute: 'status',
+      label: 'Status',
       isFiltrable: true,
       isSortable: true,
-      sortAttribute: 'vehicle.reliability',
-      type: 'color',
+      sortAttribute: 'vehicle.status',
+      type: 'status',
     },
     {
       attribute: 'objectId',

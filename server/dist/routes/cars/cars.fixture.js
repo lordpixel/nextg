@@ -10,7 +10,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "cptB1C1NSL",
@@ -21,7 +21,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ElhqsRZDnP",
@@ -32,7 +32,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LUzyWMYJpW",
@@ -43,7 +43,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rDkHakOBKP",
@@ -54,7 +54,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "1JARpJ2AUB",
@@ -65,7 +65,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7G1VT2pSNO",
@@ -76,7 +76,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4q7L9FAU2S",
@@ -87,7 +87,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jpOC5zs3jx",
@@ -98,7 +98,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "96llWfTOAe",
@@ -109,7 +109,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "5OEvsF1R9k",
@@ -120,7 +120,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LNq3duGh9z",
@@ -131,7 +131,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FThs77Cddn",
@@ -142,7 +142,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "t9eGFMIk7E",
@@ -153,7 +153,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cWQjuYWwc2",
@@ -164,7 +164,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2lYY81jKzR",
@@ -175,7 +175,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "qGDd5H3yYd",
@@ -186,7 +186,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ALbinxfzM1",
@@ -197,7 +197,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9eRGwnViia",
@@ -208,7 +208,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kAgBF7aSaO",
@@ -219,7 +219,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ygsDiv3hRm",
@@ -230,7 +230,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "92pfQo6pA4",
@@ -241,7 +241,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VfXndYon3e",
@@ -252,7 +252,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "grl6dVnzM9",
@@ -263,7 +263,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "QrYfmqcnAR",
@@ -274,7 +274,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "hSaQDQkkE0",
@@ -285,7 +285,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "rSQyj88Pwe",
@@ -296,7 +296,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kkcmfophql",
@@ -307,7 +307,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "V1F5kE5svr",
@@ -318,7 +318,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "bW6jRQ3h2S",
@@ -329,7 +329,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "6YcNNwgY0C",
@@ -340,7 +340,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "dxs3ayh6Yl",
@@ -351,7 +351,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "yZUeGC1bOn",
@@ -362,7 +362,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "JyMpQJbCvy",
@@ -373,7 +373,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "VT4rtTsGBj",
@@ -384,7 +384,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vRQFNeVlsa",
@@ -395,7 +395,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "OHHuEGKsUC",
@@ -406,7 +406,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "vu2lCeXKzk",
@@ -417,7 +417,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "rg8LbH5ixZ",
@@ -428,7 +428,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ifEdBTIVDH",
@@ -439,7 +439,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4J2BvKonKq",
@@ -450,7 +450,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "PlNwrAm6eM",
@@ -461,7 +461,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "VK6hmDAvqP",
@@ -472,7 +472,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "vidGAd8cIJ",
@@ -483,7 +483,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "NHWgNGSFB7",
@@ -494,7 +494,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "MTvnyKqtYJ",
@@ -505,7 +505,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wTXL9Ze5eF",
@@ -516,7 +516,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SCG7WEYdG1",
@@ -527,7 +527,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cKnegrw5AO",
@@ -538,7 +538,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "smKxD5m9KI",
@@ -549,7 +549,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ED6o8Zffqs",
@@ -560,7 +560,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2ZCPYTGxDj",
@@ -571,7 +571,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "fZGBnnMx4e",
@@ -582,7 +582,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6qsEYBv6eW",
@@ -593,7 +593,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4lZKmYPbMk",
@@ -604,7 +604,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9BdK0PtwKc",
@@ -615,7 +615,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "H1THLG6H1Z",
@@ -626,7 +626,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "XtDg7lwyJT",
@@ -637,7 +637,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "KE29kkqLX6",
@@ -648,7 +648,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "70EmSYGau7",
@@ -659,7 +659,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YZj6RLht79",
@@ -670,7 +670,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "3phIrCVLh7",
@@ -681,7 +681,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "i6jT5ByjBF",
@@ -692,7 +692,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "RHD7qDmzgU",
@@ -703,7 +703,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "pJCLIx2r8E",
@@ -714,7 +714,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8kzM0APnBF",
@@ -725,7 +725,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "1AV4avrH6j",
@@ -736,7 +736,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "dow9fD3WF6",
@@ -747,7 +747,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "adJr9Qr42Q",
@@ -758,7 +758,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "F7BG83iyWo",
@@ -769,7 +769,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VMpSU5DhdC",
@@ -780,7 +780,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UY03j6Fe12",
@@ -791,7 +791,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "7zxuFmGDLY",
@@ -802,7 +802,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "pTGFRlqNAZ",
@@ -813,7 +813,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "e5835fdPKX",
@@ -824,7 +824,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rYV3CVGElN",
@@ -835,7 +835,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DemETgxfzm",
@@ -846,7 +846,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ZcDno27E49",
@@ -857,7 +857,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "eQ15fbmmpw",
@@ -868,7 +868,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "bAVM6QBgYF",
@@ -879,7 +879,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IeeTDLPJtc",
@@ -890,7 +890,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5nK3Kjti74",
@@ -901,7 +901,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ZnSQK6bmSf",
@@ -912,7 +912,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MGgtV71Gqh",
@@ -923,7 +923,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "QHVcYMkgs8",
@@ -934,7 +934,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "0qpktkoahP",
@@ -945,7 +945,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wqjaR037XL",
@@ -956,7 +956,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4pZjPmNsj5",
@@ -967,7 +967,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "nAVMCHuWui",
@@ -978,7 +978,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "nvlklkJGRL",
@@ -989,7 +989,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Ok8T6kagAQ",
@@ -1000,7 +1000,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2o8HcNPula",
@@ -1011,7 +1011,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IDXLjYyc46",
@@ -1022,7 +1022,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "DMfFQRFW7L",
@@ -1033,7 +1033,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "LQNej2UoF0",
@@ -1044,7 +1044,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "US1p57Oo8w",
@@ -1055,7 +1055,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "SQx4TCijoz",
@@ -1066,7 +1066,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "JsaO4qw9cM",
@@ -1077,7 +1077,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LnUsyZRETe",
@@ -1088,7 +1088,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "lJtQk4oNv7",
@@ -1099,7 +1099,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "xxKBCB6qe4",
@@ -1110,7 +1110,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "0yxWejt1Kj",
@@ -1121,7 +1121,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "dquJk1A8lm",
@@ -1132,7 +1132,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kthyzkzwOr",
@@ -1143,7 +1143,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "l0ZxQJr6dc",
@@ -1154,7 +1154,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "oo53hnp2P1",
@@ -1165,7 +1165,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "nFb7cI8Sk6",
@@ -1176,7 +1176,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YzwRfzL0uV",
@@ -1187,7 +1187,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ZrJEw5FT5Z",
@@ -1198,7 +1198,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jjkQu6OvNz",
@@ -1209,7 +1209,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YdnaZQmFIB",
@@ -1220,7 +1220,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "4WEua9GTCy",
@@ -1231,7 +1231,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "BDXZuTt2Yh",
@@ -1242,7 +1242,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "EJq3Yt9FKG",
@@ -1253,7 +1253,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "sTp52PebGT",
@@ -1264,7 +1264,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Xv6yD7wyNA",
@@ -1275,7 +1275,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "HtCInoVvUS",
@@ -1286,7 +1286,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jDCmqwjhR3",
@@ -1297,7 +1297,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EfmLCaRB79",
@@ -1308,7 +1308,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "eWF8kdEUAc",
@@ -1319,7 +1319,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "7tsGYqXUUF",
@@ -1330,7 +1330,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3L39B06Lvk",
@@ -1341,7 +1341,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "BBndyIrB32",
@@ -1352,7 +1352,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Z8cpJng1P5",
@@ -1363,7 +1363,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VKR5opkrfH",
@@ -1374,7 +1374,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "lqFwthLaBG",
@@ -1385,7 +1385,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "OUjPRZrwv4",
@@ -1396,7 +1396,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ur0DyHrVuX",
@@ -1407,7 +1407,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Bk6SLEfNLj",
@@ -1418,7 +1418,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "qEzHd8PYEr",
@@ -1429,7 +1429,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "3vSeFSb1xL",
@@ -1440,7 +1440,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "iP9HxrAHwE",
@@ -1451,7 +1451,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8vNEmhRrBc",
@@ -1462,7 +1462,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pJ8KCIdjvW",
@@ -1473,7 +1473,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "KdEmV75BEr",
@@ -1484,7 +1484,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Oo3K9UZH6M",
@@ -1495,7 +1495,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ENLLvc2FMe",
@@ -1506,7 +1506,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "K6qv32UGvz",
@@ -1517,7 +1517,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "CAl0QnYLJ2",
@@ -1528,7 +1528,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "aHI5mPH8ej",
@@ -1539,7 +1539,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mQZjcV8jrg",
@@ -1550,7 +1550,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "iqt8L2RTH8",
@@ -1561,7 +1561,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kX7uNUav4L",
@@ -1572,7 +1572,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "u6CTuVfysm",
@@ -1583,7 +1583,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "fCMzAAEtKV",
@@ -1594,7 +1594,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ICcRQszKKg",
@@ -1605,7 +1605,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "n7ynnBKxR7",
@@ -1616,7 +1616,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ny7Q06qq0B",
@@ -1627,7 +1627,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "PgWKyb4ddv",
@@ -1638,7 +1638,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5pjLCIqjlI",
@@ -1649,7 +1649,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "iwvFvdCK8G",
@@ -1660,7 +1660,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "PI9vHiuNHt",
@@ -1671,7 +1671,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Ppkgc3RCz0",
@@ -1682,7 +1682,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "nOdWfjP8ke",
@@ -1693,7 +1693,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HEEOI4PZxU",
@@ -1704,7 +1704,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ITW67EHFIc",
@@ -1715,7 +1715,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2dt5vjZVTd",
@@ -1726,7 +1726,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "P3mXDWEn4A",
@@ -1737,7 +1737,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kegvzbUeA0",
@@ -1748,7 +1748,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LUDDzahrJp",
@@ -1759,7 +1759,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LdTQf3DHoQ",
@@ -1770,7 +1770,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FGVNj41ahi",
@@ -1781,7 +1781,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HiWA5J4OkQ",
@@ -1792,7 +1792,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "e1lijtAW99",
@@ -1803,7 +1803,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "INHGpFi6VO",
@@ -1814,7 +1814,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "oNBhBBLs3X",
@@ -1825,7 +1825,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ZK9xucAlXl",
@@ -1836,7 +1836,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Xhw3FFG8Xg",
@@ -1847,7 +1847,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DG0MniMzpR",
@@ -1858,7 +1858,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "1nHsuy9NYl",
@@ -1869,7 +1869,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JlheVLtpok",
@@ -1880,7 +1880,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kGzRBCeu43",
@@ -1891,7 +1891,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HPTe5REepK",
@@ -1902,7 +1902,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mDGyeW0kbs",
@@ -1913,7 +1913,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "29bMYLpQtu",
@@ -1924,7 +1924,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Iui1nHUG5h",
@@ -1935,7 +1935,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "SIQPSjVVRc",
@@ -1946,7 +1946,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "zgmFYlvdHx",
@@ -1957,7 +1957,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jACG70Auym",
@@ -1968,7 +1968,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "CkFqGiZlW6",
@@ -1979,7 +1979,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "VXKZNum2v4",
@@ -1990,7 +1990,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Z5nXB7i3A7",
@@ -2001,7 +2001,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Dm2leqJLBZ",
@@ -2012,7 +2012,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ddiUDdlHma",
@@ -2023,7 +2023,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Wa48C9W0U9",
@@ -2034,7 +2034,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "8nFlIZ8ixN",
@@ -2045,7 +2045,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TlwQS7c839",
@@ -2056,7 +2056,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wlZ7oN49bD",
@@ -2067,7 +2067,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "maydRt0Ph8",
@@ -2078,7 +2078,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "h6CUCvtOxH",
@@ -2089,7 +2089,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EBZqOFlbNQ",
@@ -2100,7 +2100,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "5S8PN4igRE",
@@ -2111,7 +2111,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "U0OkQ1Vufy",
@@ -2122,7 +2122,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "zMTV1K1mJg",
@@ -2133,7 +2133,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8g28AwPl9W",
@@ -2144,7 +2144,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "cuwM0UhTxg",
@@ -2155,7 +2155,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YL5KuTEDUx",
@@ -2166,7 +2166,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "m5bHpRT9Lo",
@@ -2177,7 +2177,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GxpbwmZa5w",
@@ -2188,7 +2188,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "xMFKrqRcF1",
@@ -2199,7 +2199,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "6Ii0KCFBDn",
@@ -2210,7 +2210,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "48wH6VM1pv",
@@ -2221,7 +2221,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3e7zSCgSox",
@@ -2232,7 +2232,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5i45FzPw3t",
@@ -2243,7 +2243,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "AQVtIaqSAj",
@@ -2254,7 +2254,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ZPmI3oTIhJ",
@@ -2265,7 +2265,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rEvPcEv5Fi",
@@ -2276,7 +2276,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bjZktMbMDL",
@@ -2287,7 +2287,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2cSRz38TY9",
@@ -2298,7 +2298,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "gpN18fODQL",
@@ -2309,7 +2309,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FhgtmBwp8E",
@@ -2320,7 +2320,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5sWLRFwzht",
@@ -2331,7 +2331,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "mG9sBB2BuA",
@@ -2342,7 +2342,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Al36zxCYXq",
@@ -2353,7 +2353,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "D3Lno4qQPy",
@@ -2364,7 +2364,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "djm2SnTflV",
@@ -2375,7 +2375,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4beWimqyBE",
@@ -2386,7 +2386,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "k4x1WAXEZ9",
@@ -2397,7 +2397,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "xiuaACVHIm",
@@ -2408,7 +2408,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "hRySxJexbG",
@@ -2419,7 +2419,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3V6UiNPcsa",
@@ -2430,7 +2430,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ZIUyePmTUL",
@@ -2441,7 +2441,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "IQ4VfhGUnv",
@@ -2452,7 +2452,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LAsic8cF0o",
@@ -2463,7 +2463,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "qLWZQZpHWY",
@@ -2474,7 +2474,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KegjzAaXJ2",
@@ -2485,7 +2485,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "uqBo3T1sHU",
@@ -2496,7 +2496,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HcLCgxYpnA",
@@ -2507,7 +2507,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "s8PL6aoYRy",
@@ -2518,7 +2518,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "BsrsAho8K3",
@@ -2529,7 +2529,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Pj3LtYhfOx",
@@ -2540,7 +2540,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "bOlyekNqwt",
@@ -2551,7 +2551,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "RMG3R3vsCw",
@@ -2562,7 +2562,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "PGFBTmE2L6",
@@ -2573,7 +2573,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "qaKbuo5AT9",
@@ -2584,7 +2584,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Tkm6RAiXMk",
@@ -2595,7 +2595,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "r9nUwoh749",
@@ -2606,7 +2606,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "mTQ0bSYkrY",
@@ -2617,7 +2617,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IM66EEMjxe",
@@ -2628,7 +2628,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "sLLtnh5CNL",
@@ -2639,7 +2639,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "HrfJ77bDEq",
@@ -2650,7 +2650,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "hxBd1z7ewE",
@@ -2661,7 +2661,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "WHqkPTraez",
@@ -2672,7 +2672,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "66pQq50mso",
@@ -2683,7 +2683,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GoIb4TNqDz",
@@ -2694,7 +2694,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FBvxwCM8vu",
@@ -2705,7 +2705,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kgUoGEiena",
@@ -2716,7 +2716,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "aycZC5J2yw",
@@ -2727,7 +2727,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "juIznkRAZE",
@@ -2738,7 +2738,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Ob5YiBNNIn",
@@ -2749,7 +2749,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8ZTMjzHn9X",
@@ -2760,7 +2760,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pe7eJ4gnen",
@@ -2771,7 +2771,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ATAeU1NdOi",
@@ -2782,7 +2782,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "orUpo0E0vC",
@@ -2793,7 +2793,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "KhES0MZcmQ",
@@ -2804,7 +2804,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cR3800xX9I",
@@ -2815,7 +2815,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vAAn0VApSF",
@@ -2826,7 +2826,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "E5Nznq1T2p",
@@ -2837,7 +2837,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "aKCqI0lYGI",
@@ -2848,7 +2848,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VIhUyOqv71",
@@ -2859,7 +2859,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "XBrBhQmegp",
@@ -2870,7 +2870,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "jaHnDRVmdp",
@@ -2881,7 +2881,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "tHGwhMRQQb",
@@ -2892,7 +2892,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "iFCVGMra0O",
@@ -2903,7 +2903,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UrwYndiCmO",
@@ -2914,7 +2914,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "hPNqqtDTH1",
@@ -2925,7 +2925,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jPUGrODd0n",
@@ -2936,7 +2936,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "b1gzw7oX90",
@@ -2947,7 +2947,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "rJUe9JJjYP",
@@ -2958,7 +2958,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8BoPqgaMmq",
@@ -2969,7 +2969,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Z3DPbJhczG",
@@ -2980,7 +2980,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "VMdmpIMkre",
@@ -2991,7 +2991,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5SQO904EKs",
@@ -3002,7 +3002,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ydHCEwuOSK",
@@ -3013,7 +3013,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "bdW1WipxOD",
@@ -3024,7 +3024,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7rEqkISfEg",
@@ -3035,7 +3035,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "bUID4Xe3GM",
@@ -3046,7 +3046,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "OvJ1MbKJ7E",
@@ -3057,7 +3057,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "TBvFCspGgt",
@@ -3068,7 +3068,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "8o6fButQzD",
@@ -3079,7 +3079,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "iL7xFdHl3K",
@@ -3090,7 +3090,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "BmG5IqBkAo",
@@ -3101,7 +3101,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KRZ7KM1gCr",
@@ -3112,7 +3112,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DnI5QxWFIA",
@@ -3123,7 +3123,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DBxB7Fmlrj",
@@ -3134,7 +3134,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "NCa9BCUXGA",
@@ -3145,7 +3145,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "HgIDfTJIxQ",
@@ -3156,7 +3156,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "gA8GmQ6bsz",
@@ -3167,7 +3167,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "7aW91qXGjR",
@@ -3178,7 +3178,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EKjjWdBykw",
@@ -3189,7 +3189,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VjLnWMAK4l",
@@ -3200,7 +3200,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kVDbBVlC7w",
@@ -3211,7 +3211,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "awEF9ZwubP",
@@ -3222,7 +3222,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "k5iF1PYOaL",
@@ -3233,7 +3233,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "red9UTu8fA",
@@ -3244,7 +3244,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YoSf7DjkX5",
@@ -3255,7 +3255,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "XzU7AIvyeG",
@@ -3266,7 +3266,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "OMSftwK8IO",
@@ -3277,7 +3277,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "tQjEc8cJ8B",
@@ -3288,7 +3288,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YP2Mf2anan",
@@ -3299,7 +3299,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "e4S9bbVWIp",
@@ -3310,7 +3310,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "AEpMzZOnKV",
@@ -3321,7 +3321,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "s7oSo0M9y7",
@@ -3332,7 +3332,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "atFHXEgXYw",
@@ -3343,7 +3343,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "OxT9QW16ZW",
@@ -3354,7 +3354,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "iObFnlwCdJ",
@@ -3365,7 +3365,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "KLXRvqnAIf",
@@ -3376,7 +3376,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kmfBx990rf",
@@ -3387,7 +3387,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GiRoJanAFO",
@@ -3398,7 +3398,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "R6FTcHj2kE",
@@ -3409,7 +3409,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ncQWDq66xy",
@@ -3420,7 +3420,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "f2t9apHuKN",
@@ -3431,7 +3431,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "3efpWhWzug",
@@ -3442,7 +3442,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YxUnFkrUcr",
@@ -3453,7 +3453,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GunE0Ahhyd",
@@ -3464,7 +3464,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mWCJ5zoFbj",
@@ -3475,7 +3475,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "VkNqMZTN5f",
@@ -3486,7 +3486,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "feB5OmNc4A",
@@ -3497,7 +3497,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "A1d1zXcY5n",
@@ -3508,7 +3508,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "u7Evv1bet4",
@@ -3519,7 +3519,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "YeYZ8uM1Z7",
@@ -3530,7 +3530,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "uaZ6ZXzGRp",
@@ -3541,7 +3541,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "czvEZAD0ob",
@@ -3552,7 +3552,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "RTczc52mmH",
@@ -3563,7 +3563,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "BRoyACZLHD",
@@ -3574,7 +3574,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ZlhJO6awDf",
@@ -3585,7 +3585,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "CLFodpBcPh",
@@ -3596,7 +3596,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ECvyRquINn",
@@ -3607,7 +3607,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "jqaCwZrPPH",
@@ -3618,7 +3618,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FuchiGoVMM",
@@ -3629,7 +3629,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7LxHDNE7TT",
@@ -3640,7 +3640,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kN367T77Kw",
@@ -3651,7 +3651,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "zEgDI23VXc",
@@ -3662,7 +3662,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Rmquglmw9J",
@@ -3673,7 +3673,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "MIZyNzuPSk",
@@ -3684,7 +3684,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "aKNpq4aizW",
@@ -3695,7 +3695,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "BBIZrM3Eql",
@@ -3706,7 +3706,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Z0rOkKwjuf",
@@ -3717,7 +3717,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "uExfuPZbEN",
@@ -3728,7 +3728,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FLOSDjLAvP",
@@ -3739,7 +3739,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "F7vtqOBHMW",
@@ -3750,7 +3750,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LlVSThmAXq",
@@ -3761,7 +3761,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4JU3SOnt71",
@@ -3772,7 +3772,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ZILY8006BY",
@@ -3783,7 +3783,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "uPir5syPGG",
@@ -3794,7 +3794,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MRVh65geUW",
@@ -3805,7 +3805,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "wxsW6AqN7R",
@@ -3816,7 +3816,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "FuJqB31eBE",
@@ -3827,7 +3827,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EEflW65kE1",
@@ -3838,7 +3838,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rtzXgeNgOS",
@@ -3849,7 +3849,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "XrFDkOJeoH",
@@ -3860,7 +3860,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DedImXkFPS",
@@ -3871,7 +3871,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "r50LNSyvil",
@@ -3882,7 +3882,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "72Vrlo4wxf",
@@ -3893,7 +3893,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "dhwD1JA7nj",
@@ -3904,7 +3904,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UzPiXYyxvI",
@@ -3915,7 +3915,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "GqWMI6elLq",
@@ -3926,7 +3926,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yEGFPezu4E",
@@ -3937,7 +3937,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7jnMVzWPVr",
@@ -3948,7 +3948,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6CEQlGRy7q",
@@ -3959,7 +3959,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5O2BjXUI4Y",
@@ -3970,7 +3970,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "SlPnx4lV12",
@@ -3981,7 +3981,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "97YAn0zfaS",
@@ -3992,7 +3992,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "20SjN3YmG5",
@@ -4003,7 +4003,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UqBxivRhCm",
@@ -4014,7 +4014,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "d7lsStSuAu",
@@ -4025,7 +4025,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Gei8TWj7Ji",
@@ -4036,7 +4036,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "24C2C2SFEg",
@@ -4047,7 +4047,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "8jCgRj2Cuz",
@@ -4058,7 +4058,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "w9dn8DsUs5",
@@ -4069,7 +4069,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "CYIgiVYHb7",
@@ -4080,7 +4080,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "71EJBjSZAV",
@@ -4091,7 +4091,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "AaB3GxYSgC",
@@ -4102,7 +4102,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "PWHGnLlB27",
@@ -4113,7 +4113,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "O0c2vF3OlU",
@@ -4124,7 +4124,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kxePKV1pBj",
@@ -4135,7 +4135,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jSmoxFud4I",
@@ -4146,7 +4146,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Oqvw99xVpG",
@@ -4157,7 +4157,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8ijNrwNuGE",
@@ -4168,7 +4168,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "r3EtSXsfPL",
@@ -4179,7 +4179,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Gm1BUf0ikY",
@@ -4190,7 +4190,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UMlkJd94c6",
@@ -4201,7 +4201,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "HXrBCmU7k2",
@@ -4212,7 +4212,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "wyhZDsmeYR",
@@ -4223,7 +4223,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "irnTVMgsfQ",
@@ -4234,7 +4234,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "gXq8CE8WC8",
@@ -4245,7 +4245,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "apIbmoEhA7",
@@ -4256,7 +4256,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Pk5IoxYEBr",
@@ -4267,7 +4267,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5CMNXF7Yfw",
@@ -4278,7 +4278,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "qtD75k4YA1",
@@ -4289,7 +4289,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9q6NXEUMLr",
@@ -4300,7 +4300,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "A6Qu6b9jaT",
@@ -4311,7 +4311,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8WLgIWHP09",
@@ -4322,7 +4322,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "eVsRYAmaEE",
@@ -4333,7 +4333,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "dFq9wWoItu",
@@ -4344,7 +4344,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "lHP9pIS0GR",
@@ -4355,7 +4355,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vVoTgU2GnN",
@@ -4366,7 +4366,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "786nNx9d2X",
@@ -4377,7 +4377,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2jMo41ZuhS",
@@ -4388,7 +4388,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "p8qFjChvDd",
@@ -4399,7 +4399,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Ck5FaknPC0",
@@ -4410,7 +4410,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "21JJCm089n",
@@ -4421,7 +4421,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "sPcSYnNKs7",
@@ -4432,7 +4432,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "BMLC9Sfw9h",
@@ -4443,7 +4443,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "7tZV6s6BHW",
@@ -4454,7 +4454,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9njEujFOH3",
@@ -4465,7 +4465,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "pZRGx80XsH",
@@ -4476,7 +4476,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HAtex6Wnlk",
@@ -4487,7 +4487,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pyzq4Ow5oc",
@@ -4498,7 +4498,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ZTGbJhNsmT",
@@ -4509,7 +4509,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "VgbjMqpcq3",
@@ -4520,7 +4520,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TLG3bbPmMk",
@@ -4531,7 +4531,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "u7QlOpoQIq",
@@ -4542,7 +4542,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "n3MHo6M2Ea",
@@ -4553,7 +4553,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "GDtqfkSqHR",
@@ -4564,7 +4564,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "KAaaEFtOwB",
@@ -4575,7 +4575,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "PO26cSuSah",
@@ -4586,7 +4586,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Iqv7uSdwOL",
@@ -4597,7 +4597,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Kr4yITGtnH",
@@ -4608,7 +4608,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "4PLzuSUnPl",
@@ -4619,7 +4619,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9N0VC2V8Lq",
@@ -4630,7 +4630,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "3PQXYsurwW",
@@ -4641,7 +4641,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "RefcbmSGZD",
@@ -4652,7 +4652,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "vYON8XL1vO",
@@ -4663,7 +4663,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MaigFrvPgw",
@@ -4674,7 +4674,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vauIYHcE2o",
@@ -4685,7 +4685,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "BlvHJw67FE",
@@ -4696,7 +4696,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9aFNeT0JiE",
@@ -4707,7 +4707,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "l8AObm8Y51",
@@ -4718,7 +4718,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "jRvW1t50cE",
@@ -4729,7 +4729,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "1eU9qsZDZx",
@@ -4740,7 +4740,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "1YsH0weH9q",
@@ -4751,7 +4751,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Hk2YzPrLyZ",
@@ -4762,7 +4762,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "3P6keannNx",
@@ -4773,7 +4773,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Aik5uY0Sap",
@@ -4784,7 +4784,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "trFKSjakVG",
@@ -4795,7 +4795,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "uASC2CeiNI",
@@ -4806,7 +4806,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7K7yn7aF0H",
@@ -4817,7 +4817,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jAs90mkJSf",
@@ -4828,7 +4828,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "v7TVyFWiGK",
@@ -4839,7 +4839,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MIZt9mhy3U",
@@ -4850,7 +4850,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Eq25qAUGlu",
@@ -4861,7 +4861,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "S8f6DVRFHG",
@@ -4872,7 +4872,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "5CexhulSo5",
@@ -4883,7 +4883,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "eDVTKyAIoA",
@@ -4894,7 +4894,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "yaLmQgS8nf",
@@ -4905,7 +4905,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "T7NBCpDh4t",
@@ -4916,7 +4916,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "DnjCmgXrJ8",
@@ -4927,7 +4927,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "k0CJEoTN8j",
@@ -4938,7 +4938,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6gxV3o00Di",
@@ -4949,7 +4949,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "NgQmrdud6E",
@@ -4960,7 +4960,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2dpysvLQk2",
@@ -4971,7 +4971,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "TnJ3Xuyxki",
@@ -4982,7 +4982,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Myub4qLsK0",
@@ -4993,7 +4993,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2x4ip0yYyB",
@@ -5004,7 +5004,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2hWQn2ipRD",
@@ -5015,7 +5015,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wrHJRBtayL",
@@ -5026,7 +5026,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "jW5w33TXoR",
@@ -5037,7 +5037,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "FMtppd4huW",
@@ -5048,7 +5048,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "iyy1mCT0X7",
@@ -5059,7 +5059,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "tXwippFez7",
@@ -5070,7 +5070,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "igUY33tAFm",
@@ -5081,7 +5081,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SkFH6pGWD4",
@@ -5092,7 +5092,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Pvw3Ln9OPY",
@@ -5103,7 +5103,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "fSOkVAdVqN",
@@ -5114,7 +5114,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2WvbfpAXK0",
@@ -5125,7 +5125,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FMCCyUTicL",
@@ -5136,7 +5136,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "xGmyZ55Pat",
@@ -5147,7 +5147,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "gavE1OWty5",
@@ -5158,7 +5158,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "D09ERSBFwZ",
@@ -5169,7 +5169,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "rluUQnPq8D",
@@ -5180,7 +5180,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "AaSuZ5Gw4N",
@@ -5191,7 +5191,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IUa9RKfPbE",
@@ -5202,7 +5202,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "1yOXTImolU",
@@ -5213,7 +5213,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "AAcjf3pwAe",
@@ -5224,7 +5224,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "xpHhaAu2RU",
@@ -5235,7 +5235,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YgxhrAvMGv",
@@ -5246,7 +5246,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8pUioUFUmA",
@@ -5257,7 +5257,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9f3xDusU2a",
@@ -5268,7 +5268,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rHJHBHY5JV",
@@ -5279,7 +5279,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4YF3ffOn1E",
@@ -5290,7 +5290,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5YxNDT54kG",
@@ -5301,7 +5301,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "sjFmMhtHne",
@@ -5312,7 +5312,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "iilXFrGUKs",
@@ -5323,7 +5323,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "L3UUjBoD6C",
@@ -5334,7 +5334,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3ZU4b7Aoqj",
@@ -5345,7 +5345,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "PX60Trl3YG",
@@ -5356,7 +5356,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IdkeSusVpn",
@@ -5367,7 +5367,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "eWJOe8z7sY",
@@ -5378,7 +5378,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "bKsh9qdpB7",
@@ -5389,7 +5389,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GGTn4FFGyC",
@@ -5400,7 +5400,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "0JAntNRxL1",
@@ -5411,7 +5411,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "m4XvTm2oBL",
@@ -5422,7 +5422,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Rshg1baXqJ",
@@ -5433,7 +5433,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2ZHDQAYQdi",
@@ -5444,7 +5444,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "FUDdfcEzKV",
@@ -5455,7 +5455,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "CHI8VGWfsD",
@@ -5466,7 +5466,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "rdVV9ZLVAN",
@@ -5477,7 +5477,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "AkWg4UMAi8",
@@ -5488,7 +5488,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "BCuEOw3Ena",
@@ -5499,7 +5499,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4QggYHUIyn",
@@ -5510,7 +5510,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9D4m3OYEUX",
@@ -5521,7 +5521,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "F0DhODCM7e",
@@ -5532,7 +5532,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "XhQUUcbvQU",
@@ -5543,7 +5543,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "kvC18WGUse",
@@ -5554,7 +5554,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "P3G4igD2ZY",
@@ -5565,7 +5565,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "p1dozBG19L",
@@ -5576,7 +5576,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UEIeDeIQPT",
@@ -5587,7 +5587,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "iXFjpcpeaE",
@@ -5598,7 +5598,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TVEeAZYP5Y",
@@ -5609,7 +5609,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "D7fGCgE4nI",
@@ -5620,7 +5620,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2Ey8fOzE1m",
@@ -5631,7 +5631,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pd9ucOltfT",
@@ -5642,7 +5642,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "WMlA28JnT7",
@@ -5653,7 +5653,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UIuzLQZAo0",
@@ -5664,7 +5664,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "fETuv1YiL2",
@@ -5675,7 +5675,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "xdna1kUoOH",
@@ -5686,7 +5686,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Z2WS2PBACl",
@@ -5697,7 +5697,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Xnl6GS9H04",
@@ -5708,7 +5708,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "avkiQ2tyxd",
@@ -5719,7 +5719,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "B36p3LxUmk",
@@ -5730,7 +5730,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "9lfqMGUHCi",
@@ -5741,7 +5741,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "c3tuoyWXUa",
@@ -5752,7 +5752,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "nK8jPgAsv5",
@@ -5763,7 +5763,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "d5td8uBpK1",
@@ -5774,7 +5774,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EXCkgDW1Sn",
@@ -5785,7 +5785,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "hLC6DwKWEA",
@@ -5796,7 +5796,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "82pK6JIygG",
@@ -5807,7 +5807,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "flu3j3f93s",
@@ -5818,7 +5818,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8qjhGZSjOm",
@@ -5829,7 +5829,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "RH5RBAZwBc",
@@ -5840,7 +5840,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "AHRbykKQte",
@@ -5851,7 +5851,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LOeIyGRbMG",
@@ -5862,7 +5862,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "0O5UhL3HF2",
@@ -5873,7 +5873,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KQBVN7UaAh",
@@ -5884,7 +5884,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "dFA3uIE85u",
@@ -5895,7 +5895,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UPr7aou0Sx",
@@ -5906,7 +5906,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bhS9PiGJHV",
@@ -5917,7 +5917,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "TlAKQyIkbO",
@@ -5928,7 +5928,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6os4YeVsHU",
@@ -5939,7 +5939,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "tYzrJsVWcA",
@@ -5950,7 +5950,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "MMDhdhxQqZ",
@@ -5961,7 +5961,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JLdts6ljP9",
@@ -5972,7 +5972,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "e8NIBDsCYN",
@@ -5983,7 +5983,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "E6QH3Vm5Tq",
@@ -5994,7 +5994,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UcFVu1TgBu",
@@ -6005,7 +6005,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "rLD7sHPgDk",
@@ -6016,7 +6016,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "xNA8b5Aj3n",
@@ -6027,7 +6027,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Ta2eFu22AZ",
@@ -6038,7 +6038,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YOMmYTtV0M",
@@ -6049,7 +6049,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FgGnAG2URD",
@@ -6060,7 +6060,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Jn76hGHTNk",
@@ -6071,7 +6071,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4JjrP8HEHg",
@@ -6082,7 +6082,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Ji1dBq4lWF",
@@ -6093,7 +6093,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jyIWyqezHL",
@@ -6104,7 +6104,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Vp3y6GzYjq",
@@ -6115,7 +6115,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "s66LLb7APg",
@@ -6126,7 +6126,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "e4ZGG5Vcmv",
@@ -6137,7 +6137,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "FCpcDEzvNY",
@@ -6148,7 +6148,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "izW2ro6FoT",
@@ -6159,7 +6159,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Lmd4Wcovu8",
@@ -6170,7 +6170,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "xS9WtTtwee",
@@ -6181,7 +6181,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ZlZQON0xW4",
@@ -6192,7 +6192,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "6MznRAz2MP",
@@ -6203,7 +6203,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "mKgHhKGm5k",
@@ -6214,7 +6214,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VE72fFI6BS",
@@ -6225,7 +6225,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "mIBXfoSmXO",
@@ -6236,7 +6236,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "rswlcso7u1",
@@ -6247,7 +6247,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Zpi8vhTFmk",
@@ -6258,7 +6258,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vsPxyVeAiX",
@@ -6269,7 +6269,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "qmQ5ZL9lya",
@@ -6280,7 +6280,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "koEuRcrlNw",
@@ -6291,7 +6291,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "od1cEHjoWm",
@@ -6302,7 +6302,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "meJ2Htj5LI",
@@ -6313,7 +6313,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "SNkP43cu3N",
@@ -6324,7 +6324,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Pzcj4IUUQX",
@@ -6335,7 +6335,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "DLHvHp511g",
@@ -6346,7 +6346,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "O3kJTM0xvB",
@@ -6357,7 +6357,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "chqvhgYgXB",
@@ -6368,7 +6368,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SvxW9ktwmb",
@@ -6379,7 +6379,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "NXl6FesVCQ",
@@ -6390,7 +6390,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "FDAAV1X9xE",
@@ -6401,7 +6401,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "CIYdgrkMj8",
@@ -6412,7 +6412,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HbMuki1brk",
@@ -6423,7 +6423,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "gn4l1GGhWX",
@@ -6434,7 +6434,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ZVPgK8THg2",
@@ -6445,7 +6445,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Dui3Bb1al2",
@@ -6456,7 +6456,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "X85VY4sz9b",
@@ -6467,7 +6467,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "XsgSevyfG2",
@@ -6478,7 +6478,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LbuPvBEoE2",
@@ -6489,7 +6489,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "AdilSnzaEm",
@@ -6500,7 +6500,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "k4In1FbszX",
@@ -6511,7 +6511,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "oVRNcu0Lzc",
@@ -6522,7 +6522,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "W0ps7ij4vs",
@@ -6533,7 +6533,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kUCSLkzV2t",
@@ -6544,7 +6544,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "wf5Rj6USih",
@@ -6555,7 +6555,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "GGLd0Zn0Nm",
@@ -6566,7 +6566,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "co2HJz8Sn8",
@@ -6577,7 +6577,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "RMXKjymspD",
@@ -6588,7 +6588,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "fJLcpojiYK",
@@ -6599,7 +6599,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "xEVRohlzvV",
@@ -6610,7 +6610,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "xmW8e7v1lr",
@@ -6621,7 +6621,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "dlx7ppvsVs",
@@ -6632,7 +6632,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "xc7eYLH12b",
@@ -6643,7 +6643,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "peZKc66VvO",
@@ -6654,7 +6654,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ltIIaE5lg1",
@@ -6665,7 +6665,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "u7mLdbNjkQ",
@@ -6676,7 +6676,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "OPXs3pkN3x",
@@ -6687,7 +6687,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Hi1yuex1ks",
@@ -6698,7 +6698,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ExNrnZNQDs",
@@ -6709,7 +6709,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YBKmhGSCV6",
@@ -6720,7 +6720,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "sN7vn88WKl",
@@ -6731,7 +6731,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "x9ekz5gQsH",
@@ -6742,7 +6742,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9WjoZVwfFq",
@@ -6753,7 +6753,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "m7AwpjhiaF",
@@ -6764,7 +6764,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "5kvP2xK8Zc",
@@ -6775,7 +6775,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Db6o9U8okD",
@@ -6786,7 +6786,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "avOzuU86Jj",
@@ -6797,7 +6797,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "034oz07gym",
@@ -6808,7 +6808,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ke58pHKolD",
@@ -6819,7 +6819,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "YQn0OjR3Vp",
@@ -6830,7 +6830,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "6ChyG6YM2k",
@@ -6841,7 +6841,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "CYrYkmY6sr",
@@ -6852,7 +6852,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "FvhWSFBPSW",
@@ -6863,7 +6863,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8FK5i4ePZE",
@@ -6874,7 +6874,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "oj5i9vdux2",
@@ -6885,7 +6885,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "zklkaxQKUZ",
@@ -6896,7 +6896,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "sNvgoWPkFR",
@@ -6907,7 +6907,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "sm6PndVB2o",
@@ -6918,7 +6918,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HCcRgrdeZe",
@@ -6929,7 +6929,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TPPFTAECEX",
@@ -6940,7 +6940,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FXcHFwaHzo",
@@ -6951,7 +6951,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "hqczihz66a",
@@ -6962,7 +6962,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Kb9b2493oy",
@@ -6973,7 +6973,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "viau0hB7Ia",
@@ -6984,7 +6984,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "GKX8PHDvBx",
@@ -6995,7 +6995,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JJoNEtHXQ4",
@@ -7006,7 +7006,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3Fep0ntHSg",
@@ -7017,7 +7017,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "rwdOGxYYPw",
@@ -7028,7 +7028,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "shtDFvCuiL",
@@ -7039,7 +7039,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wgASSTTaW3",
@@ -7050,7 +7050,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "nOwbBojNYK",
@@ -7061,7 +7061,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8D84lJZhZV",
@@ -7072,7 +7072,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "eSrBpgc1NL",
@@ -7083,7 +7083,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "s7EVRxkGTP",
@@ -7094,7 +7094,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Y2HL8TewJ9",
@@ -7105,7 +7105,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "6Uiz6dMgqS",
@@ -7116,7 +7116,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5w6TZeReGG",
@@ -7127,7 +7127,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "441nZueeVx",
@@ -7138,7 +7138,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jiBex5KVlh",
@@ -7149,7 +7149,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "w9BmUI3wPC",
@@ -7160,7 +7160,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ne1W06dL3N",
@@ -7171,7 +7171,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "DGqqE0kSiF",
@@ -7182,7 +7182,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "w7Qncq7J7n",
@@ -7193,7 +7193,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yxjMgpPVad",
@@ -7204,7 +7204,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "fmwuVnxBPP",
@@ -7215,7 +7215,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "66ku02fxQg",
@@ -7226,7 +7226,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8FqD6NCKpe",
@@ -7237,7 +7237,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "q9XVay5Bi9",
@@ -7248,7 +7248,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "TKGuD9jstt",
@@ -7259,7 +7259,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "vx4w74rTdN",
@@ -7270,7 +7270,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cnpdvzbdDU",
@@ -7281,7 +7281,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "WiLT2nSA4G",
@@ -7292,7 +7292,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "tRbg6DYlay",
@@ -7303,7 +7303,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "z61GF2cEzY",
@@ -7314,7 +7314,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9z1mZy20m0",
@@ -7325,7 +7325,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "0sEUfGvYoW",
@@ -7336,7 +7336,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KKkMJW7Zvl",
@@ -7347,7 +7347,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "HKAzghyQuH",
@@ -7358,7 +7358,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LK74snt95U",
@@ -7369,7 +7369,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "zHcKYFiwyp",
@@ -7380,7 +7380,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GES6H2ShQl",
@@ -7391,7 +7391,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mM4B5heV67",
@@ -7402,7 +7402,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5AFW5iBv2Q",
@@ -7413,7 +7413,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "NugsOI2rZM",
@@ -7424,7 +7424,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "csCuxWTFKK",
@@ -7435,7 +7435,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "IoJn5ML0JF",
@@ -7446,7 +7446,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SLYFpQdCVH",
@@ -7457,7 +7457,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "r8pTsPLrBZ",
@@ -7468,7 +7468,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ey8tV6HOnP",
@@ -7479,7 +7479,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "WHCTL8PKc2",
@@ -7490,7 +7490,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "MDE6nmecu4",
@@ -7501,7 +7501,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "qcTVsCBh0q",
@@ -7512,7 +7512,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "qVcvN1zRhy",
@@ -7523,7 +7523,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ewjhKFvF7e",
@@ -7534,7 +7534,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "564HCAqc8b",
@@ -7545,7 +7545,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "RCFP67b3zX",
@@ -7556,7 +7556,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "7lhDxlD64f",
@@ -7567,7 +7567,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bhTOHFX3Aq",
@@ -7578,7 +7578,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "M7NOSafNKM",
@@ -7589,7 +7589,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5BnExW6a0m",
@@ -7600,7 +7600,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9b5ac931VQ",
@@ -7611,7 +7611,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "STFJGPIMfc",
@@ -7622,7 +7622,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kILs3F7glw",
@@ -7633,7 +7633,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FHsxAkFm1p",
@@ -7644,7 +7644,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "JBoU1QdhWb",
@@ -7655,7 +7655,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2g32TNSk3M",
@@ -7666,7 +7666,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Dfp5ZdLTfi",
@@ -7677,7 +7677,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "H1c0ZiRjTo",
@@ -7688,7 +7688,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "5vfTHvvdBq",
@@ -7699,7 +7699,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LiLyrjJE4S",
@@ -7710,7 +7710,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Aq6KnFE3gG",
@@ -7721,7 +7721,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "oCD9gkzyMP",
@@ -7732,7 +7732,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JiI89jzbbZ",
@@ -7743,7 +7743,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "wnzE70fl3g",
@@ -7754,7 +7754,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2bHTkACtqd",
@@ -7765,7 +7765,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "PTMJejSnli",
@@ -7776,7 +7776,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "JMZlDGP5sW",
@@ -7787,7 +7787,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "tHS3yRT9KM",
@@ -7798,7 +7798,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "c5WrM30eA5",
@@ -7809,7 +7809,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "dKsI1UGvkl",
@@ -7820,7 +7820,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "dQauHB7BZA",
@@ -7831,7 +7831,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "4iB6GjV4PM",
@@ -7842,7 +7842,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "VG2MA3kJoR",
@@ -7853,7 +7853,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GmpgWc6mQm",
@@ -7864,7 +7864,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "VkYSUG36ct",
@@ -7875,7 +7875,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "0WOdFvimkc",
@@ -7886,7 +7886,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Aa5Ug2XCV8",
@@ -7897,7 +7897,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9HAKZl6VSz",
@@ -7908,7 +7908,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VWhNAWo595",
@@ -7919,7 +7919,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Rk9Thdn5wS",
@@ -7930,7 +7930,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "pSFjiTA212",
@@ -7941,7 +7941,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "d2CoI8LQfv",
@@ -7952,7 +7952,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "POZN1XSxHy",
@@ -7963,7 +7963,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VFXY0b17Qc",
@@ -7974,7 +7974,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "IQVkYJPWFB",
@@ -7985,7 +7985,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "UlFmsOgek7",
@@ -7996,7 +7996,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "DAEHdqzkuq",
@@ -8007,7 +8007,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "T8LPOJC5Oz",
@@ -8018,7 +8018,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HBhdbUbfFI",
@@ -8029,7 +8029,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "dscD6Lym03",
@@ -8040,7 +8040,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ciNhUeuz42",
@@ -8051,7 +8051,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "CCuwpwKxsR",
@@ -8062,7 +8062,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Dx7Qbl91QX",
@@ -8073,7 +8073,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "vNbwhfeLcT",
@@ -8084,7 +8084,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6HhtUcNAjp",
@@ -8095,7 +8095,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "HZK0iPO4QD",
@@ -8106,7 +8106,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "uijnKgJQQp",
@@ -8117,7 +8117,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "nRyZhGcLr6",
@@ -8128,7 +8128,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "AWtp1E4Fo0",
@@ -8139,7 +8139,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JBRQ26Fty0",
@@ -8150,7 +8150,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "24BQh3HE8D",
@@ -8161,7 +8161,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ba3Lu6UyC1",
@@ -8172,7 +8172,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Av4qV2MDZI",
@@ -8183,7 +8183,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "b666pls3W2",
@@ -8194,7 +8194,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cN9lyunFxJ",
@@ -8205,7 +8205,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "jC5guSNtRx",
@@ -8216,7 +8216,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "F2NcrHnQfJ",
@@ -8227,7 +8227,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "HxQ90VuHAk",
@@ -8238,7 +8238,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "yJOFJ8DYq3",
@@ -8249,7 +8249,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "DJdO3unaAb",
@@ -8260,7 +8260,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "RJX5JHYazW",
@@ -8271,7 +8271,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "82TPVo6AN4",
@@ -8282,7 +8282,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Fjn4JM5vjG",
@@ -8293,7 +8293,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "y5egbhDKTu",
@@ -8304,7 +8304,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2pLxFm6sw9",
@@ -8315,7 +8315,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "WZDaa3cuBD",
@@ -8326,7 +8326,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UFV0L1GlaY",
@@ -8337,7 +8337,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "hfjbFWGnGs",
@@ -8348,7 +8348,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "KaM1tiAz4H",
@@ -8359,7 +8359,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yuOq3xGffK",
@@ -8370,7 +8370,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "JwRGXvkfPa",
@@ -8381,7 +8381,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Pw9EDCDQal",
@@ -8392,7 +8392,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "POoN03bSpA",
@@ -8403,7 +8403,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "f1z5JBwxxE",
@@ -8414,7 +8414,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "URAFvzOIqj",
@@ -8425,7 +8425,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "u1GUIKMkGN",
@@ -8436,7 +8436,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "NOKLUeMhCH",
@@ -8447,7 +8447,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "TnnuMv2Uww",
@@ -8458,7 +8458,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "7hnKvkUXLN",
@@ -8469,7 +8469,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4A5EUnGbL4",
@@ -8480,7 +8480,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "N2DRCB4w9n",
@@ -8491,7 +8491,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ZVx0ht7hCa",
@@ -8502,7 +8502,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "r22g5EB55R",
@@ -8513,7 +8513,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "2Fw9wsF3h7",
@@ -8524,7 +8524,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "0LNJ7IheBu",
@@ -8535,7 +8535,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "zq27O3vdPR",
@@ -8546,7 +8546,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "yusRr6gaUV",
@@ -8557,7 +8557,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "HRFhzrNDJF",
@@ -8568,7 +8568,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "nrFxLqKK7L",
@@ -8579,7 +8579,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "nxC1KJrZcE",
@@ -8590,7 +8590,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Hmw7uNlB36",
@@ -8601,7 +8601,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "RxDCDafVpX",
@@ -8612,7 +8612,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "jkqFmiaCvK",
@@ -8623,7 +8623,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "cd1gAHGlPt",
@@ -8634,7 +8634,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "fhFPkwhFBs",
@@ -8645,7 +8645,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "lzD3jJMq7L",
@@ -8656,7 +8656,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8u25fVgAcG",
@@ -8667,7 +8667,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "TWUdPiMBop",
@@ -8678,7 +8678,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rrGcG3fhKP",
@@ -8689,7 +8689,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "QcC95oEiO9",
@@ -8700,7 +8700,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "X5KwgjdJdL",
@@ -8711,7 +8711,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bcyzzOTY25",
@@ -8722,7 +8722,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TpTfs7FhZM",
@@ -8733,7 +8733,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "SWmRwNJ6bs",
@@ -8744,7 +8744,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "V2y0j1qYEg",
@@ -8755,7 +8755,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mPnGySGvim",
@@ -8766,7 +8766,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "byVFgA6w0s",
@@ -8777,7 +8777,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "prirULRvja",
@@ -8788,7 +8788,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "KNvWDJlF4g",
@@ -8799,7 +8799,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "tHFcBu0jsM",
@@ -8810,7 +8810,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "g6wM0sUJWQ",
@@ -8821,7 +8821,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "GMo1UeoVxV",
@@ -8832,7 +8832,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KHc3CODz22",
@@ -8843,7 +8843,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "mgAoFYL6Id",
@@ -8854,7 +8854,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "mHSpgef4EU",
@@ -8865,7 +8865,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "44TJgUJVbi",
@@ -8876,7 +8876,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "syJN6LG1nk",
@@ -8887,7 +8887,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "iz4GtVtW8V",
@@ -8898,7 +8898,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "DJe6LpHBAa",
@@ -8909,7 +8909,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ZF0GPDg7q5",
@@ -8920,7 +8920,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "NziqnF5SBr",
@@ -8931,7 +8931,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Ce12LoKBaF",
@@ -8942,7 +8942,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7Ankvqkv6U",
@@ -8953,7 +8953,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4I08Y9dPG9",
@@ -8964,7 +8964,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pNWpjRuCAs",
@@ -8975,7 +8975,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rMYRXXYnLJ",
@@ -8986,7 +8986,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4HDyTAIFBY",
@@ -8997,7 +8997,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "2sQKnDDYce",
@@ -9008,7 +9008,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "j0p21FlO2s",
@@ -9019,7 +9019,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mD2MZMNHOC",
@@ -9030,7 +9030,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "4xPv6HLmlu",
@@ -9041,7 +9041,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "9u8e6hDe2M",
@@ -9052,7 +9052,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "eqpFeJkV0D",
@@ -9063,7 +9063,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "01GwQ6QBez",
@@ -9074,7 +9074,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "cVnGm4zBkm",
@@ -9085,7 +9085,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "HEvRl2s5DK",
@@ -9096,7 +9096,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bz1UviDA0k",
@@ -9107,7 +9107,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ObuWr7fUpl",
@@ -9118,7 +9118,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "eOu6B2kFwT",
@@ -9129,7 +9129,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pgdfgiKfHe",
@@ -9140,7 +9140,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "U36RN6d0hy",
@@ -9151,7 +9151,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "wmyoHHiqbF",
@@ -9162,7 +9162,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EMsemD6OcE",
@@ -9173,7 +9173,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ARRZafogEO",
@@ -9184,7 +9184,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "zIQYz8XCrR",
@@ -9195,7 +9195,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kNdOvLJXP0",
@@ -9206,7 +9206,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "v842CRX8Fb",
@@ -9217,7 +9217,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "j70pie4Kgy",
@@ -9228,7 +9228,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "nZ89PWUp2Z",
@@ -9239,7 +9239,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UG8AYLQGM0",
@@ -9250,7 +9250,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5zk3Cil3XK",
@@ -9261,7 +9261,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GsIgLBHdwz",
@@ -9272,7 +9272,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "QrycbjekQr",
@@ -9283,7 +9283,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mOMrWLck3g",
@@ -9294,7 +9294,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "sgHr1E5RuF",
@@ -9305,7 +9305,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ssP2PEk3g0",
@@ -9316,7 +9316,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "CUyaNnH5fe",
@@ -9327,7 +9327,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "u2rkoXCc5t",
@@ -9338,7 +9338,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "8IYnsmyz0p",
@@ -9349,7 +9349,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "V0RvN5c0pA",
@@ -9360,7 +9360,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MLlUHlEt8G",
@@ -9371,7 +9371,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "kCzBlYEWLx",
@@ -9382,7 +9382,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "o9o7dYXTrF",
@@ -9393,7 +9393,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "cc6YkZYa9b",
@@ -9404,7 +9404,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "iwPlRJLaeM",
@@ -9415,7 +9415,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "kpQWwpRPqK",
@@ -9426,7 +9426,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "tSz4eSOjAr",
@@ -9437,7 +9437,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "bxmj5uRvZZ",
@@ -9448,7 +9448,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "gFKkv8mUuG",
@@ -9459,7 +9459,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "mFwiR5HAQP",
@@ -9470,7 +9470,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "VhNo0fmgw5",
@@ -9481,7 +9481,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "91YQzL1DJT",
@@ -9492,7 +9492,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "5a3RBBhlao",
@@ -9503,7 +9503,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "sQFsviHVSh",
@@ -9514,7 +9514,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "IHiL65lDrQ",
@@ -9525,7 +9525,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7pUwvQCBFo",
@@ -9536,7 +9536,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "aSvuYTBVa6",
@@ -9547,7 +9547,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9R1pZTW02Y",
@@ -9558,7 +9558,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6GwU4IUwBs",
@@ -9569,7 +9569,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "txwfyKQSp9",
@@ -9580,7 +9580,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "yCOUW8AiiP",
@@ -9591,7 +9591,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "gvgmGxsj0e",
@@ -9602,7 +9602,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "kD2qyNpxf0",
@@ -9613,7 +9613,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "L7TWxCvHEG",
@@ -9624,7 +9624,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "OVAcu6hi9v",
@@ -9635,7 +9635,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "F6EKToMu6r",
@@ -9646,7 +9646,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "JA8OR6EIYv",
@@ -9657,7 +9657,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "TD5F16yzDp",
@@ -9668,7 +9668,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "LTQwRg5t87",
@@ -9679,7 +9679,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "pBzUQ3LfMm",
@@ -9690,7 +9690,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "fXSIzKY7v7",
@@ -9701,7 +9701,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "lHsPHcslEx",
@@ -9712,7 +9712,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "N1ShBZcDxF",
@@ -9723,7 +9723,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mrq9ODcY4K",
@@ -9734,7 +9734,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "MLZdOGrBjJ",
@@ -9745,7 +9745,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "rJCnYjFOwT",
@@ -9756,7 +9756,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ErhwnyOIDC",
@@ -9767,7 +9767,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "kV80KmMsOj",
@@ -9778,7 +9778,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9cJnPmJAvK",
@@ -9789,7 +9789,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "VNMhuiei55",
@@ -9800,7 +9800,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "JwAgsIY14J",
@@ -9811,7 +9811,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "d6rGvhCEgB",
@@ -9822,7 +9822,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "EjflK2oezr",
@@ -9833,7 +9833,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GhnFU0opPj",
@@ -9844,7 +9844,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "AVA8HfQb25",
@@ -9855,7 +9855,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GHTBaBwBEH",
@@ -9866,7 +9866,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "X9qMYm3I2m",
@@ -9877,7 +9877,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "iAKn3WmE5Y",
@@ -9888,7 +9888,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "9UgnNJzaIc",
@@ -9899,7 +9899,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "SwGavGCXOk",
@@ -9910,7 +9910,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Q0snpBL9Tj",
@@ -9921,7 +9921,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "AHfjxgM8xK",
@@ -9932,7 +9932,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "PItC6QhNna",
@@ -9943,7 +9943,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "KGLQ7JN4xT",
@@ -9954,7 +9954,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Qqvf5GEzCw",
@@ -9965,7 +9965,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "NK2GVV8Ssk",
@@ -9976,7 +9976,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "O4RpSwsklJ",
@@ -9987,7 +9987,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "nE6KNif6WJ",
@@ -9998,7 +9998,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "SuukHkkr3E",
@@ -10009,7 +10009,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "HPU8FJ4tKi",
@@ -10020,7 +10020,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "BvVePY8v2w",
@@ -10031,7 +10031,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yUM5JvdmkF",
@@ -10042,7 +10042,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "vxnLUUrtOf",
@@ -10053,7 +10053,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "tppEtXaTjn",
@@ -10064,7 +10064,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "huciYfZqei",
@@ -10075,7 +10075,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "6wiCpEUxVn",
@@ -10086,7 +10086,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Ty4kcJAYGW",
@@ -10097,7 +10097,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "EIH8gRBq7I",
@@ -10108,7 +10108,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jPZN9FgFi8",
@@ -10119,7 +10119,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9Yg5Cg3B1V",
@@ -10130,7 +10130,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SSMZwlmIl5",
@@ -10141,7 +10141,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GZCj51MKh9",
@@ -10152,7 +10152,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "7ZQRNEBW67",
@@ -10163,7 +10163,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "HIb0SLaSFm",
@@ -10174,7 +10174,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "NLCh3BqS9e",
@@ -10185,7 +10185,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "hPDJFescoO",
@@ -10196,7 +10196,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "YRgjSlaYvX",
@@ -10207,7 +10207,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "swsWeiRft1",
@@ -10218,7 +10218,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "LF0Im0UF9d",
@@ -10229,7 +10229,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "y4VQc62dH7",
@@ -10240,7 +10240,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "QjzMFagPfC",
@@ -10251,7 +10251,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "IAUc63JG99",
@@ -10262,7 +10262,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SlZTsGrenZ",
@@ -10273,7 +10273,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "3EMyxl8CJn",
@@ -10284,7 +10284,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "uzUoh2pwTL",
@@ -10295,7 +10295,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Dq6fq2sspY",
@@ -10306,7 +10306,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "GDUK4bV8vh",
@@ -10317,7 +10317,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "mn9ib1RNtm",
@@ -10328,7 +10328,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "BAnHbFWtEc",
@@ -10339,7 +10339,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Ex8EzRDcX9",
@@ -10350,7 +10350,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Riqo0gMZox",
@@ -10361,7 +10361,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "zTGxrw6DJr",
@@ -10372,7 +10372,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "koug6Sf2Rl",
@@ -10383,7 +10383,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "t0vuwFGYv9",
@@ -10394,7 +10394,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "I28IPbvQUm",
@@ -10405,7 +10405,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "3V5050nXrb",
@@ -10416,7 +10416,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "kYeY0Gi99l",
@@ -10427,7 +10427,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "nCuk4ajs5s",
@@ -10438,7 +10438,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yERgIqO11b",
@@ -10449,7 +10449,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "AuSNYkd2G4",
@@ -10460,7 +10460,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "wBRLGeKd6A",
@@ -10471,7 +10471,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "0dAtYD141Z",
@@ -10482,7 +10482,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "F0yS4d1j16",
@@ -10493,7 +10493,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "Sj02XSHP62",
@@ -10504,7 +10504,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "G9zrlY3GCI",
@@ -10515,7 +10515,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "UfR8Wp6uSS",
@@ -10526,7 +10526,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ZVh0Y8gAa3",
@@ -10537,7 +10537,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ar0IpXMbmy",
@@ -10548,7 +10548,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "oNJCkbiXjh",
@@ -10559,7 +10559,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "LemocimRul",
@@ -10570,7 +10570,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "ufOJFGgiR6",
@@ -10581,7 +10581,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "xrMrs8FQS8",
@@ -10592,7 +10592,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "8eBhjKBH0B",
@@ -10603,7 +10603,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UTTMHHUkFc",
@@ -10614,7 +10614,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Y7iileUceB",
@@ -10625,7 +10625,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "GdvGc2M5At",
@@ -10636,7 +10636,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "8f2Vud5ZCH",
@@ -10647,7 +10647,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "dHBZ9165gQ",
@@ -10658,7 +10658,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "cORBiFMbiQ",
@@ -10669,7 +10669,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "SAJirMn0s0",
@@ -10680,7 +10680,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "5ItpAY7jB3",
@@ -10691,7 +10691,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "f5z8PkebBn",
@@ -10702,7 +10702,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "TyV6ZfnRXP",
@@ -10713,7 +10713,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ARU4SarENN",
@@ -10724,7 +10724,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "6BFENxUe8g",
@@ -10735,7 +10735,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "ddgyQvibMG",
@@ -10746,7 +10746,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "AmEbTiBuEp",
@@ -10757,7 +10757,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "lkL7WAqI1e",
@@ -10768,7 +10768,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Jqnl8OQac9",
@@ -10779,7 +10779,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "d62LXnqGUr",
@@ -10790,7 +10790,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9XR9ZEuNEp",
@@ -10801,7 +10801,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "CWcSTww0pB",
@@ -10812,7 +10812,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "Lny8N0cwjf",
@@ -10823,7 +10823,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FTvTCUi8xm",
@@ -10834,7 +10834,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "y4HXKP37Eu",
@@ -10845,7 +10845,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "ObaAAvOTcC",
@@ -10856,7 +10856,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "yKjSNJpKsf",
@@ -10867,7 +10867,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "XPMJBJ1Mwt",
@@ -10878,7 +10878,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "FbWZOZyyeA",
@@ -10889,7 +10889,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "SyFgiJjDMh",
@@ -10900,7 +10900,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "jf3H9uolva",
@@ -10911,7 +10911,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "BdAehTrB0h",
@@ -10922,7 +10922,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "UAZ6foKrCX",
@@ -10933,7 +10933,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "9SOHGpuZrj",
@@ -10944,7 +10944,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "E7Ci3jwVdD",
@@ -10955,7 +10955,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "m2MvCyXsKG",
@@ -10966,7 +10966,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "red"
+        "status": "offline"
     },
     {
         "objectId": "Vd4cnhNAk0",
@@ -10977,7 +10977,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "reliability": "green"
+        "status": "online"
     },
     {
         "objectId": "EeSxMIZCN3",
@@ -10988,7 +10988,7 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "yellow"
+        "status": "not-installed"
     },
     {
         "objectId": "mN2Zx8uPh9",
@@ -10999,6 +10999,6 @@ exports.default = [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "reliability": "green"
+        "status": "online"
     }
 ];

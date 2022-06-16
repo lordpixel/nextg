@@ -7,7 +7,11 @@
 </ng-container>
 
 <ng-container *ngIf="type === 'color'">
-    <color-cell class="color" [color]="value" ></color-cell>
+    <color-cell class="color" [value]="value" ></color-cell>
+</ng-container>
+
+<ng-container *ngIf="type === 'status'">
+    <status-cell class="status" [status]="value" ></status-cell>
 </ng-container>
 
 <ng-container *ngIf="type === 'link'">

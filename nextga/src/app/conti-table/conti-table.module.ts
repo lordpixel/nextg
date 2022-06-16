@@ -15,6 +15,7 @@ import { RowCellComponent } from './table-body/table-row/row-cell/row-cell.compo
 import { SortInputComponent } from './table-header/sort-input/sort-input.component';
 import { PaginationComponent } from './pagination/pagination.component';
 import { ColorCellComponent } from './components/color-cell/color-cell.component';
+import { StatusCellComponent } from './components/status-cell/status-cell.component';
 import { IconComponent } from './components/icon/icon.component';
 import { LoadingComponent } from './components/loading/loading.component';
 
@@ -31,7 +32,8 @@ import { LoadingComponent } from './components/loading/loading.component';
     PaginationComponent,
     ColorCellComponent,
     IconComponent,
-    LoadingComponent
+    LoadingComponent,
+    StatusCellComponent
   ],
   exports: [
     ContiTableComponent

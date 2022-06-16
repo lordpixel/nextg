@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, HostBinding, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'color-cell',
@@ -7,18 +7,20 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class ColorCellComponent implements OnInit {
 
-  @Input() color: string = '';
+  /**
+   * this binds the pagination css class to the host elem */
+  @HostBinding('class') className: string = 'transparent';
 
   @Input() value: string = '';
 
   @Input() size: number = 16;
 
-  fill: string = 'fill:transparent';
+  @Input() title: string = '';
 
   constructor() { }
 
   ngOnInit(): void {
-    this.fill =  `fill:${this.color}`;
+    this.className = this.value;
   }
 
 }

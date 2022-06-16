@@ -1,0 +1,68 @@
+:host {
+
+    &.transparent {
+        svg {
+            fill: transparent,
+        }
+    }
+
+    &.gray {
+        svg {
+            fill: #9b9b9b,
+        }
+    }
+
+    &.white {
+        svg {
+            fill: #fff,
+        }
+    }
+
+    &.black {
+        svg {
+            fill: #000,
+        }
+    }
+
+    &.orange {
+        svg {
+            fill: orange,
+        }
+    }
+
+    &.red {
+        svg {
+            fill: #ff595e,
+        }
+    }
+
+    &.pink {
+        svg {
+            fill: #ff006e,
+        }
+    }
+
+    &.blue {
+        svg {
+            fill: #1982c4,
+        }
+    }
+
+    &.yellow {
+        svg {
+            fill: #ffca3a,
+        }
+    }
+
+    &.green {
+        svg {
+            fill: #8ac926,
+        }
+    }
+
+    &.purple {
+        svg {
+            fill: #6a4c93,
+        }
+    }
+}

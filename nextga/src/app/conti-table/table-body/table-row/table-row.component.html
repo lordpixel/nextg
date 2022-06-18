@@ -1,9 +1,14 @@
 <td *ngIf="isSelectable">
     <selection-toggle [recordID]="record[idProperty]" type="checkbox" ></selection-toggle>
 </td>
-<td row-cell
+<td row-cell *ngFor="let column of columns"
+    [column]="column"
     [ngClass]="column.type"
-    *ngFor="let column of columns"
+    [record]="record"
     [type]="column.type"
     [value]="record[(column.attribute)]"
 ></td>
+<td action-cell *ngIf="actions"
+    [actions]="actions"
+    [record]="record">
+</td>

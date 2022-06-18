@@ -1,25 +1,29 @@
+<ng-container *ngIf="type === 'empty'">
+    &nbsp;
+</ng-container>
+
 <ng-container *ngIf="type === 'text'">
     {{value}}
 </ng-container>
 
-<ng-container *ngIf="type === 'boolean'">
-    <input type="checkbox" [checked]="value" class="readonly" />
-</ng-container>
+<input *ngIf="type === 'boolean'"
+    type="checkbox"
+    [checked]="value"
+    class="readonly" />
 
-<ng-container *ngIf="type === 'color'">
-    <color-cell class="color" [value]="value" ></color-cell>
-</ng-container>
+<color-cell *ngIf="type === 'color'"
+    class="color"
+    [value]="value">
+</color-cell>
 
-<ng-container *ngIf="type === 'status'">
-    <status-cell class="status" [status]="value" ></status-cell>
-</ng-container>
+<status-cell *ngIf="type === 'status'"
+    class="status"
+    [value]="value">
+</status-cell>
 
-<ng-container *ngIf="type === 'link'">
-    <a routerLink="value" >
-        link to user component
-    </a>
-</ng-container>
+<link-cell *ngIf="type === 'link'"
+    [config]="column.config || {}"
+    [record]="record"
+    [title]="column">
+</link-cell>
 
-<ng-container *ngIf="type === 'empty'">
-    &nbsp;
-</ng-container>

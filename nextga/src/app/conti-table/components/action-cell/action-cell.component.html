@@ -1,0 +1,8 @@
+<div>
+    <icon *ngFor="let action of actions"
+        (click)="handleActionClick(action.name)"
+        [name]="action.icon"
+        [value]="action.title"
+        [size]="16">
+    </icon>
+</div>

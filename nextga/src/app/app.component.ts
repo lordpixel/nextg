@@ -2,6 +2,7 @@ import { Component, Input, OnInit } from '@angular/core';
 
 import { StateService } from './state.service';
 import { ICar } from './app.types';
+import { ITableAction, ITableActionEvent, IUnknownObject } from './conti-table/conti-table.types';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +10,19 @@ import { ICar } from './app.types';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
+  actions: ITableAction[] = [
+    {
+      icon: 'pencil',
+      name: 'edit',
+      title: 'Edit'
+    },
+    {
+      icon: 'bucket',
+      name: 'delete',
+      title: 'Delete'
+    }
+  ];
+
   data: ICar[] = [];
 
   contiColumns = [
@@ -61,6 +75,23 @@ export class AppComponent implements OnInit{
       type: 'text',
     },
     {
+      config: {
+        fragment: 'objectId',
+        params: [
+          'year',
+          'make',
+          'model',
+        ],
+        title: 'Click to see more about this Car',
+        url: 'https://cars.io/[make]/[model]/[year]'
+      },
+      attribute: 'objectId',
+      isFiltrable: false,
+      isSortable: false,
+      label: 'Visit',
+      type: 'link',
+    },
+    {
       attribute: 'createdAt',
       label: 'Created At',
       isFiltrable: false,
@@ -80,7 +111,7 @@ export class AppComponent implements OnInit{
   ];
 
   isLoading: boolean = false;
-  selection: string[] = [];
+  selection: IUnknownObject[] = [];
   total: number = 0;
   
   constructor(private state: StateService) {
@@ -88,6 +119,10 @@ export class AppComponent implements OnInit{
   }
 
   ngOnInit(): void {
+  }
+
+  handleRowActionClick(event: ITableActionEvent) {
+    console.log('host: ', event);
   }
 
   handleDataUpdate(endpointResponse: any) {
@@ -102,7 +137,7 @@ export class AppComponent implements OnInit{
     this.state.fetchData.emit(query);
   }
 
-  handleSelectionChange(newSelection: string[]) {
+  handleSelectionChange(newSelection: IUnknownObject[]) {
     this.selection = newSelection;
   }
 

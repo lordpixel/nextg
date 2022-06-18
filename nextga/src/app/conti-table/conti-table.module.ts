@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
 
 import { TableService } from './table-service';
 
@@ -18,6 +19,8 @@ import { ColorCellComponent } from './components/color-cell/color-cell.component
 import { StatusCellComponent } from './components/status-cell/status-cell.component';
 import { IconComponent } from './components/icon/icon.component';
 import { LoadingComponent } from './components/loading/loading.component';
+import { LinkCellComponent } from './components/link-cell/link-cell.component';
+import { ActionCellComponent } from './components/action-cell/action-cell.component';
 
 @NgModule({
   declarations: [
@@ -33,13 +36,16 @@ import { LoadingComponent } from './components/loading/loading.component';
     ColorCellComponent,
     IconComponent,
     LoadingComponent,
-    StatusCellComponent
+    StatusCellComponent,
+    LinkCellComponent,
+    ActionCellComponent
   ],
   exports: [
     ContiTableComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    RouterModule
   ],
   providers: []
 })

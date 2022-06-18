@@ -1,14 +1,18 @@
-import { Injectable } from '@angular/core';
+import { EventEmitter, Injectable } from '@angular/core';
 
 import { BehaviorSubject } from 'rxjs';
 import { shareReplay } from 'rxjs/operators';
 import { IUnknowObject } from '../app.types';
 
-import {ESortOrder, IPaginationState, ISortState, ITableServiceState, IUnknownObject} from './conti-table.types';
+import {ESortOrder, IPaginationState, ISortState, ITableActionEvent, ITableServiceState, IUnknownObject} from './conti-table.types';
 
 @Injectable()
 export class TableService {
 
+  /**
+    * Behavior Subject to keep track of filters and their values */
+  public readonly action$ = new EventEmitter<ITableActionEvent>();
+ 
   /**
     * Behavior Subject to keep track of filters and their values */
   private readonly _filter = new BehaviorSubject<IUnknownObject>({});

@@ -1,13 +1,15 @@
 
 <thead table-header
     [columns]="getVisibleColumns()"
-    [recordsetIDs]="extractRecordsetIDs()"
+    [hasActions]="actions.length > 0"
     [isSelectable]="isSelectable"
+    [recordsetIDs]="extractRecordsetIDs()"
     >
 </thead>
 
 <caption pagination
     [count]="data.length"
+    [labels]="labels"
     [modelSingular]="modelSingular"
     [modelPlural]="modelPlural"
     [total]="total">
@@ -26,6 +28,7 @@
 </tbody>
 
 <tbody table-body
+    [actions]="actions"
     [columns]="columns"
     [data]="data"
     [idProperty]="idProperty"

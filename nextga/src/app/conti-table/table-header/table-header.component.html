@@ -5,6 +5,9 @@
 <th *ngFor="let column of columns">
     <div>
         {{column.label}} <sort-input  *ngIf="column.isSortable" [attribute]="column.sortAttribute || column.attribute"></sort-input>
-    </div>
+    </div><br *ngIf="!column.isFiltrable">
     <filter-input *ngIf="column.isFiltrable" [attribute]="column.attribute" ></filter-input>
+</th>
+<th *ngIf="hasActions">
+    &nbsp;
 </th>

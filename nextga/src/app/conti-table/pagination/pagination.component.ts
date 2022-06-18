@@ -1,6 +1,6 @@
 import { Component, HostBinding, Input, OnChanges, OnInit } from '@angular/core';
 import { Subscription } from 'rxjs';
-import { IPaginationState, ISelectOption } from '../conti-table.types';
+import { ITableLabels, IPaginationState, ISelectOption } from '../conti-table.types';
 import { TableService } from '../table-service';
 
 const defaultPageSizeOptions: ISelectOption[] = [
@@ -26,6 +26,10 @@ export class PaginationComponent implements OnInit {
    * 
    * A list of objects describing each column */
   @Input() count: number = 0;
+
+  /**
+   * labels */
+   @Input() labels!: ITableLabels;
 
   /**
    * The model name in singular mode */

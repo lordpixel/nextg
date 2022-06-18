@@ -1,4 +1,5 @@
 <table conti-table
+    [actions]="actions"
     [columns]="contiColumns"
     [data]="data"
     [total]="total"
@@ -6,8 +7,9 @@
     [isLoading]="isLoading"
     [isSelectable]="true"
     [isLoading]="isLoading"
-    modelPlural="Vehicles"
-    modelSingular="Vehicle"
+    modelPlural="Vehículos"
+    modelSingular="Vehículo"
+    (onAction)="handleRowActionClick($event)"
     (onSelection)="handleSelectionChange($event)"
     (onQueryUpdate)="handleQueryUpdate($event)"
 ></table>

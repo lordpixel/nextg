@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 
-import { ETableColumType } from '../../../conti-table.types';
+import { ETableColumType, ITableColumn, IUnknownObject } from '../../../conti-table.types';
 
 @Component({
   selector: '[row-cell]',
@@ -8,6 +8,16 @@ import { ETableColumType } from '../../../conti-table.types';
   styleUrls: ['./row-cell.component.scss']
 })
 export class RowCellComponent implements OnInit {
+
+  /**
+   * Value
+   * 
+   * The content to display */
+  @Input() column!: ITableColumn;
+
+  /**
+   * The record from which link params will be extracted */
+  @Input() record!: IUnknownObject;
 
   /**
    * Type

@@ -1,19 +1,19 @@
 <div>
     <div *ngIf="count >= 1">
-        <span *ngIf="count < page_size">Displaying {{page_size * (page || 1)  - page_size +1}} - {{total}} {{count === 1 ? modelSingular : modelPlural}} of {{total}}</span>
-        <span *ngIf="count === page_size">Displaying {{page_size * (page || 1) - page_size +1}}-{{count * (page || 1)}} {{count === 1 ? modelSingular : modelPlural}} of {{total}}</span>
+        <span *ngIf="count < page_size">{{labels.displaying}} {{page_size * (page || 1)  - page_size +1}} - {{total}} {{count === 1 ? modelSingular : modelPlural}} {{labels.of}} {{total}}</span>
+        <span *ngIf="count === page_size">{{labels.displaying}}  {{page_size * (page || 1) - page_size +1}} - {{count * (page || 1)}} {{count === 1 ? modelSingular : modelPlural}} {{labels.of}} {{total}}</span>
     </div>
         
-    <span *ngIf="count <= 0">No {{modelPlural}}</span>
+    <span *ngIf="count <= 0">{{labels.no}}  {{modelPlural}}</span>
     <div>
         <label *ngIf="pageOptions.length">
-            page: 
+            {{labels.page}} : 
             <select (change)="handlePageSelect($event)">
                 <option *ngFor="let option of pageOptions" [value]="option.value" [selected]="option.value === page">{{option.label}}</option>
             </select>
         </label>
         <label *ngIf="pageSizeOptions.length">
-            Per page: 
+            {{labels.page_size}} : 
             <select (change)="handlePageSizeSelect($event)">
                 <option *ngFor="let option of pageSizeOptions" [value]="option.value" [selected]="option.value === page_size">{{option.label}}</option>
             </select>

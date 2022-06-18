@@ -1,7 +1,7 @@
 import { Component, EventEmitter, HostBinding, Input, OnDestroy, OnInit, Output } from '@angular/core';
 import { Subscription } from 'rxjs';
 
-import { IPaginationState, ISortState, ITableColumn, IUnknownObject } from './conti-table.types';
+import { IPaginationState, ISortState, ITableAction, ITableActionEvent, ITableColumn, ITableLabels, IUnknownObject } from './conti-table.types';
 import { TableService } from './table-service';
 
 @Component({
@@ -15,6 +15,11 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   /**
    * this binds the pagination css class to the host elem */
   @HostBinding('class') className: string = "conti-table";
+
+  /**
+   * A collection of action items that can be applied to 
+   * each row separately */
+  @Input() actions: ITableAction[] = [];
 
   /**
    * Columns
@@ -70,6 +75,18 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   @Input() isLoading: boolean = false;
 
   /**
+   * labels */
+  @Input() labels: ITableLabels = {
+    loading: 'Cargando...',
+    displaying: 'Mostrando',
+    of: 'de',
+    no: 'Sin',
+    page: 'Página',
+    page_size: 'Limite',
+    no_data: 'Sin Datos'
+  };
+
+  /**
    * The model name in singular mode */
   @Input() modelSingular: string = 'Record';
 
@@ -88,7 +105,13 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * onSelection()
    * 
    * An EventEmitter to handle selection updates. */
-  @Output() onSelection = new EventEmitter<string[]>();
+  @Output() onAction = new EventEmitter<ITableActionEvent>();
+
+  /**
+   * onSelection()
+   * 
+   * An EventEmitter to handle selection updates. */
+  @Output() onSelection = new EventEmitter<IUnknownObject[]>();
 
   /**
    * onQueryUpdate()
@@ -100,6 +123,8 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   private querySub?: Subscription;
 
   private selectionSub?: Subscription;
+
+  private actionSub?: Subscription;
 
   constructor(private table: TableService) {
     this.querySub = this.table.query$.subscribe(this.handleQueryUpdate.bind(this));
@@ -118,11 +143,14 @@ export class ContiTableComponent implements OnInit, OnDestroy {
       sort: this.initialSort,
       selection: [...this.initialSelection],
     });
+
+    this.actionSub = this.table.action$.subscribe(this.handleOnAction.bind(this));
   }
   
   ngOnDestroy(): void {
     this.querySub?.unsubscribe();
     this.selectionSub?.unsubscribe();
+    this.actionSub?.unsubscribe();
   }
 
   handleQueryUpdate(newQuery: string) {
@@ -130,7 +158,9 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   }
 
   handleSelectionChange(newSelection: string[]) {
-    this.onSelection.emit(newSelection);
+    const selectedRecords = this.data.filter((record) => newSelection.includes(record[this.idProperty]));
+
+    this.onSelection.emit(selectedRecords);
   }
 
   extractRecordsetIDs() {
@@ -139,6 +169,11 @@ export class ContiTableComponent implements OnInit, OnDestroy {
 
       return recordsetIDs;
     }, []);
+  }
+
+  handleOnAction(event: ITableActionEvent) {
+    console.log('table: ', event);
+    this.onAction.emit(event);
   }
   
   getVisibleColumns() {

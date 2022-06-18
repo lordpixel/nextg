@@ -1,6 +1,6 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
-import {ITableColumn, IUnknownObject} from '../conti-table.types';
+import {ITableAction, ITableActionEvent, ITableColumn, IUnknownObject} from '../conti-table.types';
 
 @Component({
   selector: '[table-body]',
@@ -8,6 +8,11 @@ import {ITableColumn, IUnknownObject} from '../conti-table.types';
   styleUrls: ['./table-body.component.scss']
 })
 export class TableBodyComponent implements OnInit {
+
+  /**
+   * A collection of action items that can be applied to 
+   * each row separately */
+  @Input() actions: ITableAction[] = [];
 
   /**
    * Columns
@@ -37,7 +42,7 @@ export class TableBodyComponent implements OnInit {
   ngOnInit(): void {
     
   }
-  
+
   getVisibleColumns() {
     return this.columns.reduce<ITableColumn[]>((visibleColumns: ITableColumn[], column: ITableColumn) => {
 

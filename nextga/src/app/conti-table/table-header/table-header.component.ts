@@ -16,7 +16,11 @@ export class TableHeaderComponent implements OnInit {
    * 
    * A list of objects describing each column */
   @Input() columns: ITableColumn[] = [];
-  
+
+  /**
+   * Specifies if actions were passed to the table,
+   * if true, it will append an extra th at the end */
+  @Input() hasActions: boolean = false;
 
   /**
    * Is selectable

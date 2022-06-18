@@ -1,37 +1,60 @@
-<ng-container *ngIf="name === 'filter'">
-    <svg width="14px" height="18px"  viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-        <style type="text/css">
-            .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#a6a6a6;}
-        </style>
-        <g>
-            <path class="st0" d="M199.11,426.67h113.78v-56.89H199.11V426.67z M0,85.33v56.89h512V85.33H0z M85.33,284.44h341.33v-56.89H85.33   V284.44z"/>
-        </g>
-    </svg>
-</ng-container>
+<svg *ngIf="name === 'filter'"
+    viewBox="0 0 512 512"
+    [style]="'enable-background:new 0 0 512 512;' + 'width:' + size + '; height: ' + size"
+    xml:space="preserve">
+    <style type="text/css">
+        .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#a6a6a6;}
+    </style>
+    <g>
+        <path class="st0" d="M199.11,426.67h113.78v-56.89H199.11V426.67z M0,85.33v56.89h512V85.33H0z M85.33,284.44h341.33v-56.89H85.33   V284.44z"/>
+    </g>
+</svg>
 
-<ng-container *ngIf="name === 'sort-asc'">
-    <svg width="14px" height="18px" viewBox="-0.5 -0.5 14 18">
-        <g>
-            <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="orange" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-            <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
-        </g>
-    </svg>
-</ng-container>
+<svg *ngIf="name === 'sort-asc'"
+    [style]="'width:' + size + '; height: ' + size"
+    viewBox="-0.5 -0.5 14 18">
+    <g>
+        <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="orange" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
+    </g>
+</svg>
 
-<ng-container *ngIf="name === 'sort-desc'">
-    <svg width="14px" height="18px" viewBox="-0.5 -0.5 14 18" style="background-color: rgb(255, 255, 255);">
-        <g>
-            <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-            <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="orange" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
-        </g>
-    </svg>
-</ng-container>
+<svg *ngIf="name === 'sort-desc'"
+    [style]="'width:' + size + '; height: ' + size"
+    viewBox="-0.5 -0.5 14 18" 
+    style="background-color: rgb(255, 255, 255);">
+    <g>
+        <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="orange" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
+    </g>
+</svg>
 
-<ng-container *ngIf="name === 'sort-undefined'">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="14px" height="18px" viewBox="-0.5 -0.5 14 18">
-        <g>
-            <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-            <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
-        </g>
-    </svg>
-</ng-container>
+<svg *ngIf="name === 'sort-undefined'"
+    [style]="'width:' + size + '; height: ' + size"
+    viewBox="-0.5 -0.5 14 18">
+    <g>
+        <path d="M 1 7 L 7 1 L 13 7" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 17 L 7 11 L 13 17" fill="none" stroke="#a6a6a6" stroke-width="2" stroke-miterlimit="10" transform="rotate(-180,7,14)" pointer-events="none"/>
+    </g>
+</svg>
+
+<svg *ngIf="name === 'pencil'"
+    [style]="'width:' + size + '; height: ' + size"
+    viewBox="0 0 306.637 306.637"
+    [style]="'enable-background:new 0 0 306.637 306.637; width:' + size + '; height: ' + size"
+    xml:space="preserve">
+    <g>
+        <path d="M12.809,238.52L0,306.637l68.118-12.809l184.277-184.277l-55.309-55.309L12.809,238.52z M60.79,279.943l-41.992,7.896    l7.896-41.992L197.086,75.455l34.096,34.096L60.79,279.943z"/>
+        <path d="M251.329,0l-41.507,41.507l55.308,55.308l41.507-41.507L251.329,0z M231.035,41.507l20.294-20.294l34.095,34.095    L265.13,75.602L231.035,41.507z"/>
+    </g>
+</svg>
+
+<svg *ngIf="name === 'bucket'"
+    [style]="'width:' + size + '; height: ' + size"
+    viewBox="0 0 32 32">
+    <path d="M4,6V8H6V28a2,2,0,0,0,2,2H24a2,2,0,0,0,2-2V8h2V6ZM8,28V8H24V28Z"/>
+    <rect x="12" y="2" width="8" height="2"/>
+    <rect fill="none" width="32" height="32"/>
+    <rect x="12" y="12" width="2" height="12"/>
+    <rect x="18" y="12" width="2" height="12"/>
+</svg>

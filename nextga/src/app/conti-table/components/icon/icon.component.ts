@@ -14,6 +14,10 @@ export class IconComponent implements OnInit {
    @Input() name!: string;
 
   /**
+   * The content to display */
+  @Input() size: number = 16;
+
+  /**
    * Value
    * 
    * The content to display */

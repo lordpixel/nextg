@@ -1,7 +1,7 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, Input, OnInit} from '@angular/core';
 
-import { ITableAction, ITableActionEvent, IUnknownObject } from '../../conti-table.types';
-import { TableService } from '../../table-service';
+import { ITableAction, IUnknownObject } from '../../conti-table.types';
+import { TableService } from '../../services/table-service';
 
 @Component({
   selector: '[action-cell]',
@@ -32,9 +32,7 @@ export class ActionCellComponent implements OnInit {
   @Input() title!: string;
 
   /**
-   * Short text describing what the action does.
-   * 
-   * Title will be passed as attribute down to the svg icon */
+   * The data that feeds the Table row these actions will be applied to */
   @Input() record!: IUnknownObject;
 
 
@@ -45,7 +43,6 @@ export class ActionCellComponent implements OnInit {
   }
 
   handleActionClick(action: string) {
-    console.log('action cell: ', {action, record: this.record});
     this.table.action$.emit({action, record: this.record});
   }
 

@@ -1,6 +1,6 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
-import {ITableAction, ITableActionEvent, ITableColumn, IUnknownObject} from '../conti-table.types';
+import {ITableAction, ITableColumn, IUnknownObject} from '../../conti-table.types';
 
 @Component({
   selector: '[table-body]',

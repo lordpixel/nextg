@@ -92,6 +92,17 @@ export class AppComponent implements OnInit{
       type: 'link',
     },
     {
+      config: {
+        name: 'approval',
+        title: 'Click to approve / disapprove this Car',
+      },
+      attribute: 'approved',
+      isFiltrable: false,
+      isSortable: false,
+      label: 'Approval',
+      type: 'toggle',
+    },
+    {
       attribute: 'createdAt',
       label: 'Created At',
       isFiltrable: false,

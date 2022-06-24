@@ -1,8 +1,8 @@
 import { Component, EventEmitter, HostBinding, Input, OnDestroy, OnInit, Output } from '@angular/core';
 import { Subscription } from 'rxjs';
 
-import { IPaginationState, ISortState, ITableAction, ITableActionEvent, ITableColumn, ITableLabels, IUnknownObject } from './conti-table.types';
-import { TableService } from './table-service';
+import { IPaginationState, ISortState, ITableAction, ITableActionEvent, ITableColumn, ITableLabels, IUnknownObject } from '../../conti-table.types';
+import { TableService } from '../../services/table-service';
 
 @Component({
   selector: '[conti-table]',

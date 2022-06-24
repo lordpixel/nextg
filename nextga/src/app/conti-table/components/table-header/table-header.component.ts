@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 
-import { ITableColumn } from '../conti-table.types';
-import { TableService } from '../table-service';
+import { ITableColumn } from '../../conti-table.types';
+import { TableService } from '../../services/table-service';
 
 
 @Component({

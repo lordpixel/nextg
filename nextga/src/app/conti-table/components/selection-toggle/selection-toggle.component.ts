@@ -1,7 +1,7 @@
 import { Component, EventEmitter, Input, OnInit, Output, OnDestroy } from '@angular/core';
 import { Subscription } from 'rxjs';
 
-import { TableService } from '../table-service';
+import { TableService } from '../../services/table-service';
 
 @Component({
   selector: 'selection-toggle',

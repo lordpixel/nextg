@@ -2,9 +2,8 @@ import { EventEmitter, Injectable } from '@angular/core';
 
 import { BehaviorSubject } from 'rxjs';
 import { shareReplay } from 'rxjs/operators';
-import { IUnknowObject } from '../app.types';
 
-import {ESortOrder, IPaginationState, ISortState, ITableActionEvent, ITableServiceState, IUnknownObject} from './conti-table.types';
+import {ESortOrder, IPaginationState, ISortState, ITableActionEvent, ITableServiceState, IUnknownObject} from '../conti-table.types';
 
 @Injectable()
 export class TableService {

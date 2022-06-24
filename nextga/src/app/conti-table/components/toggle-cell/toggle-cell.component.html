@@ -1,0 +1,22 @@
+<svg
+    (click)="handleToggleClick($event)"
+    viewBox="0 0 210 110"
+    xml:space="preserve"
+    style="height: 20px; width: 45px;">
+    <g>
+        <rect
+            x="5"
+            y="15"
+            width="200"
+            height="70"
+            rx="35"
+            stroke="orange"
+            fill="white"
+            stroke-width="5"></rect>
+        <circle
+            [attr.cx]="value ? 155 : 55"
+            cy="50"
+            r="50"
+            fill="orange"></circle>
+    </g>
+</svg>

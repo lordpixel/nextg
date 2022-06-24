@@ -1,10 +1,10 @@
 import { AfterViewInit, Component, ElementRef, EventEmitter, Input, OnDestroy, Output, ViewChild } from '@angular/core';
 
 import { fromEvent, Subscription } from 'rxjs';
-import { debounceTime, throttleTime, distinctUntilChanged, filter, pluck } from 'rxjs/operators';
+import { debounceTime, distinctUntilChanged, filter, pluck } from 'rxjs/operators';
 
 import { IUnknownObject } from '../../conti-table.types';
-import { TableService } from '../../table-service';
+import { TableService } from '../../services/table-service';
 
 /**
  * Query Token component

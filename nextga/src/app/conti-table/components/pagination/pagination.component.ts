@@ -1,7 +1,7 @@
 import { Component, HostBinding, Input, OnChanges, OnInit } from '@angular/core';
 import { Subscription } from 'rxjs';
-import { ITableLabels, IPaginationState, ISelectOption } from '../conti-table.types';
-import { TableService } from '../table-service';
+import { ITableLabels, IPaginationState, ISelectOption } from '../../conti-table.types';
+import { TableService } from '../../services/table-service';
 
 const defaultPageSizeOptions: ISelectOption[] = [
   {label: '10', value: 10}, 

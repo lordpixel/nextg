@@ -35,6 +35,7 @@ export interface ISelectOption {
 export interface ITableColumn {
     attribute: string,
     label?: string,
+    title?: string,
     type: string,
 
     isFiltrable?: boolean,
@@ -44,7 +45,7 @@ export interface ITableColumn {
     isSortable?: boolean,
     sortAttribute?: string,
 
-    config?: IColorCell | ILinkCell | IStatusCell | ITextCell,
+    config?: IColorCell | ILinkCell | IStatusCell | ITextCell | IToggleCell,
 }
 
 export interface ITableServiceState {
@@ -68,11 +69,16 @@ export interface ILinkCell {
 }
 
 export interface IStatusCell {
+    name?: string,
     size: number,
 }
 
 export interface ITextCell {}
 
+export interface IToggleCell {
+    name?: string,
+    title?: string,
+}
 
 export interface ITableAction {
     icon: string,

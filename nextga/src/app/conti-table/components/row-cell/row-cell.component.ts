@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 
-import { ETableColumType, ITableColumn, IUnknownObject } from '../../../conti-table.types';
+import { ETableColumType, ITableColumn, IUnknownObject } from '../../conti-table.types';
 
 @Component({
   selector: '[row-cell]',

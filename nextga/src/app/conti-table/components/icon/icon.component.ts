@@ -11,7 +11,7 @@ export class IconComponent implements OnInit {
    * Name
    * 
    * Name of icon to display */
-   @Input() name!: string;
+  @Input() name!: string;
 
   /**
    * The content to display */

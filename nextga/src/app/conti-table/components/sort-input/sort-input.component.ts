@@ -2,7 +2,7 @@ import { Component, Input, OnInit } from '@angular/core';
 import { Subscription } from 'rxjs';
 
 import { ESortOrder, ISortState } from '../../conti-table.types';
-import { TableService } from '../../table-service';
+import { TableService } from '../../services/table-service';
 
 @Component({
   selector: 'sort-input',

@@ -24,6 +24,12 @@
 <link-cell *ngIf="type === 'link'"
     [config]="column.config || {}"
     [record]="record"
-    [title]="column">
+    [value]="value">
 </link-cell>
+
+<toggle-cell *ngIf="type === 'toggle'"
+    [config]="column.config"
+    [record]="record"
+    [value]="value">
+</toggle-cell>
 

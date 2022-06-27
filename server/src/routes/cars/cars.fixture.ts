@@ -8,7 +8,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "cptB1C1NSL",
@@ -19,7 +20,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ElhqsRZDnP",
@@ -30,7 +32,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "LUzyWMYJpW",
@@ -41,7 +44,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "rDkHakOBKP",
@@ -52,7 +56,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "1JARpJ2AUB",
@@ -63,7 +68,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "7G1VT2pSNO",
@@ -74,7 +80,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "4q7L9FAU2S",
@@ -85,7 +92,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "jpOC5zs3jx",
@@ -96,7 +104,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "96llWfTOAe",
@@ -107,7 +116,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "5OEvsF1R9k",
@@ -118,7 +128,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "LNq3duGh9z",
@@ -129,7 +140,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "FThs77Cddn",
@@ -140,7 +152,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "t9eGFMIk7E",
@@ -151,7 +164,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "cWQjuYWwc2",
@@ -162,7 +176,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "2lYY81jKzR",
@@ -173,7 +188,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "qGDd5H3yYd",
@@ -184,7 +200,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ALbinxfzM1",
@@ -195,7 +212,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "9eRGwnViia",
@@ -206,7 +224,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "kAgBF7aSaO",
@@ -217,7 +236,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "ygsDiv3hRm",
@@ -228,7 +248,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "92pfQo6pA4",
@@ -239,7 +260,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "VfXndYon3e",
@@ -250,7 +272,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "grl6dVnzM9",
@@ -261,7 +284,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "QrYfmqcnAR",
@@ -272,7 +296,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "hSaQDQkkE0",
@@ -283,7 +308,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "rSQyj88Pwe",
@@ -294,7 +320,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "kkcmfophql",
@@ -305,7 +332,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "V1F5kE5svr",
@@ -316,7 +344,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "bW6jRQ3h2S",
@@ -327,7 +356,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "6YcNNwgY0C",
@@ -338,7 +368,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "dxs3ayh6Yl",
@@ -349,7 +380,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "yZUeGC1bOn",
@@ -360,7 +392,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "JyMpQJbCvy",
@@ -371,7 +404,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "VT4rtTsGBj",
@@ -382,7 +416,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "vRQFNeVlsa",
@@ -393,7 +428,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "OHHuEGKsUC",
@@ -404,7 +440,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "vu2lCeXKzk",
@@ -415,7 +452,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "rg8LbH5ixZ",
@@ -426,7 +464,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "ifEdBTIVDH",
@@ -437,7 +476,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "4J2BvKonKq",
@@ -448,7 +488,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "PlNwrAm6eM",
@@ -459,7 +500,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "VK6hmDAvqP",
@@ -470,7 +512,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "vidGAd8cIJ",
@@ -481,7 +524,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "NHWgNGSFB7",
@@ -492,7 +536,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "MTvnyKqtYJ",
@@ -503,7 +548,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "wTXL9Ze5eF",
@@ -514,7 +560,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "SCG7WEYdG1",
@@ -525,7 +572,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "cKnegrw5AO",
@@ -536,7 +584,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "smKxD5m9KI",
@@ -547,7 +596,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ED6o8Zffqs",
@@ -558,7 +608,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "2ZCPYTGxDj",
@@ -569,7 +620,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "fZGBnnMx4e",
@@ -580,7 +632,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "6qsEYBv6eW",
@@ -591,7 +644,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "4lZKmYPbMk",
@@ -602,7 +656,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "9BdK0PtwKc",
@@ -613,7 +668,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "H1THLG6H1Z",
@@ -624,7 +680,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "XtDg7lwyJT",
@@ -635,7 +692,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "KE29kkqLX6",
@@ -646,7 +704,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "70EmSYGau7",
@@ -657,7 +716,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "YZj6RLht79",
@@ -668,7 +728,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "3phIrCVLh7",
@@ -679,7 +740,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "i6jT5ByjBF",
@@ -690,7 +752,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "RHD7qDmzgU",
@@ -701,7 +764,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "pJCLIx2r8E",
@@ -712,7 +776,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "8kzM0APnBF",
@@ -723,7 +788,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "1AV4avrH6j",
@@ -734,7 +800,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "dow9fD3WF6",
@@ -745,7 +812,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "adJr9Qr42Q",
@@ -756,7 +824,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "F7BG83iyWo",
@@ -767,7 +836,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "VMpSU5DhdC",
@@ -778,7 +848,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "UY03j6Fe12",
@@ -789,7 +860,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "7zxuFmGDLY",
@@ -800,7 +872,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "pTGFRlqNAZ",
@@ -811,7 +884,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "e5835fdPKX",
@@ -822,7 +896,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "rYV3CVGElN",
@@ -833,7 +908,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "DemETgxfzm",
@@ -844,7 +920,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ZcDno27E49",
@@ -855,7 +932,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "eQ15fbmmpw",
@@ -866,7 +944,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "bAVM6QBgYF",
@@ -877,7 +956,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "IeeTDLPJtc",
@@ -888,7 +968,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "5nK3Kjti74",
@@ -899,7 +980,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "ZnSQK6bmSf",
@@ -910,7 +992,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "MGgtV71Gqh",
@@ -921,7 +1004,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "QHVcYMkgs8",
@@ -932,7 +1016,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "0qpktkoahP",
@@ -943,7 +1028,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "wqjaR037XL",
@@ -954,7 +1040,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "4pZjPmNsj5",
@@ -965,7 +1052,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "nAVMCHuWui",
@@ -976,7 +1064,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "nvlklkJGRL",
@@ -987,7 +1076,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Ok8T6kagAQ",
@@ -998,7 +1088,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2o8HcNPula",
@@ -1009,7 +1100,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "IDXLjYyc46",
@@ -1020,7 +1112,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "DMfFQRFW7L",
@@ -1031,7 +1124,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "LQNej2UoF0",
@@ -1042,7 +1136,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "US1p57Oo8w",
@@ -1053,7 +1148,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "SQx4TCijoz",
@@ -1064,7 +1160,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "JsaO4qw9cM",
@@ -1075,7 +1172,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "LnUsyZRETe",
@@ -1086,7 +1184,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "lJtQk4oNv7",
@@ -1097,7 +1196,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.665Z",
         "updatedAt": "2020-01-27T20:44:17.665Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "xxKBCB6qe4",
@@ -1108,7 +1208,8 @@ export default [
         "createdAt": "2020-01-27T20:44:17.666Z",
         "updatedAt": "2020-01-27T20:44:17.666Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "0yxWejt1Kj",
@@ -1119,7 +1220,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "dquJk1A8lm",
@@ -1130,7 +1232,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "kthyzkzwOr",
@@ -1141,7 +1244,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "l0ZxQJr6dc",
@@ -1152,7 +1256,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "oo53hnp2P1",
@@ -1163,7 +1268,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "nFb7cI8Sk6",
@@ -1174,7 +1280,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "YzwRfzL0uV",
@@ -1185,7 +1292,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ZrJEw5FT5Z",
@@ -1196,7 +1304,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "jjkQu6OvNz",
@@ -1207,7 +1316,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "YdnaZQmFIB",
@@ -1218,7 +1328,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "4WEua9GTCy",
@@ -1229,7 +1340,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "BDXZuTt2Yh",
@@ -1240,7 +1352,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "EJq3Yt9FKG",
@@ -1251,7 +1364,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "sTp52PebGT",
@@ -1262,7 +1376,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.005Z",
         "updatedAt": "2020-01-27T20:44:18.005Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Xv6yD7wyNA",
@@ -1273,7 +1388,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "HtCInoVvUS",
@@ -1284,7 +1400,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "jDCmqwjhR3",
@@ -1295,7 +1412,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "EfmLCaRB79",
@@ -1306,7 +1424,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "eWF8kdEUAc",
@@ -1317,7 +1436,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "7tsGYqXUUF",
@@ -1328,7 +1448,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "3L39B06Lvk",
@@ -1339,7 +1460,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "BBndyIrB32",
@@ -1350,7 +1472,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Z8cpJng1P5",
@@ -1361,7 +1484,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "VKR5opkrfH",
@@ -1372,7 +1496,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "lqFwthLaBG",
@@ -1383,7 +1508,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "OUjPRZrwv4",
@@ -1394,7 +1520,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "ur0DyHrVuX",
@@ -1405,7 +1532,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Bk6SLEfNLj",
@@ -1416,7 +1544,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "qEzHd8PYEr",
@@ -1427,7 +1556,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "3vSeFSb1xL",
@@ -1438,7 +1568,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "iP9HxrAHwE",
@@ -1449,7 +1580,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "8vNEmhRrBc",
@@ -1460,7 +1592,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "pJ8KCIdjvW",
@@ -1471,7 +1604,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "KdEmV75BEr",
@@ -1482,7 +1616,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Oo3K9UZH6M",
@@ -1493,7 +1628,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "ENLLvc2FMe",
@@ -1504,7 +1640,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "K6qv32UGvz",
@@ -1515,7 +1652,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "CAl0QnYLJ2",
@@ -1526,7 +1664,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "aHI5mPH8ej",
@@ -1537,7 +1676,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "mQZjcV8jrg",
@@ -1548,7 +1688,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "iqt8L2RTH8",
@@ -1559,7 +1700,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "kX7uNUav4L",
@@ -1570,7 +1712,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "u6CTuVfysm",
@@ -1581,7 +1724,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "fCMzAAEtKV",
@@ -1592,7 +1736,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "ICcRQszKKg",
@@ -1603,7 +1748,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "n7ynnBKxR7",
@@ -1614,7 +1760,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "ny7Q06qq0B",
@@ -1625,7 +1772,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "PgWKyb4ddv",
@@ -1636,7 +1784,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "5pjLCIqjlI",
@@ -1647,7 +1796,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "iwvFvdCK8G",
@@ -1658,7 +1808,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "PI9vHiuNHt",
@@ -1669,7 +1820,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "Ppkgc3RCz0",
@@ -1680,7 +1832,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "nOdWfjP8ke",
@@ -1691,7 +1844,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "HEEOI4PZxU",
@@ -1702,7 +1856,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "ITW67EHFIc",
@@ -1713,7 +1868,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "2dt5vjZVTd",
@@ -1724,7 +1880,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "P3mXDWEn4A",
@@ -1735,7 +1892,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "kegvzbUeA0",
@@ -1746,7 +1904,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "LUDDzahrJp",
@@ -1757,7 +1916,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "LdTQf3DHoQ",
@@ -1768,7 +1928,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "FGVNj41ahi",
@@ -1779,7 +1940,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "HiWA5J4OkQ",
@@ -1790,7 +1952,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "e1lijtAW99",
@@ -1801,7 +1964,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "INHGpFi6VO",
@@ -1812,7 +1976,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "oNBhBBLs3X",
@@ -1823,7 +1988,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ZK9xucAlXl",
@@ -1834,7 +2000,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Xhw3FFG8Xg",
@@ -1845,7 +2012,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "DG0MniMzpR",
@@ -1856,7 +2024,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "1nHsuy9NYl",
@@ -1867,7 +2036,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "JlheVLtpok",
@@ -1878,7 +2048,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "kGzRBCeu43",
@@ -1889,7 +2060,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "HPTe5REepK",
@@ -1900,7 +2072,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "mDGyeW0kbs",
@@ -1911,7 +2084,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "29bMYLpQtu",
@@ -1922,7 +2096,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Iui1nHUG5h",
@@ -1933,7 +2108,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "SIQPSjVVRc",
@@ -1944,7 +2120,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "zgmFYlvdHx",
@@ -1955,7 +2132,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "jACG70Auym",
@@ -1966,7 +2144,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "CkFqGiZlW6",
@@ -1977,7 +2156,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "VXKZNum2v4",
@@ -1988,7 +2168,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "Z5nXB7i3A7",
@@ -1999,7 +2180,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "Dm2leqJLBZ",
@@ -2010,7 +2192,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "ddiUDdlHma",
@@ -2021,7 +2204,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Wa48C9W0U9",
@@ -2032,7 +2216,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "8nFlIZ8ixN",
@@ -2043,7 +2228,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "TlwQS7c839",
@@ -2054,7 +2240,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "wlZ7oN49bD",
@@ -2065,7 +2252,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "maydRt0Ph8",
@@ -2076,7 +2264,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "h6CUCvtOxH",
@@ -2087,7 +2276,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "EBZqOFlbNQ",
@@ -2098,7 +2288,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "5S8PN4igRE",
@@ -2109,7 +2300,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "U0OkQ1Vufy",
@@ -2120,7 +2312,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "zMTV1K1mJg",
@@ -2131,7 +2324,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "8g28AwPl9W",
@@ -2142,7 +2336,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.006Z",
         "updatedAt": "2020-01-27T20:44:18.006Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "cuwM0UhTxg",
@@ -2153,7 +2348,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "YL5KuTEDUx",
@@ -2164,7 +2360,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "m5bHpRT9Lo",
@@ -2175,7 +2372,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "GxpbwmZa5w",
@@ -2186,7 +2384,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "xMFKrqRcF1",
@@ -2197,7 +2396,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "6Ii0KCFBDn",
@@ -2208,7 +2408,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.007Z",
         "updatedAt": "2020-01-27T20:44:18.007Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "48wH6VM1pv",
@@ -2219,7 +2420,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "3e7zSCgSox",
@@ -2230,7 +2432,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "5i45FzPw3t",
@@ -2241,7 +2444,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "AQVtIaqSAj",
@@ -2252,7 +2456,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "ZPmI3oTIhJ",
@@ -2263,7 +2468,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "rEvPcEv5Fi",
@@ -2274,7 +2480,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "bjZktMbMDL",
@@ -2285,7 +2492,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "2cSRz38TY9",
@@ -2296,7 +2504,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "gpN18fODQL",
@@ -2307,7 +2516,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "FhgtmBwp8E",
@@ -2318,7 +2528,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "5sWLRFwzht",
@@ -2329,7 +2540,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "mG9sBB2BuA",
@@ -2340,7 +2552,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "Al36zxCYXq",
@@ -2351,7 +2564,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "D3Lno4qQPy",
@@ -2362,7 +2576,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "djm2SnTflV",
@@ -2373,7 +2588,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "4beWimqyBE",
@@ -2384,7 +2600,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "k4x1WAXEZ9",
@@ -2395,7 +2612,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "xiuaACVHIm",
@@ -2406,7 +2624,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "hRySxJexbG",
@@ -2417,7 +2636,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "3V6UiNPcsa",
@@ -2428,7 +2648,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ZIUyePmTUL",
@@ -2439,7 +2660,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "IQ4VfhGUnv",
@@ -2450,7 +2672,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "LAsic8cF0o",
@@ -2461,7 +2684,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "qLWZQZpHWY",
@@ -2472,7 +2696,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "KegjzAaXJ2",
@@ -2483,7 +2708,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "uqBo3T1sHU",
@@ -2494,7 +2720,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "HcLCgxYpnA",
@@ -2505,7 +2732,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "s8PL6aoYRy",
@@ -2516,7 +2744,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "BsrsAho8K3",
@@ -2527,7 +2756,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Pj3LtYhfOx",
@@ -2538,7 +2768,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "bOlyekNqwt",
@@ -2549,7 +2780,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "RMG3R3vsCw",
@@ -2560,7 +2792,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "PGFBTmE2L6",
@@ -2571,7 +2804,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "qaKbuo5AT9",
@@ -2582,7 +2816,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "Tkm6RAiXMk",
@@ -2593,7 +2828,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "r9nUwoh749",
@@ -2604,7 +2840,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "mTQ0bSYkrY",
@@ -2615,7 +2852,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "IM66EEMjxe",
@@ -2626,7 +2864,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "sLLtnh5CNL",
@@ -2637,7 +2876,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "HrfJ77bDEq",
@@ -2648,7 +2888,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "hxBd1z7ewE",
@@ -2659,7 +2900,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "WHqkPTraez",
@@ -2670,7 +2912,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "66pQq50mso",
@@ -2681,7 +2924,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.039Z",
         "updatedAt": "2020-01-27T20:44:18.039Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "GoIb4TNqDz",
@@ -2692,7 +2936,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "FBvxwCM8vu",
@@ -2703,7 +2948,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "kgUoGEiena",
@@ -2714,7 +2960,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "aycZC5J2yw",
@@ -2725,7 +2972,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "juIznkRAZE",
@@ -2736,7 +2984,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Ob5YiBNNIn",
@@ -2747,7 +2996,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.044Z",
         "updatedAt": "2020-01-27T20:44:18.044Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "8ZTMjzHn9X",
@@ -2758,7 +3008,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "pe7eJ4gnen",
@@ -2769,7 +3020,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "ATAeU1NdOi",
@@ -2780,7 +3032,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "orUpo0E0vC",
@@ -2791,7 +3044,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "KhES0MZcmQ",
@@ -2802,7 +3056,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "cR3800xX9I",
@@ -2813,7 +3068,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "vAAn0VApSF",
@@ -2824,7 +3080,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "E5Nznq1T2p",
@@ -2835,7 +3092,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "aKCqI0lYGI",
@@ -2846,7 +3104,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "VIhUyOqv71",
@@ -2857,7 +3116,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "XBrBhQmegp",
@@ -2868,7 +3128,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "jaHnDRVmdp",
@@ -2879,7 +3140,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "tHGwhMRQQb",
@@ -2890,7 +3152,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "iFCVGMra0O",
@@ -2901,7 +3164,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "UrwYndiCmO",
@@ -2912,7 +3176,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "hPNqqtDTH1",
@@ -2923,7 +3188,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "jPUGrODd0n",
@@ -2934,7 +3200,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "b1gzw7oX90",
@@ -2945,7 +3212,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "rJUe9JJjYP",
@@ -2956,7 +3224,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "8BoPqgaMmq",
@@ -2967,7 +3236,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "Z3DPbJhczG",
@@ -2978,7 +3248,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "VMdmpIMkre",
@@ -2989,7 +3260,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "5SQO904EKs",
@@ -3000,7 +3272,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "ydHCEwuOSK",
@@ -3011,7 +3284,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "bdW1WipxOD",
@@ -3022,7 +3296,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "7rEqkISfEg",
@@ -3033,7 +3308,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "bUID4Xe3GM",
@@ -3044,7 +3320,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "OvJ1MbKJ7E",
@@ -3055,7 +3332,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "TBvFCspGgt",
@@ -3066,7 +3344,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "8o6fButQzD",
@@ -3077,7 +3356,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "iL7xFdHl3K",
@@ -3088,7 +3368,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "BmG5IqBkAo",
@@ -3099,7 +3380,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "KRZ7KM1gCr",
@@ -3110,7 +3392,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "DnI5QxWFIA",
@@ -3121,7 +3404,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "DBxB7Fmlrj",
@@ -3132,7 +3416,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "NCa9BCUXGA",
@@ -3143,7 +3428,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "HgIDfTJIxQ",
@@ -3154,7 +3440,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "gA8GmQ6bsz",
@@ -3165,7 +3452,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "7aW91qXGjR",
@@ -3176,7 +3464,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "EKjjWdBykw",
@@ -3187,7 +3476,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "VjLnWMAK4l",
@@ -3198,7 +3488,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "kVDbBVlC7w",
@@ -3209,7 +3500,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "awEF9ZwubP",
@@ -3220,7 +3512,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "k5iF1PYOaL",
@@ -3231,7 +3524,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "red9UTu8fA",
@@ -3242,7 +3536,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "YoSf7DjkX5",
@@ -3253,7 +3548,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "XzU7AIvyeG",
@@ -3264,7 +3560,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "OMSftwK8IO",
@@ -3275,7 +3572,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "tQjEc8cJ8B",
@@ -3286,7 +3584,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "YP2Mf2anan",
@@ -3297,7 +3596,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "e4S9bbVWIp",
@@ -3308,7 +3608,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.045Z",
         "updatedAt": "2020-01-27T20:44:18.045Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "AEpMzZOnKV",
@@ -3319,7 +3620,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "s7oSo0M9y7",
@@ -3330,7 +3632,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "atFHXEgXYw",
@@ -3341,7 +3644,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "OxT9QW16ZW",
@@ -3352,7 +3656,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "iObFnlwCdJ",
@@ -3363,7 +3668,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "KLXRvqnAIf",
@@ -3374,7 +3680,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "kmfBx990rf",
@@ -3385,7 +3692,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "GiRoJanAFO",
@@ -3396,7 +3704,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "R6FTcHj2kE",
@@ -3407,7 +3716,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ncQWDq66xy",
@@ -3418,7 +3728,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "f2t9apHuKN",
@@ -3429,7 +3740,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "3efpWhWzug",
@@ -3440,7 +3752,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "YxUnFkrUcr",
@@ -3451,7 +3764,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "GunE0Ahhyd",
@@ -3462,7 +3776,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "mWCJ5zoFbj",
@@ -3473,7 +3788,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "VkNqMZTN5f",
@@ -3484,7 +3800,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "feB5OmNc4A",
@@ -3495,7 +3812,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "A1d1zXcY5n",
@@ -3506,7 +3824,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "u7Evv1bet4",
@@ -3517,7 +3836,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "YeYZ8uM1Z7",
@@ -3528,7 +3848,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "uaZ6ZXzGRp",
@@ -3539,7 +3860,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "czvEZAD0ob",
@@ -3550,7 +3872,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "RTczc52mmH",
@@ -3561,7 +3884,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "BRoyACZLHD",
@@ -3572,7 +3896,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "ZlhJO6awDf",
@@ -3583,7 +3908,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "CLFodpBcPh",
@@ -3594,7 +3920,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "ECvyRquINn",
@@ -3605,7 +3932,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "jqaCwZrPPH",
@@ -3616,7 +3944,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "FuchiGoVMM",
@@ -3627,7 +3956,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "7LxHDNE7TT",
@@ -3638,7 +3968,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "kN367T77Kw",
@@ -3649,7 +3980,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "zEgDI23VXc",
@@ -3660,7 +3992,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Rmquglmw9J",
@@ -3671,7 +4004,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "MIZyNzuPSk",
@@ -3682,7 +4016,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "aKNpq4aizW",
@@ -3693,7 +4028,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "BBIZrM3Eql",
@@ -3704,7 +4040,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "Z0rOkKwjuf",
@@ -3715,7 +4052,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "uExfuPZbEN",
@@ -3726,7 +4064,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "FLOSDjLAvP",
@@ -3737,7 +4076,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "F7vtqOBHMW",
@@ -3748,7 +4088,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "LlVSThmAXq",
@@ -3759,7 +4100,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "4JU3SOnt71",
@@ -3770,7 +4112,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "ZILY8006BY",
@@ -3781,7 +4124,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "uPir5syPGG",
@@ -3792,7 +4136,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "MRVh65geUW",
@@ -3803,7 +4148,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "wxsW6AqN7R",
@@ -3814,7 +4160,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "FuJqB31eBE",
@@ -3825,7 +4172,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "EEflW65kE1",
@@ -3836,7 +4184,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "rtzXgeNgOS",
@@ -3847,7 +4196,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "XrFDkOJeoH",
@@ -3858,7 +4208,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "DedImXkFPS",
@@ -3869,7 +4220,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "r50LNSyvil",
@@ -3880,7 +4232,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "72Vrlo4wxf",
@@ -3891,7 +4244,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "dhwD1JA7nj",
@@ -3902,7 +4256,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "UzPiXYyxvI",
@@ -3913,7 +4268,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "GqWMI6elLq",
@@ -3924,7 +4280,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "yEGFPezu4E",
@@ -3935,7 +4292,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "7jnMVzWPVr",
@@ -3946,7 +4304,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "6CEQlGRy7q",
@@ -3957,7 +4316,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "5O2BjXUI4Y",
@@ -3968,7 +4328,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "SlPnx4lV12",
@@ -3979,7 +4340,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "97YAn0zfaS",
@@ -3990,7 +4352,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "20SjN3YmG5",
@@ -4001,7 +4364,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "UqBxivRhCm",
@@ -4012,7 +4376,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "d7lsStSuAu",
@@ -4023,7 +4388,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.077Z",
         "updatedAt": "2020-01-27T20:44:18.077Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "Gei8TWj7Ji",
@@ -4034,7 +4400,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "24C2C2SFEg",
@@ -4045,7 +4412,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "8jCgRj2Cuz",
@@ -4056,7 +4424,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "w9dn8DsUs5",
@@ -4067,7 +4436,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "CYIgiVYHb7",
@@ -4078,7 +4448,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "71EJBjSZAV",
@@ -4089,7 +4460,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "AaB3GxYSgC",
@@ -4100,7 +4472,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "PWHGnLlB27",
@@ -4111,7 +4484,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "O0c2vF3OlU",
@@ -4122,7 +4496,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "kxePKV1pBj",
@@ -4133,7 +4508,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "jSmoxFud4I",
@@ -4144,7 +4520,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Oqvw99xVpG",
@@ -4155,7 +4532,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "8ijNrwNuGE",
@@ -4166,7 +4544,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "r3EtSXsfPL",
@@ -4177,7 +4556,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Gm1BUf0ikY",
@@ -4188,7 +4568,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "UMlkJd94c6",
@@ -4199,7 +4580,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "HXrBCmU7k2",
@@ -4210,7 +4592,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "wyhZDsmeYR",
@@ -4221,7 +4604,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "irnTVMgsfQ",
@@ -4232,7 +4616,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "gXq8CE8WC8",
@@ -4243,7 +4628,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "apIbmoEhA7",
@@ -4254,7 +4640,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Pk5IoxYEBr",
@@ -4265,7 +4652,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "5CMNXF7Yfw",
@@ -4276,7 +4664,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "qtD75k4YA1",
@@ -4287,7 +4676,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "9q6NXEUMLr",
@@ -4298,7 +4688,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "A6Qu6b9jaT",
@@ -4309,7 +4700,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "8WLgIWHP09",
@@ -4320,7 +4712,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "eVsRYAmaEE",
@@ -4331,7 +4724,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "dFq9wWoItu",
@@ -4342,7 +4736,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "lHP9pIS0GR",
@@ -4353,7 +4748,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "vVoTgU2GnN",
@@ -4364,7 +4760,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "786nNx9d2X",
@@ -4375,7 +4772,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2jMo41ZuhS",
@@ -4386,7 +4784,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "p8qFjChvDd",
@@ -4397,7 +4796,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Ck5FaknPC0",
@@ -4408,7 +4808,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.078Z",
         "updatedAt": "2020-01-27T20:44:18.078Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "21JJCm089n",
@@ -4419,7 +4820,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "sPcSYnNKs7",
@@ -4430,7 +4832,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "BMLC9Sfw9h",
@@ -4441,7 +4844,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "7tZV6s6BHW",
@@ -4452,7 +4856,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "9njEujFOH3",
@@ -4463,7 +4868,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "pZRGx80XsH",
@@ -4474,7 +4880,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "HAtex6Wnlk",
@@ -4485,7 +4892,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "pyzq4Ow5oc",
@@ -4496,7 +4904,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "ZTGbJhNsmT",
@@ -4507,7 +4916,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "VgbjMqpcq3",
@@ -4518,7 +4928,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "TLG3bbPmMk",
@@ -4529,7 +4940,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "u7QlOpoQIq",
@@ -4540,7 +4952,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "n3MHo6M2Ea",
@@ -4551,7 +4964,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "GDtqfkSqHR",
@@ -4562,7 +4976,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "KAaaEFtOwB",
@@ -4573,7 +4988,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "PO26cSuSah",
@@ -4584,7 +5000,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "Iqv7uSdwOL",
@@ -4595,7 +5012,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "Kr4yITGtnH",
@@ -4606,7 +5024,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "4PLzuSUnPl",
@@ -4617,7 +5036,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9N0VC2V8Lq",
@@ -4628,7 +5048,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "3PQXYsurwW",
@@ -4639,7 +5060,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "RefcbmSGZD",
@@ -4650,7 +5072,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "vYON8XL1vO",
@@ -4661,7 +5084,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "MaigFrvPgw",
@@ -4672,7 +5096,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "vauIYHcE2o",
@@ -4683,7 +5108,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "BlvHJw67FE",
@@ -4694,7 +5120,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "9aFNeT0JiE",
@@ -4705,7 +5132,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "l8AObm8Y51",
@@ -4716,7 +5144,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "jRvW1t50cE",
@@ -4727,7 +5156,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "1eU9qsZDZx",
@@ -4738,7 +5168,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "1YsH0weH9q",
@@ -4749,7 +5180,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "Hk2YzPrLyZ",
@@ -4760,7 +5192,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "3P6keannNx",
@@ -4771,7 +5204,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "Aik5uY0Sap",
@@ -4782,7 +5216,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "trFKSjakVG",
@@ -4793,7 +5228,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "uASC2CeiNI",
@@ -4804,7 +5240,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "7K7yn7aF0H",
@@ -4815,7 +5252,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "jAs90mkJSf",
@@ -4826,7 +5264,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "v7TVyFWiGK",
@@ -4837,7 +5276,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "MIZt9mhy3U",
@@ -4848,7 +5288,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "Eq25qAUGlu",
@@ -4859,7 +5300,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "S8f6DVRFHG",
@@ -4870,7 +5312,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "5CexhulSo5",
@@ -4881,7 +5324,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "eDVTKyAIoA",
@@ -4892,7 +5336,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "yaLmQgS8nf",
@@ -4903,7 +5348,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "T7NBCpDh4t",
@@ -4914,7 +5360,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "DnjCmgXrJ8",
@@ -4925,7 +5372,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "k0CJEoTN8j",
@@ -4936,7 +5384,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "6gxV3o00Di",
@@ -4947,7 +5396,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "NgQmrdud6E",
@@ -4958,7 +5408,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "2dpysvLQk2",
@@ -4969,7 +5420,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "TnJ3Xuyxki",
@@ -4980,7 +5432,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Myub4qLsK0",
@@ -4991,7 +5444,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "2x4ip0yYyB",
@@ -5002,7 +5456,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2hWQn2ipRD",
@@ -5013,7 +5468,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "wrHJRBtayL",
@@ -5024,7 +5480,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "jW5w33TXoR",
@@ -5035,7 +5492,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "FMtppd4huW",
@@ -5046,7 +5504,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "iyy1mCT0X7",
@@ -5057,7 +5516,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "tXwippFez7",
@@ -5068,7 +5528,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "igUY33tAFm",
@@ -5079,7 +5540,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "SkFH6pGWD4",
@@ -5090,7 +5552,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "Pvw3Ln9OPY",
@@ -5101,7 +5564,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "fSOkVAdVqN",
@@ -5112,7 +5576,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "2WvbfpAXK0",
@@ -5123,7 +5588,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "FMCCyUTicL",
@@ -5134,7 +5600,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "xGmyZ55Pat",
@@ -5145,7 +5612,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "gavE1OWty5",
@@ -5156,7 +5624,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "D09ERSBFwZ",
@@ -5167,7 +5636,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "rluUQnPq8D",
@@ -5178,7 +5648,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "AaSuZ5Gw4N",
@@ -5189,7 +5660,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "IUa9RKfPbE",
@@ -5200,7 +5672,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "1yOXTImolU",
@@ -5211,7 +5684,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "AAcjf3pwAe",
@@ -5222,7 +5696,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "xpHhaAu2RU",
@@ -5233,7 +5708,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "YgxhrAvMGv",
@@ -5244,7 +5720,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "8pUioUFUmA",
@@ -5255,7 +5732,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "9f3xDusU2a",
@@ -5266,7 +5744,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "rHJHBHY5JV",
@@ -5277,7 +5756,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "4YF3ffOn1E",
@@ -5288,7 +5768,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "5YxNDT54kG",
@@ -5299,7 +5780,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "sjFmMhtHne",
@@ -5310,7 +5792,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "iilXFrGUKs",
@@ -5321,7 +5804,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "L3UUjBoD6C",
@@ -5332,7 +5816,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "3ZU4b7Aoqj",
@@ -5343,7 +5828,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "PX60Trl3YG",
@@ -5354,7 +5840,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "IdkeSusVpn",
@@ -5365,7 +5852,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "eWJOe8z7sY",
@@ -5376,7 +5864,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "bKsh9qdpB7",
@@ -5387,7 +5876,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "GGTn4FFGyC",
@@ -5398,7 +5888,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "0JAntNRxL1",
@@ -5409,7 +5900,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "m4XvTm2oBL",
@@ -5420,7 +5912,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "Rshg1baXqJ",
@@ -5431,7 +5924,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2ZHDQAYQdi",
@@ -5442,7 +5936,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "FUDdfcEzKV",
@@ -5453,7 +5948,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "CHI8VGWfsD",
@@ -5464,7 +5960,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "rdVV9ZLVAN",
@@ -5475,7 +5972,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "AkWg4UMAi8",
@@ -5486,7 +5984,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.113Z",
         "updatedAt": "2020-01-27T20:44:18.113Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "BCuEOw3Ena",
@@ -5497,7 +5996,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "4QggYHUIyn",
@@ -5508,7 +6008,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.114Z",
         "updatedAt": "2020-01-27T20:44:18.114Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "9D4m3OYEUX",
@@ -5519,7 +6020,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "F0DhODCM7e",
@@ -5530,7 +6032,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "XhQUUcbvQU",
@@ -5541,7 +6044,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "kvC18WGUse",
@@ -5552,7 +6056,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "P3G4igD2ZY",
@@ -5563,7 +6068,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "p1dozBG19L",
@@ -5574,7 +6080,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "UEIeDeIQPT",
@@ -5585,7 +6092,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "iXFjpcpeaE",
@@ -5596,7 +6104,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "TVEeAZYP5Y",
@@ -5607,7 +6116,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "D7fGCgE4nI",
@@ -5618,7 +6128,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "2Ey8fOzE1m",
@@ -5629,7 +6140,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "pd9ucOltfT",
@@ -5640,7 +6152,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "WMlA28JnT7",
@@ -5651,7 +6164,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "UIuzLQZAo0",
@@ -5662,7 +6176,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "fETuv1YiL2",
@@ -5673,7 +6188,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "xdna1kUoOH",
@@ -5684,7 +6200,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Z2WS2PBACl",
@@ -5695,7 +6212,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "Xnl6GS9H04",
@@ -5706,7 +6224,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "avkiQ2tyxd",
@@ -5717,7 +6236,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "B36p3LxUmk",
@@ -5728,7 +6248,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "9lfqMGUHCi",
@@ -5739,7 +6260,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "c3tuoyWXUa",
@@ -5750,7 +6272,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "nK8jPgAsv5",
@@ -5761,7 +6284,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "d5td8uBpK1",
@@ -5772,7 +6296,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "EXCkgDW1Sn",
@@ -5783,7 +6308,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "hLC6DwKWEA",
@@ -5794,7 +6320,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "82pK6JIygG",
@@ -5805,7 +6332,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "flu3j3f93s",
@@ -5816,7 +6344,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "8qjhGZSjOm",
@@ -5827,7 +6356,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "RH5RBAZwBc",
@@ -5838,7 +6368,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "AHRbykKQte",
@@ -5849,7 +6380,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "LOeIyGRbMG",
@@ -5860,7 +6392,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "0O5UhL3HF2",
@@ -5871,7 +6404,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "KQBVN7UaAh",
@@ -5882,7 +6416,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "dFA3uIE85u",
@@ -5893,7 +6428,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "UPr7aou0Sx",
@@ -5904,7 +6440,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "bhS9PiGJHV",
@@ -5915,7 +6452,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "TlAKQyIkbO",
@@ -5926,7 +6464,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "6os4YeVsHU",
@@ -5937,7 +6476,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "tYzrJsVWcA",
@@ -5948,7 +6488,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "MMDhdhxQqZ",
@@ -5959,7 +6500,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "JLdts6ljP9",
@@ -5970,7 +6512,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "e8NIBDsCYN",
@@ -5981,7 +6524,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "E6QH3Vm5Tq",
@@ -5992,7 +6536,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "UcFVu1TgBu",
@@ -6003,7 +6548,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "rLD7sHPgDk",
@@ -6014,7 +6560,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "xNA8b5Aj3n",
@@ -6025,7 +6572,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "Ta2eFu22AZ",
@@ -6036,7 +6584,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "YOMmYTtV0M",
@@ -6047,7 +6596,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "FgGnAG2URD",
@@ -6058,7 +6608,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Jn76hGHTNk",
@@ -6069,7 +6620,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "4JjrP8HEHg",
@@ -6080,7 +6632,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "Ji1dBq4lWF",
@@ -6091,7 +6644,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "jyIWyqezHL",
@@ -6102,7 +6656,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Vp3y6GzYjq",
@@ -6113,7 +6668,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.151Z",
         "updatedAt": "2020-01-27T20:44:18.151Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "s66LLb7APg",
@@ -6124,7 +6680,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "e4ZGG5Vcmv",
@@ -6135,7 +6692,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "FCpcDEzvNY",
@@ -6146,7 +6704,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "izW2ro6FoT",
@@ -6157,7 +6716,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "Lmd4Wcovu8",
@@ -6168,7 +6728,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "xS9WtTtwee",
@@ -6179,7 +6740,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "ZlZQON0xW4",
@@ -6190,7 +6752,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "6MznRAz2MP",
@@ -6201,7 +6764,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "mKgHhKGm5k",
@@ -6212,7 +6776,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "VE72fFI6BS",
@@ -6223,7 +6788,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "mIBXfoSmXO",
@@ -6234,7 +6800,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "rswlcso7u1",
@@ -6245,7 +6812,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "Zpi8vhTFmk",
@@ -6256,7 +6824,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "vsPxyVeAiX",
@@ -6267,7 +6836,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "qmQ5ZL9lya",
@@ -6278,7 +6848,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "koEuRcrlNw",
@@ -6289,7 +6860,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "od1cEHjoWm",
@@ -6300,7 +6872,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "meJ2Htj5LI",
@@ -6311,7 +6884,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "SNkP43cu3N",
@@ -6322,7 +6896,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Pzcj4IUUQX",
@@ -6333,7 +6908,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "DLHvHp511g",
@@ -6344,7 +6920,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "O3kJTM0xvB",
@@ -6355,7 +6932,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "chqvhgYgXB",
@@ -6366,7 +6944,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "SvxW9ktwmb",
@@ -6377,7 +6956,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "NXl6FesVCQ",
@@ -6388,7 +6968,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "FDAAV1X9xE",
@@ -6399,7 +6980,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "CIYdgrkMj8",
@@ -6410,7 +6992,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "HbMuki1brk",
@@ -6421,7 +7004,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "gn4l1GGhWX",
@@ -6432,7 +7016,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "ZVPgK8THg2",
@@ -6443,7 +7028,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Dui3Bb1al2",
@@ -6454,7 +7040,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "X85VY4sz9b",
@@ -6465,7 +7052,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "XsgSevyfG2",
@@ -6476,7 +7064,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "LbuPvBEoE2",
@@ -6487,7 +7076,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "AdilSnzaEm",
@@ -6498,7 +7088,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "k4In1FbszX",
@@ -6509,7 +7100,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "oVRNcu0Lzc",
@@ -6520,7 +7112,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "W0ps7ij4vs",
@@ -6531,7 +7124,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "kUCSLkzV2t",
@@ -6542,7 +7136,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "wf5Rj6USih",
@@ -6553,7 +7148,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "GGLd0Zn0Nm",
@@ -6564,7 +7160,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "co2HJz8Sn8",
@@ -6575,7 +7172,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "RMXKjymspD",
@@ -6586,7 +7184,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "fJLcpojiYK",
@@ -6597,7 +7196,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "xEVRohlzvV",
@@ -6608,7 +7208,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.152Z",
         "updatedAt": "2020-01-27T20:44:18.152Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "xmW8e7v1lr",
@@ -6619,7 +7220,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "dlx7ppvsVs",
@@ -6630,7 +7232,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "xc7eYLH12b",
@@ -6641,7 +7244,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "peZKc66VvO",
@@ -6652,7 +7256,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "ltIIaE5lg1",
@@ -6663,7 +7268,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "u7mLdbNjkQ",
@@ -6674,7 +7280,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "OPXs3pkN3x",
@@ -6685,7 +7292,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Hi1yuex1ks",
@@ -6696,7 +7304,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "ExNrnZNQDs",
@@ -6707,7 +7316,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "YBKmhGSCV6",
@@ -6718,7 +7328,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "sN7vn88WKl",
@@ -6729,7 +7340,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "x9ekz5gQsH",
@@ -6740,7 +7352,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "9WjoZVwfFq",
@@ -6751,7 +7364,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "m7AwpjhiaF",
@@ -6762,7 +7376,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "5kvP2xK8Zc",
@@ -6773,7 +7388,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Db6o9U8okD",
@@ -6784,7 +7400,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.189Z",
         "updatedAt": "2020-01-27T20:44:18.189Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "avOzuU86Jj",
@@ -6795,7 +7412,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "034oz07gym",
@@ -6806,7 +7424,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "ke58pHKolD",
@@ -6817,7 +7436,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "YQn0OjR3Vp",
@@ -6828,7 +7448,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "6ChyG6YM2k",
@@ -6839,7 +7460,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "CYrYkmY6sr",
@@ -6850,7 +7472,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "FvhWSFBPSW",
@@ -6861,7 +7484,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "8FK5i4ePZE",
@@ -6872,7 +7496,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "oj5i9vdux2",
@@ -6883,7 +7508,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "zklkaxQKUZ",
@@ -6894,7 +7520,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "sNvgoWPkFR",
@@ -6905,7 +7532,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "sm6PndVB2o",
@@ -6916,7 +7544,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "HCcRgrdeZe",
@@ -6927,7 +7556,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "TPPFTAECEX",
@@ -6938,7 +7568,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "FXcHFwaHzo",
@@ -6949,7 +7580,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "hqczihz66a",
@@ -6960,7 +7592,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Kb9b2493oy",
@@ -6971,7 +7604,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "viau0hB7Ia",
@@ -6982,7 +7616,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "GKX8PHDvBx",
@@ -6993,7 +7628,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "JJoNEtHXQ4",
@@ -7004,7 +7640,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "3Fep0ntHSg",
@@ -7015,7 +7652,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "rwdOGxYYPw",
@@ -7026,7 +7664,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "shtDFvCuiL",
@@ -7037,7 +7676,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "wgASSTTaW3",
@@ -7048,7 +7688,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "nOwbBojNYK",
@@ -7059,7 +7700,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "8D84lJZhZV",
@@ -7070,7 +7712,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "eSrBpgc1NL",
@@ -7081,7 +7724,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "s7EVRxkGTP",
@@ -7092,7 +7736,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Y2HL8TewJ9",
@@ -7103,7 +7748,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "6Uiz6dMgqS",
@@ -7114,7 +7760,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "5w6TZeReGG",
@@ -7125,7 +7772,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "441nZueeVx",
@@ -7136,7 +7784,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "jiBex5KVlh",
@@ -7147,7 +7796,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "w9BmUI3wPC",
@@ -7158,7 +7808,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ne1W06dL3N",
@@ -7169,7 +7820,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "DGqqE0kSiF",
@@ -7180,7 +7832,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "w7Qncq7J7n",
@@ -7191,7 +7844,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "yxjMgpPVad",
@@ -7202,7 +7856,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "fmwuVnxBPP",
@@ -7213,7 +7868,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "66ku02fxQg",
@@ -7224,7 +7880,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "8FqD6NCKpe",
@@ -7235,7 +7892,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "q9XVay5Bi9",
@@ -7246,7 +7904,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "TKGuD9jstt",
@@ -7257,7 +7916,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "vx4w74rTdN",
@@ -7268,7 +7928,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "cnpdvzbdDU",
@@ -7279,7 +7940,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "WiLT2nSA4G",
@@ -7290,7 +7952,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "tRbg6DYlay",
@@ -7301,7 +7964,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "z61GF2cEzY",
@@ -7312,7 +7976,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "9z1mZy20m0",
@@ -7323,7 +7988,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "0sEUfGvYoW",
@@ -7334,7 +8000,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "KKkMJW7Zvl",
@@ -7345,7 +8012,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "HKAzghyQuH",
@@ -7356,7 +8024,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "LK74snt95U",
@@ -7367,7 +8036,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "zHcKYFiwyp",
@@ -7378,7 +8048,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "GES6H2ShQl",
@@ -7389,7 +8060,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "mM4B5heV67",
@@ -7400,7 +8072,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "5AFW5iBv2Q",
@@ -7411,7 +8084,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "NugsOI2rZM",
@@ -7422,7 +8096,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "csCuxWTFKK",
@@ -7433,7 +8108,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "IoJn5ML0JF",
@@ -7444,7 +8120,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "SLYFpQdCVH",
@@ -7455,7 +8132,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "r8pTsPLrBZ",
@@ -7466,7 +8144,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "ey8tV6HOnP",
@@ -7477,7 +8156,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "WHCTL8PKc2",
@@ -7488,7 +8168,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "MDE6nmecu4",
@@ -7499,7 +8180,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "qcTVsCBh0q",
@@ -7510,7 +8192,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "qVcvN1zRhy",
@@ -7521,7 +8204,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "ewjhKFvF7e",
@@ -7532,7 +8216,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "564HCAqc8b",
@@ -7543,7 +8228,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "RCFP67b3zX",
@@ -7554,7 +8240,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "7lhDxlD64f",
@@ -7565,7 +8252,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "bhTOHFX3Aq",
@@ -7576,7 +8264,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "M7NOSafNKM",
@@ -7587,7 +8276,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "5BnExW6a0m",
@@ -7598,7 +8288,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9b5ac931VQ",
@@ -7609,7 +8300,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "STFJGPIMfc",
@@ -7620,7 +8312,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "kILs3F7glw",
@@ -7631,7 +8324,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "FHsxAkFm1p",
@@ -7642,7 +8336,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "JBoU1QdhWb",
@@ -7653,7 +8348,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "2g32TNSk3M",
@@ -7664,7 +8360,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.190Z",
         "updatedAt": "2020-01-27T20:44:18.190Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "Dfp5ZdLTfi",
@@ -7675,7 +8372,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "H1c0ZiRjTo",
@@ -7686,7 +8384,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "5vfTHvvdBq",
@@ -7697,7 +8396,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "LiLyrjJE4S",
@@ -7708,7 +8408,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.191Z",
         "updatedAt": "2020-01-27T20:44:18.191Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Aq6KnFE3gG",
@@ -7719,7 +8420,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "oCD9gkzyMP",
@@ -7730,7 +8432,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "JiI89jzbbZ",
@@ -7741,7 +8444,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "wnzE70fl3g",
@@ -7752,7 +8456,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2bHTkACtqd",
@@ -7763,7 +8468,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "PTMJejSnli",
@@ -7774,7 +8480,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "JMZlDGP5sW",
@@ -7785,7 +8492,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "tHS3yRT9KM",
@@ -7796,7 +8504,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "c5WrM30eA5",
@@ -7807,7 +8516,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "dKsI1UGvkl",
@@ -7818,7 +8528,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "dQauHB7BZA",
@@ -7829,7 +8540,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "4iB6GjV4PM",
@@ -7840,7 +8552,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "VG2MA3kJoR",
@@ -7851,7 +8564,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "GmpgWc6mQm",
@@ -7862,7 +8576,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "VkYSUG36ct",
@@ -7873,7 +8588,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "0WOdFvimkc",
@@ -7884,7 +8600,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Aa5Ug2XCV8",
@@ -7895,7 +8612,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9HAKZl6VSz",
@@ -7906,7 +8624,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "VWhNAWo595",
@@ -7917,7 +8636,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Rk9Thdn5wS",
@@ -7928,7 +8648,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "pSFjiTA212",
@@ -7939,7 +8660,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "d2CoI8LQfv",
@@ -7950,7 +8672,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "POZN1XSxHy",
@@ -7961,7 +8684,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "VFXY0b17Qc",
@@ -7972,7 +8696,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "IQVkYJPWFB",
@@ -7983,7 +8708,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "UlFmsOgek7",
@@ -7994,7 +8720,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "DAEHdqzkuq",
@@ -8005,7 +8732,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "T8LPOJC5Oz",
@@ -8016,7 +8744,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.223Z",
         "updatedAt": "2020-01-27T20:44:18.223Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "HBhdbUbfFI",
@@ -8027,7 +8756,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "dscD6Lym03",
@@ -8038,7 +8768,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "ciNhUeuz42",
@@ -8049,7 +8780,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "CCuwpwKxsR",
@@ -8060,7 +8792,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Dx7Qbl91QX",
@@ -8071,7 +8804,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "vNbwhfeLcT",
@@ -8082,7 +8816,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "6HhtUcNAjp",
@@ -8093,7 +8828,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "HZK0iPO4QD",
@@ -8104,7 +8840,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "uijnKgJQQp",
@@ -8115,7 +8852,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "nRyZhGcLr6",
@@ -8126,7 +8864,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "AWtp1E4Fo0",
@@ -8137,7 +8876,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "JBRQ26Fty0",
@@ -8148,7 +8888,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "24BQh3HE8D",
@@ -8159,7 +8900,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ba3Lu6UyC1",
@@ -8170,7 +8912,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "Av4qV2MDZI",
@@ -8181,7 +8924,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "b666pls3W2",
@@ -8192,7 +8936,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "cN9lyunFxJ",
@@ -8203,7 +8948,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "jC5guSNtRx",
@@ -8214,7 +8960,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "F2NcrHnQfJ",
@@ -8225,7 +8972,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "HxQ90VuHAk",
@@ -8236,7 +8984,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "yJOFJ8DYq3",
@@ -8247,7 +8996,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "DJdO3unaAb",
@@ -8258,7 +9008,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "RJX5JHYazW",
@@ -8269,7 +9020,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "82TPVo6AN4",
@@ -8280,7 +9032,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "Fjn4JM5vjG",
@@ -8291,7 +9044,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "y5egbhDKTu",
@@ -8302,7 +9056,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "2pLxFm6sw9",
@@ -8313,7 +9068,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "WZDaa3cuBD",
@@ -8324,7 +9080,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "UFV0L1GlaY",
@@ -8335,7 +9092,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "hfjbFWGnGs",
@@ -8346,7 +9104,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "KaM1tiAz4H",
@@ -8357,7 +9116,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "yuOq3xGffK",
@@ -8368,7 +9128,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "JwRGXvkfPa",
@@ -8379,7 +9140,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "Pw9EDCDQal",
@@ -8390,7 +9152,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "POoN03bSpA",
@@ -8401,7 +9164,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "f1z5JBwxxE",
@@ -8412,7 +9176,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "URAFvzOIqj",
@@ -8423,7 +9188,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "u1GUIKMkGN",
@@ -8434,7 +9200,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "NOKLUeMhCH",
@@ -8445,7 +9212,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "TnnuMv2Uww",
@@ -8456,7 +9224,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "7hnKvkUXLN",
@@ -8467,7 +9236,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "4A5EUnGbL4",
@@ -8478,7 +9248,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "N2DRCB4w9n",
@@ -8489,7 +9260,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "ZVx0ht7hCa",
@@ -8500,7 +9272,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "r22g5EB55R",
@@ -8511,7 +9284,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "2Fw9wsF3h7",
@@ -8522,7 +9296,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "0LNJ7IheBu",
@@ -8533,7 +9308,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "zq27O3vdPR",
@@ -8544,7 +9320,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "yusRr6gaUV",
@@ -8555,7 +9332,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "HRFhzrNDJF",
@@ -8566,7 +9344,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "nrFxLqKK7L",
@@ -8577,7 +9356,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "nxC1KJrZcE",
@@ -8588,7 +9368,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Hmw7uNlB36",
@@ -8599,7 +9380,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "RxDCDafVpX",
@@ -8610,7 +9392,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "jkqFmiaCvK",
@@ -8621,7 +9404,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "cd1gAHGlPt",
@@ -8632,7 +9416,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "fhFPkwhFBs",
@@ -8643,7 +9428,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "lzD3jJMq7L",
@@ -8654,7 +9440,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "8u25fVgAcG",
@@ -8665,7 +9452,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "TWUdPiMBop",
@@ -8676,7 +9464,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "rrGcG3fhKP",
@@ -8687,7 +9476,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "QcC95oEiO9",
@@ -8698,7 +9488,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "X5KwgjdJdL",
@@ -8709,7 +9500,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "bcyzzOTY25",
@@ -8720,7 +9512,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "TpTfs7FhZM",
@@ -8731,7 +9524,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "SWmRwNJ6bs",
@@ -8742,7 +9536,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "V2y0j1qYEg",
@@ -8753,7 +9548,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "mPnGySGvim",
@@ -8764,7 +9560,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "byVFgA6w0s",
@@ -8775,7 +9572,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "prirULRvja",
@@ -8786,7 +9584,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "KNvWDJlF4g",
@@ -8797,7 +9596,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "tHFcBu0jsM",
@@ -8808,7 +9608,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.224Z",
         "updatedAt": "2020-01-27T20:44:18.224Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "g6wM0sUJWQ",
@@ -8819,7 +9620,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "GMo1UeoVxV",
@@ -8830,7 +9632,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "KHc3CODz22",
@@ -8841,7 +9644,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "mgAoFYL6Id",
@@ -8852,7 +9656,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "mHSpgef4EU",
@@ -8863,7 +9668,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "44TJgUJVbi",
@@ -8874,7 +9680,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "syJN6LG1nk",
@@ -8885,7 +9692,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "iz4GtVtW8V",
@@ -8896,7 +9704,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "DJe6LpHBAa",
@@ -8907,7 +9716,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "ZF0GPDg7q5",
@@ -8918,7 +9728,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "NziqnF5SBr",
@@ -8929,7 +9740,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "Ce12LoKBaF",
@@ -8940,7 +9752,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "7Ankvqkv6U",
@@ -8951,7 +9764,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "4I08Y9dPG9",
@@ -8962,7 +9776,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "pNWpjRuCAs",
@@ -8973,7 +9788,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "rMYRXXYnLJ",
@@ -8984,7 +9800,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "4HDyTAIFBY",
@@ -8995,7 +9812,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "2sQKnDDYce",
@@ -9006,7 +9824,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "j0p21FlO2s",
@@ -9017,7 +9836,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "mD2MZMNHOC",
@@ -9028,7 +9848,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "4xPv6HLmlu",
@@ -9039,7 +9860,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "9u8e6hDe2M",
@@ -9050,7 +9872,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "eqpFeJkV0D",
@@ -9061,7 +9884,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "01GwQ6QBez",
@@ -9072,7 +9896,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "cVnGm4zBkm",
@@ -9083,7 +9908,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "HEvRl2s5DK",
@@ -9094,7 +9920,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "bz1UviDA0k",
@@ -9105,7 +9932,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "ObuWr7fUpl",
@@ -9116,7 +9944,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "eOu6B2kFwT",
@@ -9127,7 +9956,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "pgdfgiKfHe",
@@ -9138,7 +9968,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "U36RN6d0hy",
@@ -9149,7 +9980,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "wmyoHHiqbF",
@@ -9160,7 +9992,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "EMsemD6OcE",
@@ -9171,7 +10004,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ARRZafogEO",
@@ -9182,7 +10016,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "zIQYz8XCrR",
@@ -9193,7 +10028,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "kNdOvLJXP0",
@@ -9204,7 +10040,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "v842CRX8Fb",
@@ -9215,7 +10052,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "j70pie4Kgy",
@@ -9226,7 +10064,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "nZ89PWUp2Z",
@@ -9237,7 +10076,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "UG8AYLQGM0",
@@ -9248,7 +10088,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "5zk3Cil3XK",
@@ -9259,7 +10100,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.262Z",
         "updatedAt": "2020-01-27T20:44:18.262Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "GsIgLBHdwz",
@@ -9270,7 +10112,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "QrycbjekQr",
@@ -9281,7 +10124,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "mOMrWLck3g",
@@ -9292,7 +10136,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "sgHr1E5RuF",
@@ -9303,7 +10148,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "ssP2PEk3g0",
@@ -9314,7 +10160,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "CUyaNnH5fe",
@@ -9325,7 +10172,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "u2rkoXCc5t",
@@ -9336,7 +10184,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "8IYnsmyz0p",
@@ -9347,7 +10196,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "V0RvN5c0pA",
@@ -9358,7 +10208,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "MLlUHlEt8G",
@@ -9369,7 +10220,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "kCzBlYEWLx",
@@ -9380,7 +10232,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "o9o7dYXTrF",
@@ -9391,7 +10244,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "cc6YkZYa9b",
@@ -9402,7 +10256,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "iwPlRJLaeM",
@@ -9413,7 +10268,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "kpQWwpRPqK",
@@ -9424,7 +10280,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "tSz4eSOjAr",
@@ -9435,7 +10292,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "bxmj5uRvZZ",
@@ -9446,7 +10304,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "gFKkv8mUuG",
@@ -9457,7 +10316,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "mFwiR5HAQP",
@@ -9468,7 +10328,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "VhNo0fmgw5",
@@ -9479,7 +10340,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "91YQzL1DJT",
@@ -9490,7 +10352,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "5a3RBBhlao",
@@ -9501,7 +10364,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "sQFsviHVSh",
@@ -9512,7 +10376,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "IHiL65lDrQ",
@@ -9523,7 +10388,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "7pUwvQCBFo",
@@ -9534,7 +10400,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "aSvuYTBVa6",
@@ -9545,7 +10412,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "9R1pZTW02Y",
@@ -9556,7 +10424,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "6GwU4IUwBs",
@@ -9567,7 +10436,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "txwfyKQSp9",
@@ -9578,7 +10448,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "yCOUW8AiiP",
@@ -9589,7 +10460,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "gvgmGxsj0e",
@@ -9600,7 +10472,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "kD2qyNpxf0",
@@ -9611,7 +10484,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "L7TWxCvHEG",
@@ -9622,7 +10496,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "OVAcu6hi9v",
@@ -9633,7 +10508,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "F6EKToMu6r",
@@ -9644,7 +10520,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "JA8OR6EIYv",
@@ -9655,7 +10532,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "TD5F16yzDp",
@@ -9666,7 +10544,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "LTQwRg5t87",
@@ -9677,7 +10556,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "pBzUQ3LfMm",
@@ -9688,7 +10568,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "fXSIzKY7v7",
@@ -9699,7 +10580,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "lHsPHcslEx",
@@ -9710,7 +10592,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "N1ShBZcDxF",
@@ -9721,7 +10604,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "mrq9ODcY4K",
@@ -9732,7 +10616,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "MLZdOGrBjJ",
@@ -9743,7 +10628,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "rJCnYjFOwT",
@@ -9754,7 +10640,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "ErhwnyOIDC",
@@ -9765,7 +10652,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "kV80KmMsOj",
@@ -9776,7 +10664,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9cJnPmJAvK",
@@ -9787,7 +10676,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "VNMhuiei55",
@@ -9798,7 +10688,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "JwAgsIY14J",
@@ -9809,7 +10700,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "d6rGvhCEgB",
@@ -9820,7 +10712,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "EjflK2oezr",
@@ -9831,7 +10724,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "GhnFU0opPj",
@@ -9842,7 +10736,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "AVA8HfQb25",
@@ -9853,7 +10748,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "GHTBaBwBEH",
@@ -9864,7 +10760,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "X9qMYm3I2m",
@@ -9875,7 +10772,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "iAKn3WmE5Y",
@@ -9886,7 +10784,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "9UgnNJzaIc",
@@ -9897,7 +10796,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "SwGavGCXOk",
@@ -9908,7 +10808,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.263Z",
         "updatedAt": "2020-01-27T20:44:18.263Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "Q0snpBL9Tj",
@@ -9919,7 +10820,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "AHfjxgM8xK",
@@ -9930,7 +10832,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "PItC6QhNna",
@@ -9941,7 +10844,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "KGLQ7JN4xT",
@@ -9952,7 +10856,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Qqvf5GEzCw",
@@ -9963,7 +10868,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "NK2GVV8Ssk",
@@ -9974,7 +10880,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "O4RpSwsklJ",
@@ -9985,7 +10892,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "nE6KNif6WJ",
@@ -9996,7 +10904,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "SuukHkkr3E",
@@ -10007,7 +10916,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "HPU8FJ4tKi",
@@ -10018,7 +10928,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "BvVePY8v2w",
@@ -10029,7 +10940,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "yUM5JvdmkF",
@@ -10040,7 +10952,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "vxnLUUrtOf",
@@ -10051,7 +10964,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "tppEtXaTjn",
@@ -10062,7 +10976,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "huciYfZqei",
@@ -10073,7 +10988,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "6wiCpEUxVn",
@@ -10084,7 +11000,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "Ty4kcJAYGW",
@@ -10095,7 +11012,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "EIH8gRBq7I",
@@ -10106,7 +11024,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "jPZN9FgFi8",
@@ -10117,7 +11036,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9Yg5Cg3B1V",
@@ -10128,7 +11048,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "SSMZwlmIl5",
@@ -10139,7 +11060,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "GZCj51MKh9",
@@ -10150,7 +11072,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "7ZQRNEBW67",
@@ -10161,7 +11084,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "HIb0SLaSFm",
@@ -10172,7 +11096,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "NLCh3BqS9e",
@@ -10183,7 +11108,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "hPDJFescoO",
@@ -10194,7 +11120,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "YRgjSlaYvX",
@@ -10205,7 +11132,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "swsWeiRft1",
@@ -10216,7 +11144,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "LF0Im0UF9d",
@@ -10227,7 +11156,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "y4VQc62dH7",
@@ -10238,7 +11168,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "QjzMFagPfC",
@@ -10249,7 +11180,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "IAUc63JG99",
@@ -10260,7 +11192,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "SlZTsGrenZ",
@@ -10271,7 +11204,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "3EMyxl8CJn",
@@ -10282,7 +11216,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "uzUoh2pwTL",
@@ -10293,7 +11228,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "Dq6fq2sspY",
@@ -10304,7 +11240,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "GDUK4bV8vh",
@@ -10315,7 +11252,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "mn9ib1RNtm",
@@ -10326,7 +11264,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "BAnHbFWtEc",
@@ -10337,7 +11276,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "Ex8EzRDcX9",
@@ -10348,7 +11288,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "Riqo0gMZox",
@@ -10359,7 +11300,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "zTGxrw6DJr",
@@ -10370,7 +11312,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "koug6Sf2Rl",
@@ -10381,7 +11324,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "t0vuwFGYv9",
@@ -10392,7 +11336,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "I28IPbvQUm",
@@ -10403,7 +11348,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "3V5050nXrb",
@@ -10414,7 +11360,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "kYeY0Gi99l",
@@ -10425,7 +11372,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "nCuk4ajs5s",
@@ -10436,7 +11384,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "yERgIqO11b",
@@ -10447,7 +11396,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "AuSNYkd2G4",
@@ -10458,7 +11408,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "wBRLGeKd6A",
@@ -10469,7 +11420,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "0dAtYD141Z",
@@ -10480,7 +11432,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "F0yS4d1j16",
@@ -10491,7 +11444,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "Sj02XSHP62",
@@ -10502,7 +11456,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "G9zrlY3GCI",
@@ -10513,7 +11468,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "UfR8Wp6uSS",
@@ -10524,7 +11480,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "ZVh0Y8gAa3",
@@ -10535,7 +11492,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "ar0IpXMbmy",
@@ -10546,7 +11504,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "oNJCkbiXjh",
@@ -10557,7 +11516,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "LemocimRul",
@@ -10568,7 +11528,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "ufOJFGgiR6",
@@ -10579,7 +11540,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "xrMrs8FQS8",
@@ -10590,7 +11552,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "8eBhjKBH0B",
@@ -10601,7 +11564,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "UTTMHHUkFc",
@@ -10612,7 +11576,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "Y7iileUceB",
@@ -10623,7 +11588,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "GdvGc2M5At",
@@ -10634,7 +11600,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "8f2Vud5ZCH",
@@ -10645,7 +11612,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "dHBZ9165gQ",
@@ -10656,7 +11624,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "cORBiFMbiQ",
@@ -10667,7 +11636,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "SAJirMn0s0",
@@ -10678,7 +11648,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "5ItpAY7jB3",
@@ -10689,7 +11660,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "f5z8PkebBn",
@@ -10700,7 +11672,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "TyV6ZfnRXP",
@@ -10711,7 +11684,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 3
     },
     {
         "objectId": "ARU4SarENN",
@@ -10722,7 +11696,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "6BFENxUe8g",
@@ -10733,7 +11708,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 3
     },
     {
         "objectId": "ddgyQvibMG",
@@ -10744,7 +11720,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.296Z",
         "updatedAt": "2020-01-27T20:44:18.296Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "AmEbTiBuEp",
@@ -10755,7 +11732,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     },
     {
         "objectId": "lkL7WAqI1e",
@@ -10766,7 +11744,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 0
     },
     {
         "objectId": "Jqnl8OQac9",
@@ -10777,7 +11756,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "d62LXnqGUr",
@@ -10788,7 +11768,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 0
     },
     {
         "objectId": "9XR9ZEuNEp",
@@ -10799,7 +11780,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 0
     },
     {
         "objectId": "CWcSTww0pB",
@@ -10810,7 +11792,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "Lny8N0cwjf",
@@ -10821,7 +11804,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "FTvTCUi8xm",
@@ -10832,7 +11816,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "y4HXKP37Eu",
@@ -10843,7 +11828,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "ObaAAvOTcC",
@@ -10854,7 +11840,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "yKjSNJpKsf",
@@ -10865,7 +11852,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 2
     },
     {
         "objectId": "XPMJBJ1Mwt",
@@ -10876,7 +11864,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 2
     },
     {
         "objectId": "FbWZOZyyeA",
@@ -10887,7 +11876,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "SyFgiJjDMh",
@@ -10898,7 +11888,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "jf3H9uolva",
@@ -10909,7 +11900,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "BdAehTrB0h",
@@ -10920,7 +11912,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "UAZ6foKrCX",
@@ -10931,7 +11924,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "9SOHGpuZrj",
@@ -10942,7 +11936,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "E7Ci3jwVdD",
@@ -10953,7 +11948,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 1
     },
     {
         "objectId": "m2MvCyXsKG",
@@ -10964,7 +11960,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "offline"
+        "status": "offline",
+        "progress": 1
     },
     {
         "objectId": "Vd4cnhNAk0",
@@ -10975,7 +11972,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": true,
-        "status": "online"
+        "status": "online",
+        "progress": 2
     },
     {
         "objectId": "EeSxMIZCN3",
@@ -10986,7 +11984,8 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "not-installed"
+        "status": "not-installed",
+        "progress": 1
     },
     {
         "objectId": "mN2Zx8uPh9",
@@ -10997,6 +11996,7 @@ export default [
         "createdAt": "2020-01-27T20:44:18.297Z",
         "updatedAt": "2020-01-27T20:44:18.297Z",
         "approved": false,
-        "status": "online"
+        "status": "online",
+        "progress": 3
     }
 ];

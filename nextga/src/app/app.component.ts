@@ -92,6 +92,18 @@ export class AppComponent implements OnInit{
       type: 'link',
     },
     {
+      attribute: 'progress',
+      config: {
+        size: 3,
+        title: 'Completed phases'
+      },
+      label: 'Progress',
+      isFiltrable: true,
+      isSortable: true,
+      sortAttribute: 'vehicle.progress',
+      type: 'progress',
+    },
+    {
       config: {
         name: 'approval',
         title: 'Click to approve / disapprove this Car',

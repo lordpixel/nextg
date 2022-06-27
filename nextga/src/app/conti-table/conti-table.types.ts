@@ -45,7 +45,7 @@ export interface ITableColumn {
     isSortable?: boolean,
     sortAttribute?: string,
 
-    config?: IColorCell | ILinkCell | IStatusCell | ITextCell | IToggleCell,
+    config?: IColorCell | ILinkCell | IStatusCell | ITextCell | IToggleCell | IProgressCell,
 }
 
 export interface ITableServiceState {
@@ -78,6 +78,11 @@ export interface ITextCell {}
 export interface IToggleCell {
     name?: string,
     title?: string,
+}
+
+export interface IProgressCell {
+    title?: string,
+    size?: number,
 }
 
 export interface ITableAction {

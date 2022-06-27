@@ -172,7 +172,6 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   }
 
   handleOnAction(event: ITableActionEvent) {
-    console.log('table: ', event);
     this.onAction.emit(event);
   }
   

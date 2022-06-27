@@ -44,12 +44,11 @@ export class TableBodyComponent implements OnInit {
   }
 
   getVisibleColumns() {
-    return this.columns.reduce<ITableColumn[]>((visibleColumns: ITableColumn[], column: ITableColumn) => {
+    return this.columns.reduce<ITableColumn[]>((visibleColumns: ITableColumn[], column: ITableColumn, index) => {
 
       if (!column.isHidden) {
         visibleColumns.push(column);
       }
-      
 
       return visibleColumns;
     }, []);

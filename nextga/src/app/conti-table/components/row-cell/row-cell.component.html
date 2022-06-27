@@ -33,3 +33,7 @@
     [value]="value">
 </toggle-cell>
 
+<progress-cell *ngIf="type === 'progress'"
+    [config]="column.config"
+    [value]="value">
+</progress-cell>

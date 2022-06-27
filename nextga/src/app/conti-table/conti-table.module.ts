@@ -22,6 +22,7 @@ import { LoadingComponent } from './components/loading/loading.component';
 import { LinkCellComponent } from './components/link-cell/link-cell.component';
 import { ActionCellComponent } from './components/action-cell/action-cell.component';
 import { ToggleCellComponent } from './components/toggle-cell/toggle-cell.component';
+import { ProgressCellComponent } from './components/progress-cell/progress-cell.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import { ToggleCellComponent } from './components/toggle-cell/toggle-cell.compon
     StatusCellComponent,
     LinkCellComponent,
     ActionCellComponent,
-    ToggleCellComponent
+    ToggleCellComponent,
+    ProgressCellComponent
   ],
   exports: [
     ContiTableComponent

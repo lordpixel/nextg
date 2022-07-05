@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { IUnknowObject } from 'src/app/app.types';
 
 import {ITableAction, ITableColumn, IUnknownObject} from '../../conti-table.types';
 
@@ -44,7 +45,7 @@ export class TableBodyComponent implements OnInit {
   }
 
   getVisibleColumns() {
-    return this.columns.reduce<ITableColumn[]>((visibleColumns: ITableColumn[], column: ITableColumn, index) => {
+    return this.columns.reduce<ITableColumn[]>((visibleColumns: ITableColumn[], column: ITableColumn) => {
 
       if (!column.isHidden) {
         visibleColumns.push(column);
@@ -52,8 +53,10 @@ export class TableBodyComponent implements OnInit {
 
       return visibleColumns;
     }, []);
+  }
 
-    return this.columns.filter((column) => column.isHidden)
+  getRecordID(record: IUnknowObject): string {
+    return record[this.idProperty];
   }
 
 }

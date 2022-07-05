@@ -103,7 +103,7 @@ export class TableService {
       }
     }
 
-    this._selection.next([]);
+    // this._selection.next([]);
     return query;
   }
 

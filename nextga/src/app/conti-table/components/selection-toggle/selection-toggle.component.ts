@@ -26,7 +26,7 @@ export class SelectionToggleComponent implements OnInit {
    * recordID
    * 
    * The ID of the record whose selection state is controlled by this toggle */
-  @Input() recordID: string = '';
+  @Input() recordID!: string;
   
   /**
    * isChecked
@@ -43,18 +43,18 @@ export class SelectionToggleComponent implements OnInit {
   isIndeterminate: boolean = false;
 
   constructor(private table: TableService) {
-    this.selectionSub = table.selection$.subscribe(this.handleSelectionChange.bind(this));
+    this.handleSelectionChange = this.handleSelectionChange.bind(this);
   }
  
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.selectionSub = this.table.selection$.subscribe(this.handleSelectionChange);
+  }
 
   OnDestroy() {
     this?.selectionSub?.unsubscribe();
   }
 
   handleCheckboxClick() {
-    console.log('handleCheckboxClick: ', this.recordID);
-
     if (this.isMaster) {
       this.table.toggleSelection(this.recordID, this.isMaster, this.recordsetIDs);
     } else {
@@ -67,7 +67,7 @@ export class SelectionToggleComponent implements OnInit {
     
     if (this.isMaster) {
       this.isIndeterminate = selection.length > 0 && selection.length < this.recordsetIDs?.length;
-      this.isChecked = selection.length === this.recordsetIDs.length;
+      this.isChecked = Boolean(selection.length) && selection.length === this.recordsetIDs.length;
       return; 
     }
 

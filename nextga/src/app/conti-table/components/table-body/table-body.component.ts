@@ -40,8 +40,17 @@ export class TableBodyComponent implements OnInit {
    * Specifies if the table allows record selection */
   @Input() isSelectable: boolean = false;
 
+  public hasRelation: boolean = false;
+
+  public relationConfig!: IUnknownObject;
+
+  constructor() {}
+
   ngOnInit(): void {
-    
+    const relationColumn = this.columns.filter((column) => (column.type === 'relation')).shift();
+
+    this.relationConfig = relationColumn?.config?.config || {};
+    this.hasRelation = Boolean(relationColumn);
   }
 
   getVisibleColumns() {

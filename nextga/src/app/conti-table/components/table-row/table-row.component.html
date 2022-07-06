@@ -1,7 +1,10 @@
 <td *ngIf="isSelectable">
     <selection-toggle [recordID]="recordID" type="checkbox" ></selection-toggle>
 </td>
-<td row-cell *ngFor="let column of columns"
+<td relation-cell *ngIf="hasRelation"
+    [recordID]="recordID">
+</td>
+<td row-cell *ngFor="let column of renderableColumns"
     [column]="column"
     [ngClass]="column.type"
     [record]="record"

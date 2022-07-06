@@ -23,6 +23,9 @@ import { LinkCellComponent } from './components/link-cell/link-cell.component';
 import { ActionCellComponent } from './components/action-cell/action-cell.component';
 import { ToggleCellComponent } from './components/toggle-cell/toggle-cell.component';
 import { ProgressCellComponent } from './components/progress-cell/progress-cell.component';
+import { RelationCellComponent } from './components/relation-cell/relation-cell.component';
+import { RelationDetailComponent } from './components/relation-detail/relation-detail.component';
+import { BodyRowAdapterComponent } from './components/body-row-adapter/body-row-adapter.component';
 
 @NgModule({
   declarations: [
@@ -42,7 +45,10 @@ import { ProgressCellComponent } from './components/progress-cell/progress-cell.
     LinkCellComponent,
     ActionCellComponent,
     ToggleCellComponent,
-    ProgressCellComponent
+    ProgressCellComponent,
+    RelationCellComponent,
+    RelationDetailComponent,
+    BodyRowAdapterComponent
   ],
   exports: [
     ContiTableComponent

@@ -75,6 +75,16 @@ export class AppComponent implements OnInit{
       type: 'text',
     },
     {
+      attribute: 'roles',
+      label: 'Roles',
+      sortAttribute: 'vehicle.roles',
+      type: 'relation',
+      config: {
+        type: 'table',
+        
+      }
+    },
+    {
       config: {
         fragment: 'objectId',
         params: [

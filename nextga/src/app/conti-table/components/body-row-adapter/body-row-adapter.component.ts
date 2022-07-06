@@ -1,13 +1,12 @@
-import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
-
-import { IRelationDetail, ITableAction, ITableColumn, IUnknownObject } from '../../conti-table.types';
+import { Component, OnInit, Input } from '@angular/core';
+import { ITableAction, ITableColumn, IUnknownObject } from '../../conti-table.types';
 
 @Component({
-  selector: '[table-row]',
-  templateUrl: './table-row.component.html',
-  styleUrls: ['./table-row.component.scss']
+  selector: 'body-row-adapter',
+  templateUrl: './body-row-adapter.component.html',
+  styleUrls: ['./body-row-adapter.component.scss']
 })
-export class TableRowComponent implements OnInit {
+export class BodyRowAdapterComponent implements OnInit {
 
   /**
    * A collection of action items that can be applied to 
@@ -25,7 +24,7 @@ export class TableRowComponent implements OnInit {
    * 
    * A list of objects describing each column */
   @Input() columns: ITableColumn[] = [];
- 
+
   /**
    * Data
    * 
@@ -36,23 +35,19 @@ export class TableRowComponent implements OnInit {
    * Data
    * 
    * A collection of records to render as rows */
-   @Input() recordID!: string;
+  @Input() recordID!: string;
 
   public hasRelation: boolean = false;
 
   public relationConfig!: IUnknownObject;
 
-  public renderableColumns: ITableColumn[] = [];
-
-  constructor() {}
+  constructor() { }
 
   ngOnInit(): void {
     const relationColumn = this.columns.filter((column) => (column.type === 'relation')).shift();
-    const renderableColumns = this.columns.filter((column) => column.type !== 'relation');
 
     this.relationConfig = relationColumn?.config?.config || {};
     this.hasRelation = Boolean(relationColumn);
-
-    this.renderableColumns = renderableColumns;
   }
+
 }

@@ -1,7 +1,15 @@
-<tr table-row *ngFor="let record of data"
-    [actions]="actions"
-    [isSelectable]="isSelectable"
-    [columns]="getVisibleColumns()"
-    [record]="record"
-    [recordID]="getRecordID(record)"
-></tr>
+<ng-container *ngFor="let record of data">
+    <tr table-row
+        [actions]="actions"
+        [isSelectable]="isSelectable"
+        [columns]="getVisibleColumns()"
+        [record]="record"
+        [recordID]="getRecordID(record)"
+    ></tr>
+    <tr relation-detail *ngIf="hasRelation"
+        [ngClass]="'as-row'"
+        [recordID]="getRecordID(record)"
+        [config]="relationConfig"
+        [size]="getVisibleColumns().length + actions.length + (isSelectable ? 1 : 0)">
+    </tr>
+</ng-container>

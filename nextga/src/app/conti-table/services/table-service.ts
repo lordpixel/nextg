@@ -41,6 +41,16 @@ export class TableService {
   readonly page$ = this._page.asObservable().pipe(
     shareReplay(1) // cache and share among subscribers
   );
+  
+  /**
+  * Behavior Subject for relations' state */
+  private readonly _relation = new BehaviorSubject<IUnknownObject>({});
+ 
+  /**
+    * TBD */
+  readonly relation$ = this._relation.asObservable().pipe(
+    shareReplay(1) // cache and share among subscribers
+  );
 
   /**
     * Behavior Subject for the query string */
@@ -243,5 +253,15 @@ export class TableService {
 
     // publish page state update
     this._selection.next(newSelectionState);
+  }
+
+  toggleRelation(id: string) {
+    const oldRelationState = this._relation.getValue();
+    const isRelationOpen = Boolean(oldRelationState[id]);
+
+    this._relation.next({
+      ...oldRelationState,
+      [id]: !isRelationOpen,
+    })
   }
 }

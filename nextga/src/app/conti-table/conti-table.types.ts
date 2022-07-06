@@ -45,7 +45,7 @@ export interface ITableColumn {
     isSortable?: boolean,
     sortAttribute?: string,
 
-    config?: IColorCell | ILinkCell | IStatusCell | ITextCell | IToggleCell | IProgressCell,
+    config?: IRelationCell | ILinkCell | IStatusCell | ITextCell | IToggleCell | IProgressCell,
 }
 
 export interface ITableServiceState {
@@ -58,6 +58,7 @@ export interface ITableServiceState {
 export interface IColorCell {
     size: number,
     title?: string,
+    config?: IUnknownObject,
 }
 
 export interface ILinkCell {
@@ -66,29 +67,45 @@ export interface ILinkCell {
     title?: string,
     url?: string,
     target?: string,
+    config?: IUnknownObject,
 }
 
 export interface IStatusCell {
     name?: string,
     size: number,
+    config?: IUnknownObject,
 }
 
-export interface ITextCell {}
+export interface ITextCell {
+    config?: IUnknownObject
+}
 
 export interface IToggleCell {
     name?: string,
     title?: string,
+    config?: IUnknownObject,
 }
 
 export interface IProgressCell {
     title?: string,
     size?: number,
+    config?: IUnknownObject,
 }
 
 export interface ITableAction {
     icon: string,
     name: string,
     title: string,
+}
+
+export interface IRelationCell {
+    type: string,
+    config?: IRelationDetail
+}
+
+export interface IRelationDetail {
+    type?: string,
+    config?: IUnknownObject,
 }
 
 export interface ITableActionEvent {

@@ -103,5 +103,6 @@ export interface ITableLabels {
     no: string,
     page: string,
     page_size: string,
-    no_data: string
+    no_data: string,
+    in_selection: string,
 }

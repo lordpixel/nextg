@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, OnInit, Output, OnDestroy } from '@angular/core';
+import { Component, ElementRef, Input, OnInit, Output, OnDestroy, ViewChild } from '@angular/core';
 import { Subscription } from 'rxjs';
 
 import { TableService } from '../../services/table-service';
@@ -9,6 +9,9 @@ import { TableService } from '../../services/table-service';
   styleUrls: ['./selection-toggle.component.scss']
 })
 export class SelectionToggleComponent implements OnInit {
+  /**
+   * A reference to the input DOM Element */
+  @ViewChild('checkbox', {static: true}) checkbox?: ElementRef;
 
   /**
    * isMaster
@@ -27,6 +30,10 @@ export class SelectionToggleComponent implements OnInit {
    * 
    * The ID of the record whose selection state is controlled by this toggle */
   @Input() recordID!: string;
+
+  /**
+   * Total number of records for the current query, including all pages */
+  @Input() totalCount: number = 0;
   
   /**
    * isChecked
@@ -56,22 +63,37 @@ export class SelectionToggleComponent implements OnInit {
 
   handleCheckboxClick() {
     if (this.isMaster) {
-      this.table.toggleSelection(this.recordID, this.isMaster, this.recordsetIDs);
+      this.table.toggleSelection(this.recordID, this.isMaster, this.recordsetIDs, this.totalCount);
     } else {
       this.table.toggleSelection(this.recordID, this.isMaster);
     }
   }
 
   handleSelectionChange(selection: string[]) {
-    const isRecordIdInSelection = selection.includes(this.recordID);
-    
+    const checkbox = this.checkbox?.nativeElement;
+
     if (this.isMaster) {
-      this.isIndeterminate = selection.length > 0 && selection.length < this.recordsetIDs?.length;
-      this.isChecked = Boolean(selection.length) && selection.length === this.recordsetIDs.length;
-      return; 
+      const selectedIDs = this.recordsetIDs.filter((id) => selection.includes(id));
+
+      if (this.totalCount < 1 || selection.length === 0) {
+        this.isChecked = false;
+        checkbox.indeterminate = false;
+        return;
+      }
+
+      if (selection.length >= 1) {
+        if (selection.length < this.totalCount) {
+          this.isChecked = false;
+          checkbox.indeterminate = true;
+        } else {
+          this.isChecked = true;
+          checkbox.indeterminate = false;
+        }
+      }
+    
+      return;
     }
 
-    this.isChecked = isRecordIdInSelection;
+    this.isChecked = selection.includes(this.recordID);
   }
-
 }

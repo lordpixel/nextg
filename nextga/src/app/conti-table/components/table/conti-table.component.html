@@ -4,6 +4,7 @@
     [hasActions]="actions.length > 0"
     [isSelectable]="isSelectable"
     [recordsetIDs]="extractRecordsetIDs()"
+    [totalCount]="total"
     >
 </thead>
 
@@ -12,7 +13,8 @@
     [labels]="labels"
     [modelSingular]="modelSingular"
     [modelPlural]="modelPlural"
-    [total]="total">
+    [total]="total"
+    [selectionStatus]="selectionStatus">
 </caption >
 
 <tbody *ngIf="isLoading" class="message">

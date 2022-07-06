@@ -2,6 +2,7 @@
     <div *ngIf="count >= 1">
         <span *ngIf="count < page_size">{{labels.displaying}} {{page_size * (page || 1)  - page_size +1}} - {{total}} {{count === 1 ? modelSingular : modelPlural}} {{labels.of}} {{total}}</span>
         <span *ngIf="count === page_size">{{labels.displaying}}  {{page_size * (page || 1) - page_size +1}} - {{count * (page || 1)}} {{count === 1 ? modelSingular : modelPlural}} {{labels.of}} {{total}}</span>
+        <span *ngIf="selectionStatus">&nbsp;{{selectionStatus}}</span>
     </div>
         
     <span *ngIf="count <= 0">{{labels.no}}  {{modelPlural}}</span>

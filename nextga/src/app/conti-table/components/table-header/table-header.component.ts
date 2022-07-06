@@ -34,6 +34,10 @@ export class TableHeaderComponent implements OnInit {
    * A list of IDs present in the current recordset */
   @Input() recordsetIDs: string[] = [];
 
+  /**
+   * Total number of records for the current query, including all pages */
+  @Input() totalCount: number = 0;
+
   constructor(private state: TableService) { }
 
   ngOnInit(): void {

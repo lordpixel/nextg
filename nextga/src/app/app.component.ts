@@ -134,7 +134,7 @@ export class AppComponent implements OnInit{
   ];
 
   isLoading: boolean = false;
-  selection: IUnknownObject[] = [];
+  selection: string[] = [];
   total: number = 0;
   
   constructor(private state: StateService) {
@@ -160,7 +160,7 @@ export class AppComponent implements OnInit{
     this.state.fetchData.emit(query);
   }
 
-  handleSelectionChange(newSelection: IUnknownObject[]) {
+  handleSelectionChange(newSelection: string[]) {
     this.selection = newSelection;
   }
 

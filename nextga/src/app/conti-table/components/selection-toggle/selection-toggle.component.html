@@ -1,6 +1,7 @@
 <input
     (click)="handleCheckboxClick()"
+    [checked]="isChecked"
     [indeterminate]="isIndeterminate"
     type="checkbox"
-    [checked]="isChecked"
+    #checkbox
 />

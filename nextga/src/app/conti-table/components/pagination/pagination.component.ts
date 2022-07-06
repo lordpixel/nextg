@@ -44,6 +44,10 @@ export class PaginationComponent implements OnInit {
    * Note: this count is not the same as page_size. */
   @Input() total: number = 0;
 
+  /**
+   * A text describing the selection status */
+  @Input() selectionStatus: string = '';
+  
   page: number | undefined = 0;
   page_size: number = 10;
   pageOptions: ISelectOption[] = [{label: '1', value: 1}];
@@ -80,7 +84,6 @@ export class PaginationComponent implements OnInit {
     const incomingValue = event.target.value;
     const parsedSize = typeof incomingValue === 'number' ? incomingValue : parseInt(incomingValue);
 
-    console.log('handlePageSizeSelect: ', parsedSize)
     this.generatePageUpdate(1, parsedSize);
   }
 
@@ -88,7 +91,6 @@ export class PaginationComponent implements OnInit {
     const incomingValue = event.target.value;
     const parsedPage = typeof incomingValue === 'number' ? incomingValue : parseInt(incomingValue);
 
-    console.log('handlePageSelect', parsedPage)
     this.generatePageUpdate(parsedPage, this.page_size || 10);
   }
 
@@ -107,7 +109,12 @@ export class PaginationComponent implements OnInit {
     // if page_size changes, reset to page 1
     if (page !== this.page) {
       newPage.page = page;
-      newPage.page_size = this.page_size;
+
+      if (size !== this.page_size) {
+        newPage.page_size = size;
+      } else {
+        newPage.page_size = this.page_size;
+      }
     } else if (size !== this.page_size) {
       newPage.page = 1;
       newPage.page_size = size;

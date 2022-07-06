@@ -54,7 +54,7 @@ export class TableService {
 
   /**
     * Behavior Subject for the query string */
-  private readonly _selection = new BehaviorSubject<string[]>([]);
+  public readonly _selection = new BehaviorSubject<string[]>([]);
  
   /**
     * TBD */
@@ -191,15 +191,34 @@ export class TableService {
     }
   }
 
-  toggleSelection(recordID: string, isMaster: boolean = false, allIDs: string[] = []) {
+  toggleSelection(recordID: string, isMaster: boolean = false, allIDs: string[] = [], totalCount: number = 0) {
     const oldSelectionState = this._selection.getValue();
 
     // select/unselect all
     if (isMaster) {
-      if (oldSelectionState.length < allIDs.length) {
-        this._selection.next([...allIDs]);
+      const selectedIDs = allIDs.filter((id) => oldSelectionState.includes(id));
+
+      if (selectedIDs.length === allIDs.length) {
+        /**
+         * All selectable ids are selected, next
+         * action is to remove them all from selection */
+        const newSelection = oldSelectionState.reduce((newSelection: string[], id: string): string[] => {
+          if (!allIDs.includes(id)) {
+            newSelection.push(id);
+          }
+
+          return newSelection;
+        }, []);
+
+        this._selection.next(newSelection);
+      } else if (selectedIDs.length >= 1 && selectedIDs.length < allIDs.length) {
+        /**
+         * There still are some ids potentially selectable, next
+         * action is to add them to selection */
+        const unselectedIDs = allIDs.filter((id) => !selectedIDs.includes(id));
+        this._selection.next([...oldSelectionState, ...unselectedIDs]);
       } else {
-        this._selection.next([]);
+        this._selection.next([...oldSelectionState, ...allIDs]);
       }
 
       return;

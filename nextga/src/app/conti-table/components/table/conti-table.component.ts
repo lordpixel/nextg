@@ -83,7 +83,8 @@ export class ContiTableComponent implements OnInit, OnDestroy {
     no: 'Sin',
     page: 'Página',
     page_size: 'Limite',
-    no_data: 'Sin Datos'
+    no_data: 'Sin Datos',
+    in_selection: 'selected'
   };
 
   /**
@@ -111,7 +112,7 @@ export class ContiTableComponent implements OnInit, OnDestroy {
    * onSelection()
    * 
    * An EventEmitter to handle selection updates. */
-  @Output() onSelection = new EventEmitter<IUnknownObject[]>();
+  @Output() onSelection = new EventEmitter<string[]>();
 
   /**
    * onQueryUpdate()
@@ -125,6 +126,8 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   private selectionSub?: Subscription;
 
   private actionSub?: Subscription;
+
+  public selectionStatus: string = '';
 
   constructor(private table: TableService) {
     this.querySub = this.table.query$.subscribe(this.handleQueryUpdate.bind(this));
@@ -158,9 +161,13 @@ export class ContiTableComponent implements OnInit, OnDestroy {
   }
 
   handleSelectionChange(newSelection: string[]) {
-    const selectedRecords = this.data.filter((record) => newSelection.includes(record[this.idProperty]));
+    // manu: We cannot keep track of objects 'cause of memory concerns
+    // it is much more difficult to handle objects as it would require us to do a lot of computing 
+    // to find out if items are selected, undelected, etc...
+    // const selectedRecords = this.data.filter((record) => newSelection.includes(record[this.idProperty]));
 
-    this.onSelection.emit(selectedRecords);
+    this.selectionStatus = `(${newSelection.length} ${this.labels.in_selection})`;
+    this.onSelection.emit(newSelection);
   }
 
   extractRecordsetIDs() {

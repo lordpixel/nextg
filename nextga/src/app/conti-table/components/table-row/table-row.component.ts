@@ -1,4 +1,4 @@
-import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 import { ITableAction, ITableColumn, IUnknownObject } from '../../conti-table.types';
 
@@ -31,12 +31,6 @@ export class TableRowComponent implements OnInit {
    * 
    * A collection of records to render as rows */
   @Input() record!: IUnknownObject;
-
-  /**
-   * Data
-   * 
-   * A collection of records to render as rows */
-   @Input() recordID!: string;
 
   constructor() {}
 

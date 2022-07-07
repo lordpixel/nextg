@@ -49,10 +49,12 @@ export interface ITableColumn {
 }
 
 export interface ITableServiceState {
-    filters: IUnknownObject,
-    page: IPaginationState,
-    selection: string[],
-    sort: ISortState
+    filters?: IUnknownObject,
+    page?: IPaginationState,
+    sort?: ISortState,
+    idProperty: string,
+    data?: Map<string, IUnknownObject>
+    totalCount?: number
 }
 
 export interface IColorCell {

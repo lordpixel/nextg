@@ -8,6 +8,32 @@ import {ESortOrder, IPaginationState, ISortState, ITableActionEvent, ITableServi
 @Injectable()
 export class TableService {
 
+  public idProperty: string = '';
+
+  public readonly _totalCount = new BehaviorSubject<number>(0);
+
+  /**
+    * TBD */
+  public readonly totalCount$ = this._totalCount.asObservable().pipe(
+    shareReplay(1) // cache and share among subscribers
+  );
+
+  public readonly _data = new BehaviorSubject<Map<string, IUnknownObject>>(new Map());
+
+  /**
+    * TBD */
+  public readonly data$ = this._data.asObservable().pipe(
+    shareReplay(1) // cache and share among subscribers
+  );
+
+  public readonly _dataIDs = new BehaviorSubject<string[]>([]);
+
+  /**
+    * TBD */
+  public readonly dataID$ = this._dataIDs.asObservable().pipe(
+    shareReplay(1) // cache and share among subscribers
+  );
+
   /**
     * Behavior Subject to keep track of filters and their values */
   public readonly action$ = new EventEmitter<ITableActionEvent>();
@@ -41,6 +67,16 @@ export class TableService {
   readonly page$ = this._page.asObservable().pipe(
     shareReplay(1) // cache and share among subscribers
   );
+  
+  /**
+  * Behavior Subject for relations' state */
+  private readonly _relation = new BehaviorSubject<IUnknownObject>({});
+ 
+  /**
+    * TBD */
+  readonly relation$ = this._relation.asObservable().pipe(
+    shareReplay(1) // cache and share among subscribers
+  );
 
   /**
     * Behavior Subject for the query string */
@@ -54,7 +90,7 @@ export class TableService {
 
   /**
     * Behavior Subject for the query string */
-  public readonly _selection = new BehaviorSubject<string[]>([]);
+  public readonly _selection: BehaviorSubject<Map<string, IUnknownObject>> =  new BehaviorSubject<Map<string, IUnknownObject>>(new Map());
  
   /**
     * TBD */
@@ -173,75 +209,111 @@ export class TableService {
 
   hydrate(state: ITableServiceState) {
 
-    this._filter.next({});
-    Object.entries(state.filters || {}).forEach(
-      ([attribute, value]) => this.setFilters(attribute, value, true)
-    );
-
-    if (state.page.page || state.page.page === 0 && state.page.page_size) {
-      this.setPage(state.page.page, state.page.page_size);
+    if (Object.entries(state?.filters || {}).length) {
+      this._filter.next({}); // comment this to keep old filters
+      Object.entries(state.filters || {}).forEach(
+        ([attribute, value]) => this.setFilters(attribute, value, true)
+      );
     }
 
-    this._selection.next([]);
-    state.selection.forEach((recordID) => this.toggleSelection(recordID));
+    if (state?.page?.page || state?.page?.page === 0 && state.page.page_size) {
+      this.setPage(state.page.page, state.page.page_size);
+    }
     
-    if (state.sort.sort_by && state.sort.sort_order) {
+    if (state?.sort?.sort_by && state?.sort.sort_order) {
       this._sort.next({});
-      this.setSort(state.sort.sort_by, state.sort.sort_order);
+      this.setSort(state?.sort.sort_by, state?.sort.sort_order);
+    }
+
+    if (state?.idProperty && state.idProperty !== this.idProperty) {
+      this.idProperty = state.idProperty;
+    }
+
+    if (state?.data) {
+      let dataIDs: string[] = [];
+
+      state?.data?.forEach((record) => dataIDs.push(record[this.idProperty]));
+      this._dataIDs.next(dataIDs);
+      this._data.next(state.data);
+    }
+
+    if (state?.totalCount && state.totalCount >= 0) {
+      this._totalCount.next(state.totalCount);
     }
   }
 
-  toggleSelection(recordID: string, isMaster: boolean = false, allIDs: string[] = [], totalCount: number = 0) {
+  toggleSelection(
+    record: IUnknownObject,
+    isMaster: boolean = false,
+  ) {
     const oldSelectionState = this._selection.getValue();
+    const data =  this._data.getValue();
 
-    // select/unselect all
+    // the following logic runs only for main selection toggle
     if (isMaster) {
-      const selectedIDs = allIDs.filter((id) => oldSelectionState.includes(id));
+      // get current page' selected records
+      let selectedIDs = new Map();
+      data.forEach((record) => {
+        const recordID = record[this.idProperty];
+        
+        if (oldSelectionState.has(recordID)) {
+          selectedIDs.set(recordID, record);
+        }
+      });
 
-      if (selectedIDs.length === allIDs.length) {
+      if (selectedIDs.size === data.size) {
         /**
          * All selectable ids are selected, next
          * action is to remove them all from selection */
-        const newSelection = oldSelectionState.reduce((newSelection: string[], id: string): string[] => {
-          if (!allIDs.includes(id)) {
-            newSelection.push(id);
+        let newSelection = new Map();
+        
+        oldSelectionState.forEach((item: IUnknownObject) => {
+          if (!data.has(item[this.idProperty])) {
+            newSelection.set(item[this.idProperty], item);
           }
-
-          return newSelection;
-        }, []);
+        });
 
         this._selection.next(newSelection);
-      } else if (selectedIDs.length >= 1 && selectedIDs.length < allIDs.length) {
+      } else {
         /**
          * There still are some ids potentially selectable, next
          * action is to add them to selection */
-        const unselectedIDs = allIDs.filter((id) => !selectedIDs.includes(id));
-        this._selection.next([...oldSelectionState, ...unselectedIDs]);
-      } else {
-        this._selection.next([...oldSelectionState, ...allIDs]);
+        data.forEach((record) => {
+          const recordID = record[this.idProperty];
+          
+          if (!oldSelectionState.has(recordID)) {
+            oldSelectionState.set(recordID, record);
+          }
+        });
+        
+        this._selection.next(oldSelectionState);
       }
 
       return;
     }
 
-    // see if the record is selected
-    const isSelected = oldSelectionState.find((selectedID) => recordID === selectedID);
+    // further logic runs only for regular selection toggles, the ones we render for each row.
 
-    let newSelectionState: string[];
+    // see if the record is selected
+    const isSelected = oldSelectionState.has(record[this.idProperty]);
 
     if (isSelected) {
-      newSelectionState = oldSelectionState.reduce<string[]>((newSelection, selectedID) => {
-        if (recordID !== selectedID) {
-          newSelection.push(selectedID);
-        }
-  
-        return newSelection;
-      }, []);
+      oldSelectionState.delete(record[this.idProperty]);
     } else {
-      newSelectionState = [...oldSelectionState, recordID];
+      oldSelectionState.set(record[this.idProperty], record);
     }
 
     // publish page state update
-    this._selection.next(newSelectionState);
+    this._selection.next(oldSelectionState);
+  }
+
+  toggleRelation(id: string) {
+    const oldRelationState = this._relation.getValue();
+    const isRelationOpen = Boolean(oldRelationState[id]);
+
+    this._relation.next({
+      ...oldRelationState,
+      [id]: !isRelationOpen,
+    })
   }
 }

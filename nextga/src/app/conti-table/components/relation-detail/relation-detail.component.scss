@@ -1,14 +1,39 @@
 :host {
     
+    td {
+        overflow: hidden;
+
+        section {
+            transition: all 0.5s 0.1s ease;
+            padding: 2rem;
+        }
+    }
+
     &.open {
         border: inherit;
 
         td {
-            display: table-cell;
+            section {
+                max-height: 400px;
+                opacity: 1;
+            }
         }
     }
 
     &.closed {
-        display: none;
+        border: none;
+        padding: 0;
+
+        td {
+            border: none;
+            padding: 0;
+
+            section {
+                border: none;
+                padding: 0;
+                opacity: 0;
+                max-height: 0;
+            }
+        }
     }
 }

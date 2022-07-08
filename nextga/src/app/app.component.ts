@@ -172,6 +172,7 @@ export class AppComponent implements OnInit{
 
   handleSelectionChange(newSelection: string[]) {
     this.selection = newSelection;
+    console.log('selection: ', this.selection)
   }
 
 }

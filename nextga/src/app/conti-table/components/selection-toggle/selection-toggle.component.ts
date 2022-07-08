@@ -1,6 +1,7 @@
 import { Component, ElementRef, Input, OnInit, Output, OnDestroy, ViewChild } from '@angular/core';
 import { Subscription } from 'rxjs';
 
+import { IUnknownObject } from '../../conti-table.types';
 import { TableService } from '../../services/table-service';
 
 @Component({
@@ -18,22 +19,11 @@ export class SelectionToggleComponent implements OnInit {
    * 
    * Specifies if the checkbox controls selection for all records in the collection*/
   @Input() isMaster?: boolean = false;
+  
 
   /**
-   * recordsetIDs
-   * 
-   * Specifies if the checkbox controlsselection for all records in the collection*/
-  @Input() recordsetIDs: string[] = [];
-
-  /**
-   * recordID
-   * 
-   * The ID of the record whose selection state is controlled by this toggle */
-  @Input() recordID!: string;
-
-  /**
-   * Total number of records for the current query, including all pages */
-  @Input() totalCount: number = 0;
+   * The record which this toggle controls selection for */
+  @Input() record!: IUnknownObject;
   
   /**
    * isChecked
@@ -49,7 +39,7 @@ export class SelectionToggleComponent implements OnInit {
 
   isIndeterminate: boolean = false;
 
-  constructor(private table: TableService) {
+  constructor(public table: TableService) {
     this.handleSelectionChange = this.handleSelectionChange.bind(this);
   }
  
@@ -62,27 +52,23 @@ export class SelectionToggleComponent implements OnInit {
   }
 
   handleCheckboxClick() {
-    if (this.isMaster) {
-      this.table.toggleSelection(this.recordID, this.isMaster, this.recordsetIDs, this.totalCount);
-    } else {
-      this.table.toggleSelection(this.recordID, this.isMaster);
-    }
+    this.table.toggleSelection(this.isMaster ? {} : this.record, this.isMaster);
   }
 
-  handleSelectionChange(selection: string[]) {
+  handleSelectionChange(selection: Map<string, IUnknownObject>) {
+    debugger
     const checkbox = this.checkbox?.nativeElement;
+    const totalCount = this.table._totalCount.getValue();
 
     if (this.isMaster) {
-      const selectedIDs = this.recordsetIDs.filter((id) => selection.includes(id));
-
-      if (this.totalCount < 1 || selection.length === 0) {
+      if (totalCount < 1 || selection.size === 0) {
         this.isChecked = false;
         checkbox.indeterminate = false;
         return;
       }
 
-      if (selection.length >= 1) {
-        if (selection.length < this.totalCount) {
+      if (selection.size >= 1) {
+        if (selection.size < totalCount) {
           this.isChecked = false;
           checkbox.indeterminate = true;
         } else {
@@ -94,6 +80,8 @@ export class SelectionToggleComponent implements OnInit {
       return;
     }
 
-    this.isChecked = selection.includes(this.recordID);
+    debugger
+
+    this.isChecked = selection.has(this.record[this.table.idProperty]);
   }
 }

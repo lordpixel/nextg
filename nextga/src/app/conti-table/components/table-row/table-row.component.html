@@ -1,5 +1,5 @@
 <td *ngIf="isSelectable">
-    <selection-toggle [recordID]="recordID" type="checkbox" ></selection-toggle>
+    <selection-toggle [record]="record" type="checkbox" ></selection-toggle>
 </td>
 <td relation-cell *ngIf="hasRelation"
     [recordID]="recordID">

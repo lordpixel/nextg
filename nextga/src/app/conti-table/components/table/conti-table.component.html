@@ -3,8 +3,6 @@
     [columns]="getVisibleColumns()"
     [hasActions]="actions.length > 0"
     [isSelectable]="isSelectable"
-    [recordsetIDs]="extractRecordsetIDs()"
-    [totalCount]="total"
     >
 </thead>
 
@@ -34,8 +32,6 @@
 <tbody table-body
     [actions]="actions"
     [columns]="columns"
-    [data]="data"
-    [idProperty]="idProperty"
     [isSelectable]="isSelectable"
     >
 </tbody >

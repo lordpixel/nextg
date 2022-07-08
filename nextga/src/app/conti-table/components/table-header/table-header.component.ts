@@ -1,8 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 
 import { ITableColumn } from '../../conti-table.types';
-import { TableService } from '../../services/table-service';
-
 
 @Component({
   selector: '[table-header]',
@@ -27,18 +25,8 @@ export class TableHeaderComponent implements OnInit {
    * 
    * Specifies if the table allows record selection */
   @Input() isSelectable: boolean = false;
-  
-  /**
-   * Recordset IDs
-   * 
-   * A list of IDs present in the current recordset */
-  @Input() recordsetIDs: string[] = [];
 
-  /**
-   * Total number of records for the current query, including all pages */
-  @Input() totalCount: number = 0;
-
-  constructor(private state: TableService) { }
+  constructor() { }
 
   ngOnInit(): void {
   }

@@ -1,14 +1,15 @@
-import { Component, Input, OnInit } from '@angular/core';
-import { IUnknowObject } from 'src/app/app.types';
+import { Component, Input, OnDestroy, OnInit } from '@angular/core';
+import { Subscription } from 'rxjs';
 
 import {ITableAction, ITableColumn, IUnknownObject} from '../../conti-table.types';
+import { TableService } from '../../services/table-service';
 
 @Component({
   selector: '[table-body]',
   templateUrl: './table-body.component.html',
   styleUrls: ['./table-body.component.scss']
 })
-export class TableBodyComponent implements OnInit {
+export class TableBodyComponent implements OnInit, OnDestroy {
 
   /**
    * A collection of action items that can be applied to 
@@ -20,19 +21,6 @@ export class TableBodyComponent implements OnInit {
    * 
    * A list of objects describing each column */
   @Input() columns: ITableColumn[] = [];
- 
-  /**
-   * Data
-   * 
-   * A collection of records to render as rows */
-  @Input() data!: IUnknownObject[];
-
-  /**
-   * ID property
-   * 
-   * Specifies the property of Data that is unique among records.
-   * This is used for selection purposes. Use a unique identifier. */
-  @Input() idProperty!: string;
 
   /**
    * Is selectable
@@ -40,17 +28,27 @@ export class TableBodyComponent implements OnInit {
    * Specifies if the table allows record selection */
   @Input() isSelectable: boolean = false;
 
-  public hasRelation: boolean = false;
+  public data: IUnknownObject[] = [];
+  
+  dataSub?: Subscription;
 
-  public relationConfig!: IUnknownObject;
+  constructor(public table: TableService) {
 
-  constructor() {}
+  }
 
   ngOnInit(): void {
-    const relationColumn = this.columns.filter((column) => (column.type === 'relation')).shift();
+    this.dataSub = this.table.data$.subscribe(this.handleDataChange.bind(this));
+  }
 
-    this.relationConfig = relationColumn?.config?.config || {};
-    this.hasRelation = Boolean(relationColumn);
+  ngOnDestroy(): void {
+    this?.dataSub?.unsubscribe();
+  }
+
+  handleDataChange(data: Map<string, IUnknownObject>) {
+    const iterableData: IUnknownObject[] = [];
+
+    data.forEach((record) => iterableData.push(record));
+    this.data = iterableData;
   }
 
   getVisibleColumns() {
@@ -63,9 +61,4 @@ export class TableBodyComponent implements OnInit {
       return visibleColumns;
     }, []);
   }
-
-  getRecordID(record: IUnknowObject): string {
-    return record[this.idProperty];
-  }
-
 }

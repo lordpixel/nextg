@@ -112,7 +112,8 @@ export interface IRelationDetail {
 
 export interface ITableActionEvent {
     action: string,
-    record: IUnknownObject
+    record: IUnknownObject,
+    relation?: IUnknownObject,
 }
 
 export interface ITableLabels {

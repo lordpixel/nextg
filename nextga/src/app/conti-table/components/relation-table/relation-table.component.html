@@ -1,0 +1,42 @@
+<h3>{{modelPlural}}</h3>
+<hr />
+
+<caption>
+    <button *ngFor="let action of actions"
+        type="button"
+        (click)="handleTableAction(action)">
+        {{action.title}}
+    </button>
+</caption>
+<table>
+    <thead>
+        <tr>
+            <th *ngFor="let column of columns">
+                {{column.label}}
+            </th>
+            <th *ngIf="rowActions.length">
+                &nbsp;
+            </th>
+        </tr>
+    </thead>
+
+    <tbody *ngIf="data.length === 0" class="message">
+        <tr>
+            <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">{{labels['no_data']}}</td>
+        </tr>
+    </tbody>
+
+    <tbody *ngIf="data.length > 0">
+        <tr *ngFor="let record of data">
+            <td *ngFor="let column of columns">
+                {{record[column.attribute]}}
+            </td>
+            <td *ngIf="rowActions.length > 0">
+                <icon *ngFor="let action of rowActions"
+                    (click)="handleRowAction(action, record)"
+                    [name]="action.icon"
+                    [title]="action.title"></icon>
+            </td>
+        </tr>
+    </tbody>
+</table>

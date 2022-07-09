@@ -4,8 +4,12 @@
         overflow: hidden;
 
         section {
-            transition: all 0.5s 0.1s ease;
+            transition: all 0.5s 0s ease;
             padding: 2rem;
+            
+            h3 {
+                margin: 0.5rem 0rem 0.5rem 0;
+            }
         }
     }
 
@@ -33,6 +37,7 @@
                 padding: 0;
                 opacity: 0;
                 max-height: 0;
+
             }
         }
     }

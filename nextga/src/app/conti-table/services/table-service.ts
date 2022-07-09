@@ -316,14 +316,4 @@ export class TableService {
       [id]: !isRelationOpen,
     })
   }
-
-  toggleRelation(id: string) {
-    const oldRelationState = this._relation.getValue();
-    const isRelationOpen = Boolean(oldRelationState[id]);
-
-    this._relation.next({
-      ...oldRelationState,
-      [id]: !isRelationOpen,
-    })
-  }
 }

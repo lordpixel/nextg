@@ -7,9 +7,11 @@
         [recordID]="getRecordID(record)"
     ></tr>
     <tr relation-detail *ngIf="hasRelation"
+        [attribute]="relationAttribute"
         [ngClass]="'as-row'"
         [recordID]="getRecordID(record)"
         [config]="relationConfig"
+        [type]="relationConfig['type']"
         [size]="getVisibleColumns().length + actions.length + (isSelectable ? 1 : 0)">
     </tr>
 </ng-container>

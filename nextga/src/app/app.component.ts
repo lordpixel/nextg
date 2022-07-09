@@ -75,13 +75,52 @@ export class AppComponent implements OnInit{
       type: 'text',
     },
     {
-      attribute: 'roles',
-      label: 'Roles',
-      sortAttribute: 'vehicle.roles',
+      attribute: 'services',
+      label: 'Services',
       type: 'relation',
       config: {
+        actions: [
+          {
+            icon: 'filter',
+            name: 'add.service',
+            title: 'Add Service'
+          }
+        ],
+        columns: [
+          {
+            attribute: 'id',
+            label: 'ID',
+          },
+          {
+            attribute: 'date',
+            label: 'Date',
+          },
+          {
+            attribute: 'emissions',
+            label: 'Emissions',
+          },
+          {
+            attribute: 'combustion',
+            label: 'Combustion',
+          },
+          {
+            attribute: 'exterior',
+            label: 'Exterior',
+          },
+        ],
+        labels: {
+          no_data: 'No Services'
+        },
+        modelPlural: 'Services',
+        modelSingular: 'Service',
+        rowActions: [
+          {
+            icon: 'bucket',
+            name: 'delete.service',
+            title: 'Delete Service'
+          },
+        ],
         type: 'table',
-        
       }
     },
     {

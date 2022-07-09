@@ -12,9 +12,13 @@ export class RelationDetailComponent implements OnInit {
 
   @HostBinding('class') className: string = 'closed';
 
-  @Input() config!: IRelationDetail;
+  @Input() attribute!: string;
+
+  @Input() config!: IUnknownObject;
 
   @Input() recordID!: string;
+
+  @Input() type: string = 'table';
 
   @Input() size!: number;
 

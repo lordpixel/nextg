@@ -56,7 +56,6 @@ export class SelectionToggleComponent implements OnInit {
   }
 
   handleSelectionChange(selection: Map<string, IUnknownObject>) {
-    debugger
     const checkbox = this.checkbox?.nativeElement;
     const totalCount = this.table._totalCount.getValue();
 
@@ -79,8 +78,6 @@ export class SelectionToggleComponent implements OnInit {
     
       return;
     }
-
-    debugger
 
     this.isChecked = selection.has(this.record[this.table.idProperty]);
   }

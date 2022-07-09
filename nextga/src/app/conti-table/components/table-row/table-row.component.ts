@@ -39,9 +39,6 @@ export class TableRowComponent implements OnInit {
    @Input() recordID!: string;
 
   public hasRelation: boolean = false;
-
-  public relationConfig!: IUnknownObject;
-
   public renderableColumns: ITableColumn[] = [];
 
   constructor() {}
@@ -50,9 +47,7 @@ export class TableRowComponent implements OnInit {
     const relationColumn = this.columns.filter((column) => (column.type === 'relation')).shift();
     const renderableColumns = this.columns.filter((column) => column.type !== 'relation');
 
-    this.relationConfig = relationColumn?.config?.config || {};
     this.hasRelation = Boolean(relationColumn);
-
     this.renderableColumns = renderableColumns;
   }
 }

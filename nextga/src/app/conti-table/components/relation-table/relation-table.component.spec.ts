@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { BodyRowAdapterComponent } from './body-row-adapter.component';
+import { RelationTableComponent } from './relation-table.component';
 
-describe('BodyRowAdapterComponent', () => {
-  let component: BodyRowAdapterComponent;
-  let fixture: ComponentFixture<BodyRowAdapterComponent>;
+describe('RelationTableComponent', () => {
+  let component: RelationTableComponent;
+  let fixture: ComponentFixture<RelationTableComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ BodyRowAdapterComponent ]
+      declarations: [ RelationTableComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(BodyRowAdapterComponent);
+    fixture = TestBed.createComponent(RelationTableComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

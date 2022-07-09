@@ -29,8 +29,11 @@ export class TableBodyComponent implements OnInit, OnDestroy {
   @Input() isSelectable: boolean = false;
 
   public data: IUnknownObject[] = [];
-  
   dataSub?: Subscription;
+
+  public relationAttribute: string = '';
+  public hasRelation: boolean = false;
+  public relationConfig: IUnknownObject = {};
 
   constructor(public table: TableService) {
 
@@ -38,6 +41,13 @@ export class TableBodyComponent implements OnInit, OnDestroy {
 
   ngOnInit(): void {
     this.dataSub = this.table.data$.subscribe(this.handleDataChange.bind(this));
+    
+    const relationColumn = this.columns.filter((column) => (column.type === 'relation')).shift();
+    if (Boolean(relationColumn)) {
+      this.relationAttribute = relationColumn?.attribute || '';
+      this.relationConfig = relationColumn?.config || {};
+      this.hasRelation = true;
+    }
   }
 
   ngOnDestroy(): void {
@@ -49,6 +59,10 @@ export class TableBodyComponent implements OnInit, OnDestroy {
 
     data.forEach((record) => iterableData.push(record));
     this.data = iterableData;
+  }
+
+  getRecordID(record: IUnknownObject) {
+    return record[this.table.idProperty];
   }
 
   getVisibleColumns() {

@@ -137,7 +137,7 @@ constructor(private table: TableService) {
 ngOnInit(): void {
   // create a Map of the records in data
   const dataMap = new Map(this.data.map((record) => ([record[this.idProperty], record])));
-  debugger
+
   /**
    * sets default + initial states */
   this.table.hydrate({
@@ -169,7 +169,6 @@ ngOnChanges(changes: SimpleChanges): void {
 
   if (newData && newData !== oldData) {
     reHydratedState.data = new Map(newData.map((record: IUnknownObject) => ([record[this.idProperty], record])));
-    debugger
     newUpdates = true;
   }
 

@@ -25,7 +25,7 @@ import { ToggleCellComponent } from './components/toggle-cell/toggle-cell.compon
 import { ProgressCellComponent } from './components/progress-cell/progress-cell.component';
 import { RelationCellComponent } from './components/relation-cell/relation-cell.component';
 import { RelationDetailComponent } from './components/relation-detail/relation-detail.component';
-import { BodyRowAdapterComponent } from './components/body-row-adapter/body-row-adapter.component';
+import { RelationTableComponent } from './components/relation-table/relation-table.component';
 
 @NgModule({
   declarations: [
@@ -48,7 +48,7 @@ import { BodyRowAdapterComponent } from './components/body-row-adapter/body-row-
     ProgressCellComponent,
     RelationCellComponent,
     RelationDetailComponent,
-    BodyRowAdapterComponent
+    RelationTableComponent
   ],
   exports: [
     ContiTableComponent

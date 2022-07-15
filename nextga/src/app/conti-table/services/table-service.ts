@@ -70,7 +70,7 @@ export class TableService {
   
   /**
   * Behavior Subject for relations' state */
-  private readonly _relation = new BehaviorSubject<IUnknownObject>({});
+  public readonly _relation = new BehaviorSubject<IUnknownObject>({});
  
   /**
     * TBD */

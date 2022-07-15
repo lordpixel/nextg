@@ -22,7 +22,7 @@
 
     <tbody *ngIf="data.length === 0" class="message">
         <tr>
-            <td [colSpan]="columns.length" [ngStyle]="{textAlign: 'center'}">{{labels['no_data']}}</td>
+            <td [colSpan]="columns.length + (rowActions.length ? 1 : 0)" [ngStyle]="{textAlign: 'center'}">{{labels['no_data']}}</td>
         </tr>
     </tbody>
 

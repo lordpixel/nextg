@@ -12,3 +12,15 @@ th > div {
     display: flex;
     justify-content: space-between;
 }
+
+th.relation-icon {
+    text-align: center;
+
+    div {
+        text-align: left;
+    }
+
+    icon {
+        padding: 0;
+    }
+}

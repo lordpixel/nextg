@@ -2,11 +2,17 @@
     <br>
     <selection-toggle [isMaster]="true" type="checkbox"></selection-toggle>
 </th>
-<th *ngFor="let column of columns">
-    <div>
-        {{column.label}} <sort-input  *ngIf="column.isSortable" [attribute]="column.sortAttribute || column.attribute"></sort-input>
-    </div><br *ngIf="!column.isFiltrable">
-    <filter-input *ngIf="column.isFiltrable" [attribute]="column.attribute" ></filter-input>
+
+<th *ngIf="hasRelation"
+    [ngClass]="'relation-icon'">
+    <div>{{relationLabel}}</div>
+    <icon [name]="relationStatus" (click)="handleRelationToggle()"></icon>
+</th>
+<th *ngFor="let column of getRenderableColumns()">
+        <div>
+            {{column.label}} <sort-input  *ngIf="column.isSortable" [attribute]="column.sortAttribute || column.attribute"></sort-input>
+        </div><br *ngIf="!column.isFiltrable">
+        <filter-input *ngIf="column.isFiltrable" [attribute]="column.attribute" ></filter-input>
 </th>
 <th *ngIf="hasActions">
     &nbsp;
